@@ -1,0 +1,55 @@
+id,full_name,verdict,new_aptronym_score,new_review_status,new_aptronym_type,new_connection,new_name_origin,new_name_status,new_person_source_url,new_notes,reason
+apt-0008,Adam Riess,rescore,2,borderline,,Riess is a weak phonetic echo of rise for an astrophysicist who discovered cosmic acceleration.,,,,,Connection uses "resembles"; Nobel laureate but name fit is speculative at best.
+apt-0025,Alessandro Volta,reject,1,rejected,,,,,,,The volt unit was named after Volta; the name did not fit the work—the work took the name. Backwards eponym logic.
+apt-0028,Alfred Adler,rescore,3,,,,,,,Adler means eagle in German but Jung's will-to-power reading is anecdotal; no documented name-occupation link in sources.
+apt-0036,Allison Field,fix,4,,,Her surname Field matches her career as a television meteorologist like her father Frank Field.,,unknown,https://en.wikipedia.org/wiki/Frank_Field_(meteorologist),,person_source_url verified Frank Field not Allison; daughter confirmed in Frank Field Wikipedia; birth_name unverified for Allison.
+apt-0042,Amy Freeze,rescore,4,,,Her surname Freeze denotes cold weather she forecasts as a television meteorologist.,,,,,Score 5 inflated; connection used hedging "evokes" for a clear but not near-exact surname match.
+apt-0048,André-Marie Ampère,reject,1,rejected,,,,,,,The ampere unit was named after Ampère; backwards eponym—name followed the discovery not the reverse.
+apt-0054,Andrew Fountain,rescore,3,,,His surname Fountain names flowing water fitting a glaciologist who studies meltwater from glaciers.,,,,,Score 5 inflated; fountain-of-water link needs explanation and is not near-exact.
+apt-0082,Art Hawkins,fix,2,borderline,,,,,,,Source confirms waterfowl biologist not hawk researcher; Hawkins/hawks homophone is invented—the row misstates his specialty.
+apt-0095,Barbara Snow,rescore,3,,,Her surname Snow names frozen precipitation relevant to her decades of ornithological fieldwork in cold climates.,,,,,Score 5 inflated; connection hedged with "evokes" and snow is not specific to ornithology.
+apt-0112,Bernard Foing,rescore,2,borderline,,,,,,,"Foing sounds like going" is phonetic invention; lunar mission scientist but surname has no documented apt meaning.
+apt-0151,Brooke Brighton,rescore,2,borderline,,,,,,,Connection uses "evoking sunny"—invented semantic stretch on a place-name surname.
+apt-0160,Camilla Snowman Andresen,rescore,4,,,Her middle name Snowman names a snow figure fitting a professor who researches the Greenland Ice Sheet.,,,,,Middle-name aptronym is strong but not score-5 obvious; connection used "evokes."
+apt-0223,Clarence Gamble,rescore,2,borderline,,,,,,,Gamble/risk link uses "suggests"—speculative wordplay unrelated to contraception research.
+apt-0246,Dae-Sik Moon,rescore,2,borderline,,,,,,,Faculty page confirms supernova/GRB instrumentation work not lunar science; Moon is a common Korean surname.
+apt-0254,Daniel Snowman,rescore,3,,,His surname Snowman names snow fitting an author of polar exploration books.,,,,,Polar historian not glaciologist; connection hedged with "evokes."
+apt-0280,David Price,rescore,3,,,His surname Price names the economic variable central to his labour-economics research.,,,,,Economist named Price is a common-surname glance not a near-exact fit; score 5 inflated.
+apt-0284,David Snow,rescore,3,,,His surname Snow names frozen precipitation from decades of ornithological fieldwork in cold climates.,,,,,Ornithologist not cryosphere scientist; connection uses "evokes"; score 5 inflated.
+apt-0294,Dennis Bird,rescore,2,borderline,,,,,,,Stanford profile confirms geologist studying biogeochemistry not birds; connection falsely implies ornithological fit.
+apt-0304,Diana Woei,rescore,2,borderline,,,,,,,Notes already flag Woei/waaien as folk etymology; Dutch wiki confirms meteorologist but wind link is unsourced invention.
+apt-0380,Forrest B. Lee,rescore,4,,,His first name Forrest names woodlands fitting a waterfowl biologist colleagues called Father Goose.,,,,,First-name aptronym is legitimate but score 5 and "evokes" overstate a forename-only link.
+apt-0383,Frances Fry,rescore,3,,,Her surname Fry denotes heating by radiation fitting an NRPB radiation-protection scientist.,,,,,Fry/heating link uses "suggests"—weak semantic stretch.
+apt-0415,Georg Simon Ohm,reject,1,rejected,,,,,,,The ohm unit was named after Ohm; backwards eponym error.
+apt-0449,Glenn Seaborg,rescore,1,rejected,,,,,,,Element seaborgium was named after Seaborg; same backwards eponym logic as SI unit namesakes.
+apt-0467,Gregory Price,rescore,3,,,His surname Price names the economic variable he studies as a professor of economics.,,,,,Common economist surname; score 5 inflated per rubric.
+apt-0489,Heinrich Hertz,reject,1,rejected,,,,,,,The hertz unit was named after Hertz; backwards eponym error.
+apt-0494,Henry Bessemer,rescore,1,rejected,,,,,,,Bessemer process was named after Bessemer; the work took the name not the reverse.
+apt-0517,Hugh Fish,rescore,3,,,His surname Fish names the aquatic life he helped restore as a Thames water chemist.,,,,,Water chemist not ichthyologist; fish returned to Thames but he did not study fish—score 5 overstates authorship-style fit.
+apt-0520,Hugo Winter,reject,,rejected,,,,,,,Only named in New Scientist Feedback with no authoritative person page; Lancaster event archive URL is dead; person unverifiable.
+apt-0521,Humphry Davy,rescore,1,rejected,,,,,,,Davy lamp was named after Davy; backwards eponym—the invention took his name.
+apt-0532,Isaac Newton,reject,1,rejected,,,,,,,The newton unit was named after Newton; backwards eponym error.
+apt-0561,James Joule,reject,1,rejected,,,,,,,The joule unit was named after Joule; backwards eponym error.
+apt-0565,James Marshall Shepherd,rescore,2,borderline,,,,,,,Shepherd/open-land weather link uses "evokes"—generic surname with invented pastoral imagery.
+apt-0573,James Watt,reject,1,rejected,,,,,,,The watt unit was named after Watt; backwards eponym error.
+apt-0610,Jodie Crane,rescore,3,,,Her surname Crane names a bird family within ornithology though her research focuses on babblers and seabirds.,,,,,UCC profile confirms babblers/seabirds not cranes; ornithologist named Crane is apt but score 5 overstates species match.
+apt-0675,Joshua Price,rescore,3,,,His surname Price names the economic variable he studies as an associate professor of economics.,,,,,Common economist surname; score 5 inflated.
+apt-0804,Mark Price,rescore,3,,,His surname Price names the core variable in the labour economics he researches.,,,,,Common economist surname; score 5 inflated.
+apt-0836,Michael Faraday,rescore,1,rejected,,,,,,,The farad unit was named after Faraday; backwards eponym error.
+apt-0837,Michael Fish,rescore,2,borderline,,His surname Fish is a common English word but he forecasts terrestrial weather not marine biology.,,,,,BBC weather forecaster named Fish is amusing but oceans-drive-weather reasoning is invented stretch.
+apt-0867,Muriel Watt,rescore,3,probable,,,,,,,Muriel Watt is not James Watt the eponym; watt-as-power-unit link is legitimate but common surname warrants score 3 not 4.
+apt-0941,Price Fishback,rescore,4,,,His given name Price denotes cost fitting an economic historian who studies wages and New Deal spending.,,,,,First-name Price is stronger than surname-only economist entries but not instant score-5 obvious.
+apt-0995,Robert Boyle,rescore,1,rejected,,,,,,,Boyle's law embeds his surname because the law was named after him; backwards eponym.
+apt-1001,Robert Field,rescore,2,borderline,,,,,,,Field is a very common surname; electromagnetic-field link is generic physics wordplay not a strong aptronym.
+apt-1004,Robert Hooke,rescore,1,rejected,,,,,,,Hooke's law was named after Hooke; backwards eponym error.
+apt-1017,Robin Frost,reject,,rejected,,,,,,,Only named in New Scientist Feedback with no authoritative person page; Lancaster event link dead; person unverifiable.
+apt-1070,Sean Cash,rescore,3,,,His surname Cash names the medium of exchange studied by economists.,,,,,Economist named Cash is a common-surname glance; score 5 inflated.
+apt-1073,Seulgi Moon,rescore,2,borderline,,,,,,,Geomorphologist studying hillslopes not lunar science; Moon is a common Korean surname.
+apt-1119,Storm Field,fix,,,,,,,https://en.wikipedia.org/wiki/Storm_Field,,person_source_url pointed to Nominative determinism Wikipedia not Storm Field; nickname given at birth per Storm Field Wikipedia.
+apt-0138,Braeden Winters,fix,,probable,,,,,,,weather.gov/gjt/staff returns 404; NWS staff page rot—review_status lowered until alternate source confirmed.
+apt-1242,William Schwind,reject,,rejected,,,,,,,Duplicate of apt-0120 Billy Schwind (same Kentucky Mesonet staff page); William and Billy are the same person.
+apt-1245,William Thomson,reject,1,rejected,,,,,,,Kelvin temperature unit and Lord Kelvin title derive from his work; connection is backwards and the river Kelvin title predates the unit naming convention.
+apt-1260,Yong-Jae Moon,rescore,3,,,His surname Moon names the Moon while he leads a Sun and Space Weather laboratory.,,,,,KHU profile confirms solar/space-weather focus not lunar research; surname coincidence not near-exact fit.
+apt-0156,C. J. Berry,reject,,borderline,,,,,,,Only sourced from WIT Substack nominative-determinism listicle; person and wine expertise unverified on an authoritative page.
+apt-0951,R. A. Sparkes,reject,,borderline,,,,,,,Only cited in WIT Substack/New Scientist Feedback with no authoritative page confirming the author or occupation.
+apt-0757,Lorentz Fisker,fix,,,,,,,https://en.wikipedia.org/wiki/Fisker_(surname),,person_source_url is a surname disambiguation page not a dedicated biographical source; oceanographer role confirmed on that page.

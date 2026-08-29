@@ -1,0 +1,124 @@
+id,full_name,verdict,new_aptronym_score,new_review_status,new_aptronym_type,new_connection,new_name_origin,new_name_status,new_person_source_url,new_notes,reason
+apt-0017,Akira Kurosawa,reject,,rejected,,,,,,,Kurosawa black swamp for dark moral landscapes is invented kanji reading for film director.
+apt-0031,Alfred Hitchcock,reject,,rejected,,,,,,,Connection fabricates hitch+shock from Hitchcock; notes also reference wrong ACPO spokesman merge. No sourced etymology links surname to suspense.
+apt-0044,Amy Winehouse,rescore,2,,,,,,,,Winehouse wordplay is morbid coincidence but surname is birth name; connection overstated at 4.
+apt-0061,Angel Martínez Vivas,reject,,rejected,,,,,,,"Angel given name for Catholic bishop is standard Hispanic naming, not aptronym."
+apt-0063,Angel Rodríguez Gamoneda,reject,,rejected,,,,,,,Same Angel given-name pattern for bishop; not a surname coincidence.
+apt-0066,Anna Pavlova,reject,,rejected,,,,,,,Pavlova dessert named after ballerina not vice versa; inverse naming not aptronym.
+apt-0076,Anthony Weller,reject,,rejected,,,,,,,Weller suggests one who wells up with words is invented etymology.
+apt-0078,Arianna Huffington,reject,,rejected,,,,,,,Huffington built HuffPost makes surname synonymous with news is corporate wordplay not aptronym.
+apt-0096,Barbara Walters,reject,,rejected,,,,,,,Walters evokes waiting on celebrities is unsourced folk etymology on famous journalist.
+apt-0098,Barnaby Smith,reject,,rejected,,,,,,,Smith common maker surname with faint verse link is generic occupational noise.
+apt-0106,Benjamin Britten,reject,,rejected,,,,,,,Britten faintly echoes Britain is phonetic padding on famous composer.
+apt-0129,Bob Woodward,reject,,rejected,,,,,,,Woodward suggests moving through thickets is invented metaphor for Watergate reporter.
+apt-0134,Bono,rescore,2,,,,,,,,"Bono from Bono Vox good voice is chosen stage name from Latin, not birth-name coincidence."
+apt-0150,Bronislav Yermak,reject,,rejected,,,,,,,Yermak MDM-Bank entry has no name-to-banking etymology; occupation list padding.
+apt-0161,Carl Anthony Fisher,reject,,rejected,,,,,,,Fisher suggests fishers of men for auxiliary bishop is biblical cliché not surname fit.
+apt-0176,Cecil Beaton,reject,,rejected,,,,,,,Beaton sounds like beautify for portrait photographer is invented homophone.
+apt-0203,Chris Rock,rescore,2,,,,,,,,Rock names hard material stand-up hammers against is metaphor not name meaning.
+apt-0210,Christiane Amanpour,reject,,rejected,,,,,,,Aman means peace in Persian contrasting war-zone reporting is given-name stretch not aptronym.
+apt-0218,Christopher Wren,reject,,rejected,,,,,,,Wren small bird for architect who rebuilt skyline is weak animal-name echo.
+apt-0225,Claude Monet,reject,,rejected,,,,,,,Monet/monnaie homophone is invented; Monet is toponymic surname unrelated to money.
+apt-0228,Clint Eastwood,reject,,rejected,,,,,,,Eastwood timber-from-the-east stretch for Western star; place-name surname.
+apt-0257,Danny Elfman,reject,,rejected,,,,,,,Elfman suggests elfin fantasy for Burton scores is invented wordplay.
+apt-0266,David Copperfield,rescore,2,,,,,,,,Copperfield borrowed Dickens conjurer name for stage magician; birth name David Kotkin.
+apt-0269,David Fisher,rescore,2,,,,,,,,"Fisher occupational surname for Michelin chef is generic English surname, not fish-specific."
+apt-0281,David Rodigan,reject,,rejected,,,,,,,Rodigan echoes reggae and rod is invented phonetic stretch.
+apt-0290,Dawn Fairbanks,reject,,rejected,,,,,,,Fairbanks suggests fair banking for insurance agent is loose finance echo.
+apt-0318,Donald Trump,reject,,rejected,,,,,,,"Trump card winning for dealmaker is card-game pun on famous surname, not occupation fit."
+apt-0320,Dorothea Lange,reject,,rejected,,,,,,,Lange means long in German for documentary frames is weak translation on photographer.
+apt-0335,Edgar Allan Poe,reject,,rejected,,,,,,,Poe sounds like po for Gothic gloom is invented phonetics.
+apt-0337,Édouard Manet,reject,,rejected,,,,,,,Manet Latin he remains for edge-of-tradition painter is folk Latin pun not etymology.
+apt-0354,Emilio Botín,reject,,rejected,,,,,,,Botín booty/spoils for bank CEO; El País notes etymology is leather boot not banking.
+apt-0358,Ennio Morricone,reject,,rejected,,,,,,,Morricone/morire (die) echo is speculative per row notes; invented for spaghetti-western scores.
+apt-0373,Federico Fellini,reject,,rejected,,,,,,,Fellini suggests feline grace is speculative; no sourced link between surname and directing.
+apt-0379,Forest Whitaker,reject,,rejected,,,,,,,"Forest evokes wilderness for actor is given-name metaphor, not aptronym."
+apt-0392,Franz Liszt,reject,,rejected,,,,,,,Liszt resembles list is phonetic padding on prolific composer.
+apt-0393,Fred Astaire,reject,,rejected,,,,,,,Astaire sounds like stair for dancer is phonetic padding; born Frederick Austerlitz.
+apt-0398,Fritz Lang,reject,,rejected,,,,,,,Lang means long for extended film running times is invented.
+apt-0410,Gary Oldman and Gary Numan,reject,,rejected,,,,,,,Composite entry for two celebrities born days apart; database collects individuals not name pairs.
+apt-0431,George Porter,rescore,2,,,,,,,,Porter carries burdens for missionary archbishop is invented metaphor.
+apt-0436,Georgia O'Keeffe,reject,,rejected,,,,,,,O'Keeffe sounds like OK is invented homophone for famous painter.
+apt-0447,Giuseppe Verdi,reject,,rejected,,,,,,,Verdi/green Joe Green orchestra pun is weak color surname unrelated to opera composing.
+apt-0448,Glenn Gould,reject,,rejected,,,,,,,"Gould sounds like gold is faint phonetic echo, not aptronym."
+apt-0453,Gontran Cherrier,reject,,rejected,,,,,,,Cherrier/cherry for baker; row notes topographic surname not occupational.
+apt-0455,Gordon Parks,reject,,rejected,,,,,,,Parks names green spaces he documented is generic surname reading.
+apt-0469,Gustav Mahler,reject,,rejected,,,,,,,Row admits Mahler derives from Maler (painter) though he composed symphonies; ironic misfit scored 4.
+apt-0474,Hans Zimmer,reject,,rejected,,,,,,,Zimmer is German for room and he scores the rooms of cinema is meaningless rationalisation.
+apt-0482,Harry Houdini,rescore,2,,,,,,,,Houdini adapted Robert-Houdin name deliberately for magic career.
+apt-0484,Hayao Miyazaki,reject,,rejected,,,,,,,Miya/zaki shrine+cape reading is kanji-speculative per row notes.
+apt-0490,Helen DeWitt,reject,,rejected,,,,,,,DeWitt sounds like de write is phonetic stretch on novelist.
+apt-0503,Holly Hunter,reject,,rejected,,,,,,,Hunter suggests pursuit for actor is common-word padding.
+apt-0535,Itzhak Perlman,reject,,rejected,,,,,,,Perlman pearl-man faintly apt for violinist is unsourced Yiddish stretch.
+apt-0544,Jackson Pollock,reject,,rejected,,,,,,,Pollock fish echo for drip paintings is invented.
+apt-0550,Jake Tapper,reject,,rejected,,,,,,,Tapper faintly echoes tap sources is phonetic padding.
+apt-0553,James Cameron,reject,,rejected,,,,,,,Cameron sounds like camera for film director is generic homophone.
+apt-0586,Jeff Baker,rescore,5,,direct,His surname is Baker and he is a Michelin-starred executive chef.,,,,,Direct occupational match underst scored at 4.
+apt-0603,Jim Starlin,reject,,rejected,,,,,,,Starlin evokes stars for Marvel space-opera writer is vague given-name echo.
+apt-0615,Johann Strauss II,rescore,1,,,,,,,,Johann Strauss waltz tradition link is family name not aptronym to composing.
+apt-0619,John Brewer,rescore,2,,,,,,,,Brewer/beer loosely echoing Eucharistic wine is hedging stretch for bishop surname.
+apt-0622,John C. Furman,reject,,rejected,,,,,,,Row admits fur man is weak stretch included for Gilded Age financier.
+apt-0623,John Cage,reject,,rejected,,,,,,,Cage confines sound for composer is invented metaphor.
+apt-0624,John Carpenter,reject,,rejected,,,,,,,Row merges 1948 horror-film director with 15th-c. Bishop of Worcester (death_year 1476); person_source_url describes the bishop not the filmmaker.
+apt-0650,John Williams,reject,,rejected,,,,,,,Williams common surname; willful cinematic themes link applies to any John Williams.
+apt-0658,Jonatan Leandoer,rescore,2,,,,,professional_name,,,Stage name Yung Lean references lean drink; birth surname Leandoer not chosen for aptness.
+apt-0661,José Gustavo Angel Ramírez,reject,,rejected,,,,,,,Angel given name evokes heavenly messengers is hedging on standard Catholic naming.
+apt-0673,Joshua Bell,rescore,2,,,,,,,,Bell evokes ringing tone is hedging; common surname glancing at music.
+apt-0700,Kenneth Angell,reject,,rejected,,,,,,,Angell evokes angels for bishop is unsourced given-name cliché.
+apt-0712,Kiyoshi Kurosawa,reject,,rejected,,,,,,,Same black-swamp stretch applied to unrelated horror director Kiyoshi Kurosawa.
+apt-0720,Lang Lang,reject,,rejected,,,,,,,Lang/brilliant or wolf depending on character is ambiguous Chinese given-name stretch.
+apt-0733,Leon Billings,reject,,rejected,,,,,,,Billings suggests invoices for lobbyist is unsourced occupational stretch.
+apt-0750,Liniker,reject,,rejected,,,,,,,Guardian confirms uncle named Liniker after Gary Lineker; manufactured given name not coincidence.
+apt-0810,Martha Graham,reject,,rejected,,,,,,,Graham common Scottish surname with only faint choreography link.
+apt-0821,Matt Groening,reject,,rejected,,,,,,,Groening resembles groningen/mourning is invented Dutch stretch for The Simpsons creator.
+apt-0842,Michael Lean,reject,,rejected,,,,,,,Lean evokes slimness for obesity professor is hedging on common adjective surname.
+apt-0844,Michael Pollan,reject,,rejected,,,,,,,Pollan sounds like pollen for food writer is unsourced homophone.
+apt-0847,Michael Vickers,rescore,2,,,,,,,,Vickers evokes vicar is unsourced phonetic homophone per BBC listicle.
+apt-0849,Michael William Fisher,rescore,2,,,,,,,,Fisher loosely echoing fishers of men is biblical cliché for bishop.
+apt-0852,Miguel Angel Alba Díaz,reject,,rejected,,,,,,,Miguel Angel archangel given name for bishop is conventional Catholic naming.
+apt-0853,Miguel Angel Nguema Bee,reject,,rejected,,,,,,,Miguel Angel evokes heavenly messengers is hedging on conventional given name.
+apt-0859,Misty Copeland,reject,,rejected,,,,,,,Copeland suggests open land for ground-breaking dancer is geographic stretch.
+apt-0864,Morgan Freeman,reject,,rejected,,,,,,,Freeman suggests free man echoing narrating voice is invented.
+apt-0875,Nathaniel Hawthorne,reject,,rejected,,,,,,,Hawthorne thorny shrub for dark tales is weak botanical echo.
+apt-0878,Neil Gaiman,reject,,rejected,,,,,,,Gaiman sounds like gamine is invented phonetic fit.
+apt-0888,Norman Eisen,reject,,rejected,,,,,,,"Norm evokes norms for ethics counsel is first-name pun, not surname aptronym."
+apt-0896,Oliver Stone,reject,,rejected,,,,,,,Stone suggests weight for political filmmaker is vague semantic padding.
+apt-0901,Rev. Paradise,reject,,rejected,,,,,,,Rev. Paradise religious destination is anecdote without verified individual.
+apt-0903,Patience Scales,reject,,rejected,,,,,,,Patience Scales cited only from nominative-determinism listicle; person not independently verified per row notes.
+apt-0913,Penn Jillette,reject,,rejected,,,,,,,Penn evokes pen for magician who scripts illusions is invented homophone.
+apt-0928,Philip Glass,reject,,rejected,,,,,,,Glass/transparency/refraction connection is poetic invention with no name etymology.
+apt-0933,Pierre-Auguste Renoir,reject,,rejected,,,,,,,Renoir/re-noir homophone is invented pun; surname etymology separate.
+apt-0965,Rem Koolhaas,reject,,rejected,,,,,,,Koolhaas sounds like cool house is invented phonetic pun on architect.
+apt-0966,Rembrandt,reject,,rejected,,,,,,,Rembrandt rem+brandt burned/sword for chiaroscuro is speculative Dutch folk reading.
+apt-0967,René Magritte,reject,,rejected,,,,,,,Row admits Magritte has no clear occupational meaning; kept as padding.
+apt-0979,Richard Grip,reject,,rejected,,,,,,,Grip suggests firm handshake for bank VP is LinkedIn-tier stretch.
+apt-0985,Richard Strauss,reject,,rejected,,,,,,,Strauss bouquet/ostrich pun is weak and unrelated to composing; row already marked borderline.
+apt-0989,Ringo Starr,rescore,2,,,,,,,,Ringo Starr stage name from ring jewelry; Starr/star echo is weak on chosen professional name.
+apt-0990,River Phoenix,rescore,2,,,,,legal_name,,,Born River Jude Bottom; family changed surname to Phoenix in childhood.
+apt-0998,Robert Capa,fix,2,,,,,pseudonym,,,Capa alias chosen with Gerda Taro for photography branding; birth name Endre Friedmann.
+apt-1000,Robert Crumb,reject,,rejected,,,,,,,Crumb suggests fragments for underground cartoonist is invented.
+apt-1005,Robert Joseph Baker,rescore,2,,,,,,,,Baker/baking loosely echoing Eucharistic bread is stretch for bishop.
+apt-1006,Robert Joseph Fisher,rescore,2,,,,,,,,Fisher evokes fishers of men for auxiliary bishop is cliché not aptronym.
+apt-1018,Robin Mahfood,reject,,rejected,,,,,,,Mahfood sounds like robbing my food is phonetic pun without etymology source.
+apt-1038,Sales (Shooters Hill auctioneer),reject,,rejected,,,,,,,1888 directory anecdote; individual auctioneer never identified in parish records.
+apt-1042,Salvador Dalí,reject,,rejected,,,,,,,"Salvador means savior is baptismal given name, not surname coincidence with surrealism."
+apt-1059,Sarah Vowell,reject,,rejected,,,,,,,"Vowell sounds like vowel is mild phonetic echo, not aptronym."
+apt-1083,Shelby Goldgrab,reject,,rejected,,,,,,,Goldgrab grabbing gold for tax accountant is listicle padding without verification.
+apt-1099,St. John Fisher,rescore,2,,,,,,,,Fisher/fishers of men for Cardinal Fisher is standard biblical wordplay.
+apt-1101,Stan Lee,rescore,1,,,,,,,,Lee suggests leading Marvel is vague on birth name Stanley Lieber.
+apt-1106,Stephen King,reject,,rejected,,,,,,,King suggests sovereignty over fiction is metaphor padding on bestseller.
+apt-1114,Stevie Wonder,reject,,rejected,,,,,,,Wonder names awe in soul catalog is vague on stage name Stevland Hardaway Judkins.
+apt-1115,Sting,reject,,rejected,,,,,,,"Sting nickname came from black-and-yellow striped sweater (wasp), not vocal attack; connection invented."
+apt-1117,Stone Phillips,reject,,rejected,,,,,,,Stone suggests solidity for news anchor is vague padding.
+apt-1135,Taylor Swift,reject,,rejected,,,,,,,Swift suggests speed for prolific songwriter is generic adjective stretch.
+apt-1153,Thomas Love Peacock,reject,,rejected,,,,,,,Peacock ornate display for satirical novelist is vague animal metaphor.
+apt-1155,Thomas Porter,rescore,2,,,,,,,,Porter carries Gospel for vicar apostolic is invented metaphor.
+apt-1169,Tom Cook,rescore,5,,direct,His surname is Cook and he is a Michelin-starred head chef.,,,,,Occupational direct fit underst scored at 4.
+apt-1180,Tōru Takemitsu,reject,,rejected,,,,,,,Take/mitsu bamboo+light is kanji-dependent speculation per row notes.
+apt-1196,Virginia Woolf,reject,,rejected,,,,,,,Woolf evokes wool/warmth contrasting modernism is invented literary metaphor.
+apt-1209,Washington Irving,reject,,rejected,,,,,,,Irving Scottish place name with weak link to folklore writing.
+apt-1212,Werner Herzog,reject,,rejected,,,,,,,Herzog duke for auteur commanding sets is noble title unrelated to directing.
+apt-1221,William Blake,reject,,rejected,,,,,,,Blake pale/dark for visionary poet is contradictory unsourced surname reading.
+apt-1243,William Shakespeare,reject,,rejected,,,,,,,Shake spear folk reading of Shakespeare is disputed etymology per row notes.
+apt-1254,Wolfgang Amadeus Mozart,reject,,rejected,,,,,,,"Amadeus is Latin baptismal name chosen for Mozart, not a coincidental surname fit to composing."
+apt-1256,Woody Allen,rescore,1,,,,,,,,Woody Allen adds timber to common Allen surname; professional name Allan Konigsberg.

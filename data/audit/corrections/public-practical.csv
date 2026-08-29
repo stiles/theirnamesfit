@@ -1,0 +1,123 @@
+id,full_name,verdict,new_aptronym_score,new_review_status,new_aptronym_type,new_connection,new_name_origin,new_name_status,new_person_source_url,new_notes,reason
+apt-0018,Al Haynes,reject,,rejected,,,,,,,"Notes admit weak surname link; included only because of Flight 232 fame, not name fit."
+apt-0038,Am Rong,fix,3,probable,phonetic,Western journalists noted the irony of a spokesman named Am Rong giving overly optimistic war briefings.,,,https://en.wikipedia.org/wiki/Am_Rong,Country should be Cambodia not United States. person_source_url was Slate listicle.,person_source_url was Slate listicle; country was United States. Wikipedia confirms Cambodian spokesman and name irony.
+apt-0039,Amanda Cheesley,reject,,rejected,,,,,,,Cheesley evokes cheese via hedging; -ley diminutive is not cheese and person verified only via Politico listicle.
+apt-0064,Angus King,reject,,rejected,,,,,,,King is a common English surname; holding governor/senator office does not create an aptronym.
+apt-0103,Bear Woods,reject,,rejected,,,,,,,Connection invents goalpost timber plus Bear Bryant echo; Woods is a common surname.
+apt-0117,Bill Archer,reject,,rejected,,,,,,,Archer evokes bowmen via hedging language; no pointed name-to-Ways-and-Means fit.
+apt-0119,Bill Grant,reject,,rejected,,,,,,,Grant is a common surname; granting-funds wordplay is invented padding for a Florida congressman.
+apt-0147,Brian Mast,reject,,rejected,,,,,,,Connection admits loosely apt ship-mast echo; invented martial padding for Foreign Affairs chair.
+apt-0183,Charles David Walker,reject,,rejected,,,,,,,Connection describes shuttle flights; Walker surname has no documented apt meaning.
+apt-0186,Charles J. Precourt,reject,,rejected,,,,,,,Notes admit weak surname link; included only for shuttle-pilot fame.
+apt-0196,Chesley Sullenberger,reject,,rejected,,,,,,,Notes admit weak surname link; included only for Miracle on the Hudson fame.
+apt-0241,Crescent Hardy,reject,,rejected,,,,,,,Hardy is a common surname; toughness inference from Hardy is generic padding.
+apt-0243,Cuff (Shooters Hill draper),reject,,rejected,,,,,,,Individual not identified; source is Kentish Note Book periodical not a person record.
+apt-0247,Dale Strong,reject,,rejected,,,,,,,Strong is a common surname; law-and-order messaging inference is post-hoc padding.
+apt-0250,Dana Perino,reject,,rejected,,,,,,,Agent admitted score-2 press-secretary padding; Perino/persona homophone is too weak for any score.
+apt-0252,Daniel C. Dey,reject,,rejected,,,,,,,Dey/day homophone linking to photosynthesis is invented forestry padding from USDA author mining.
+apt-0261,Dave Camp,reject,,rejected,,,,,,,Camp evokes military encampments via hedging; common surname padding.
+apt-0279,David M. Walker,reject,,rejected,,,,,,,Connection describes shuttle command; Walker surname has no documented apt meaning.
+apt-0293,Decimus Junius Brutus Albinus,rescore,3,,,,,,,,Brutus (dull) ironic for a resolute assassin is valid but needs explanation; overstated at 4 for ancient translation case.
+apt-0310,Dmitri Medvedev,reject,,rejected,,,,,,,Medvedev means bear's son; semantic animal surname with no occupational or role fit.
+apt-0342,Edward Major,reject,,rejected,,,,,,,Primary source is LinkedIn only; unacceptable per research brief for person verification.
+apt-0350,Elizabeth Warren,reject,,rejected,,,,,,,Agent admitted Warren as intentional score-2 padding; warren (enclosure) is a common surname with no pointed fit.
+apt-0361,Eric Moody,reject,,rejected,,,,,,,Notes admit weak surname link; included only for BA Flight 9 fame.
+apt-0385,Francis E. Warren,reject,,rejected,,,,,,,Fort Warren was renamed for the senator; the name-to-office link is post-hoc geographic coincidence not an aptronym.
+apt-0400,Gaius Julius Caesar,reject,,rejected,,,,,,,Caesar etymology is speculative (hair/cut); no occupational or role fit to general-dictator.
+apt-0433,George Stephenson,reject,,rejected,,,,,,,Notes state surname lacks direct rail meaning; Father of Railways fame padding.
+apt-0451,Gnaeus Pompeius Magnus,reject,,rejected,,,,,,,Magnus was formally added as cognomen after military victories; name followed deed per Wikipedia.
+apt-0452,Gnaeus Pompeius Strabo,reject,,rejected,,,,,,,"Strabo (cross-eyed) was a descriptive cognomen for his appearance, not a coincidental name-to-role fit."
+apt-0458,Gouverneur Kemble,reject,,rejected,,,,,,,Given name means governor in French but he was an industrialist-diplomat who never governed; translation stretch.
+apt-0459,Gouverneur Kemble Warren,reject,,rejected,,,,,,,Given name means governor in French but he was a corps commander not a governor; name-to-role mismatch.
+apt-0468,Gus Savage,reject,,rejected,,,,,,,Savage is a common surname; combative-style inference is post-hoc character padding.
+apt-0471,Habib El Malki,reject,,rejected,,,,,,,El Malki derives from malik (king); common Arabic element padding for a parliament speaker.
+apt-0475,Happy Camp,reject,,rejected,,,,,,,"Happy Camp nickname plus Camp surname is forced wordplay, not a pointed aptronym."
+apt-0497,Henry I. Baldwin,reject,,rejected,,,,,,,Baldwin contains win echoing wind is invented substring wordplay.
+apt-0509,Hosegood (Shooters Hill hosier),reject,,rejected,,,,,,,Individual not identified; source is Kentish Note Book periodical not a person record.
+apt-0526,Ibrahim Al Hammadi,reject,,rejected,,,,,,,name_element is job title Captain not surname; no Al Hammadi etymology supports train captain.
+apt-0527,Ignar Rip,reject,,rejected,,,,,,,Rip/rest-in-peace is an acronym stretch; Rip surname does not mean funeral rest.
+apt-0534,Isambard Kingdom Brunel,reject,,rejected,,,,,,,Notes state no documented English link to bridges or railways despite engineering fame.
+apt-0539,Jack Brooks,reject,,rejected,,,,,,,Brooks is a common topographic surname; stream echo is invented padding.
+apt-0540,Jack Christ,reject,,rejected,,,,,,,Christ evokes Christ is hedging; common surname for a leadership professor.
+apt-0542,Jack Hathaway,reject,,rejected,,,,,,,Notes admit weak surname link; included only as verified NASA astronaut biography.
+apt-0551,Jamaal Bowman,reject,,rejected,,,,,,,Bowman is a common surname; archer echo for a school-principal congressman is generic padding.
+apt-0554,James Cook,reject,,rejected,,,,,,,Cook occupational surname only weakly and irrelevantly relates to Pacific exploration not cooking.
+apt-0556,James Dutton,reject,,rejected,,,,,,,Notes admit weak surname link; included only for STS-131 pilot credentials.
+apt-0564,James Mark Gill,reject,,rejected,,,,,,,Gill/gill homophone for plumbing flow is invented phonetic stretch.
+apt-0577,Jane Banks,reject,,rejected,,,,,,,Banks topographic surname; theft-victim context does not create name-to-crime aptronym.
+apt-0584,Jay Carney,reject,,rejected,,,,,,,Score-2 press-secretary padding; carny-barker homophone is fabricated.
+apt-0591,Jennifer McClellan,reject,,rejected,,,,,,,McClellan/clear homophone is invented phonetic padding for a common surname.
+apt-0593,Jeremy Hansen,reject,,rejected,,,,,,,Notes admit weak surname link; included only for Artemis II assignment.
+apt-0599,Jim Marshall,reject,,rejected,,,,,,,Marshall is a common surname shared by many politicians; marshal/commander echo is generic padding.
+apt-0625,John Clark,reject,,rejected,,,,,,,Clark is not Baker; baker occupation in trial does not make Clark apt.
+apt-0640,John McClellan,reject,,rejected,,,,,,,McClellan/clear homophone is invented phonetic padding.
+apt-0648,John Taylor Doolittle,reject,,rejected,,,,,,,Doolittle/do-little echo piggybacks on Jimmy Doolittle inaptronym; no independent fit for this unrelated congressman.
+apt-0662,Joseph A. Walker,reject,,rejected,,,,,,,Connection describes X-15 flights; Walker surname has no documented apt meaning.
+apt-0668,Joseph Swain,reject,,rejected,,,,,,,Aptronym is Afrikaans shop-name pun Joe Barber; surname Swain does not mean barber.
+apt-0670,Josh Earnest,reject,,rejected,,,,,,,Earnest suggests sincerity is hedging; common virtue surname for any spokesperson.
+apt-0677,Juan Trippe,reject,,rejected,,,,,,,Trippe evokes trip is hedging; common surname for any airline founder.
+apt-0694,Kelly Armstrong,reject,,rejected,,,,,,,Armstrong evokes armed strength via hedging; common surname padding.
+apt-0702,Kevin Admiral,reject,,rejected,,,,,,,"person_source_url is generic Wikipedia aptronym list page, not a source establishing this person."
+apt-0709,King Whetstone,reject,,rejected,,,,,,,Whetstone is a common word/surname; sharpening-stone echo for NASS director is generic.
+apt-0711,Kit Bond,reject,,rejected,,,,,,,Bond evokes government bonds via hedging; common surname with no pointed fiscal fit.
+apt-0736,Leonard Lance,reject,,rejected,,,,,,,Lance/spear martial echo for a New Jersey congressman is generic common-surname padding.
+apt-0747,Lieutenant Mike Kafka,reject,,rejected,,,,,,,Connection depends on Kafkaesque literary allusion to Guantanamo; not a name-meaning aptronym.
+apt-0764,Louise Slaughter,reject,,rejected,,,,,,,Slaughter is a common surname; killing echo for a legislator is grim invented padding.
+apt-0767,Lucius Cornelius Sulla Felix,reject,,rejected,,,,,,,Felix cognomen was added after claiming fortune favored him; Sulla etymology is speculative.
+apt-0768,Lucius Quinctius Cincinnatus,reject,,rejected,,,,,,,Cincinnatus means curly-haired; civic-virtue farm return is narrative not name meaning.
+apt-0782,Marcus Tullius Cicero,reject,,rejected,,,,,,,Cicero (chickpea) was a descriptive cognomen for an ancestor's nose per Plutarch; not coincidental.
+apt-0785,Margaret Hassan,reject,,rejected,,,,,,,Wood maiden name is a common surname; nature echo for a senator/governor is padding.
+apt-0786,Margaret Spellings,rescore,3,,,,,,,,Spellings/spelling echo is legitimate but common surname; 3 not 4.
+apt-0789,Marianne Merchez,reject,,rejected,,,,,,,Connection cites pilot license only; Merchez has no documented name-to-astronaut fit.
+apt-0801,Mark Kelly,reject,,rejected,,,,,,,Kelly is a common Irish surname with no documented link to astronaut or senatorial work.
+apt-0835,Michael Cloud,reject,,rejected,,,,,,,Cloud is a common surname; sky echo for a congressman is generic padding.
+apt-0838,Michael Grimm,reject,,rejected,,,,,,,Grimm is a common surname; grimness echo tied to later tax conviction is post-hoc padding.
+apt-0855,Mike Hookem,rescore,3,,,,,,,,Connection uses suggests hooking; Hookem/hook is legitimate but not a 4 for fisheries spokesman.
+apt-0860,Mo Brooks,reject,,rejected,,,,,,,Brooks is a common topographic surname; stream echo is invented padding.
+apt-0906,Patrick H. Brose,reject,,rejected,,,,,,,Brose/browse homophone for deer browse in oak silviculture is invented USDA author padding.
+apt-0921,Peter King,reject,,rejected,,,,,,,King is a common English surname; sixteen terms in Congress does not make the surname apt.
+apt-0930,Philip Sharp,reject,,rejected,,,,,,,Sharp is a common surname; cutting-analysis echo for an energy congressman is invented.
+apt-0935,Pierre Salinger,reject,,rejected,,,,,,,Score-2 press-secretary padding; connection admits only a weak unspecified link.
+apt-0940,Preston Brooks,reject,,rejected,,,,,,,Row notes Brooks has no strong link; geographic surname padding.
+apt-0943,Publius Cornelius Lentulus Spinther,reject,,rejected,,,,,,,Spinther was a stage-name cognomen awarded for resemblance to an actor; descriptive not coincidental.
+apt-0944,Publius Cornelius Scipio Africanus,reject,,rejected,,,,,,,Africanus cognomen was awarded for the African campaign against Hannibal; name followed deed.
+apt-0945,Publius Valerius Publicola,reject,,rejected,,,,,,,Publicola cognomen was awarded after winning popular support; recent scholarship disputes friend-of-people etymology.
+apt-0948,Quintus Caecilius Metellus Pius,reject,,rejected,,,,,,,Pius was an agnomen given for campaigning to recall his exiled father; name followed deed.
+apt-0950,Quintus Pedius Publicola,reject,,rejected,,,,,,,"Publicola is an awarded republican cognomen, not a birth-name coincidence."
+apt-0964,Rehman Malik,reject,,rejected,,,,,,,Malik (king) is a common Arabic surname; king echo for an interior minister is padding.
+apt-0988,Rick Scott,reject,,rejected,,,,,,,Agent admitted Scott as intentional score-2 padding; common Scottish surname with no governing link.
+apt-1009,Robert Odell Owens,reject,,rejected,,,,,,,Duplicate of apt-0775 Major Owens under birth name; same person should not appear twice.
+apt-1014,Robert Steele,reject,,rejected,,,,,,,Steele is a common surname; steel/strength echo for a Connecticut congressman is padding.
+apt-1015,Roberta L. Nutt,reject,,rejected,,,,,,,Slang nut for mental state is invented; Nutt is a common surname in psychology.
+apt-1019,Rod Muddle,reject,,rejected,,,,,,,Surname suggests confusion is hedging; BBC Today anecdote not a documented aptronym.
+apt-1022,Roger Marshall,reject,,rejected,,,,,,,Marshall is a common surname; marshal/commander echo for a senator-physician is generic padding.
+apt-1025,Ronald Lee Watt,reject,,rejected,,,,,,,Watt as electrical unit for a plumber is a loose cross-domain stretch not a pointed fit.
+apt-1030,Roy Blunt,rescore,2,,,,,,,,Blunt/plain-speaking link is post-hoc character inference; unlike Crispin Blunt there is no pointed policy pun.
+apt-1031,Roy Romer,reject,,rejected,,,,,,,Romer sounds like roamer is hedging phonetic padding for a superintendent.
+apt-1034,Russell Hiatt,reject,,rejected,,,,,,,Connection describes Floyd's City Barber Shop naming not Hiatt surname meaning.
+apt-1045,Samantha Power,reject,,rejected,,,,,,,Power is a common English word/surname; diplomatic power wordplay applies to any ambassador.
+apt-1046,Samuel Foot,reject,,rejected,,,,,,,Foot Resolution was named after him; the legislative eponym is not a name-to-role aptronym.
+apt-1053,Sarah Al Mazrouei,reject,,rejected,,,,,,,name_element is job title Captain not surname; no Al Mazrouei etymology supports train captain.
+apt-1058,Sarah Slater,reject,,rejected,,,,,,,Slater/roofer echo for a thief is invented; common occupational surname.
+apt-1064,Scott H. Stoleson,reject,,rejected,,,,,,,Stoleson resembles nestling is hedging; invented phonetic padding from USDA co-author list.
+apt-1066,Scott McClellan,reject,,rejected,,,,,,,Agent admitted score-2 press-secretary padding; McClellan/clear homophone is fabricated.
+apt-1067,Scott Perry,reject,,rejected,,,,,,,Agent admitted Perry as score-2 padding; persist echo from Perry is invented.
+apt-1075,Sextus Aelius Paetus Catus,reject,,rejected,,,,,,,Catus (clever) was earned for legal expertise; awarded cognomen not coincidental.
+apt-1079,Shannon Walker,reject,,rejected,,,,,,,Walker suggests walking through space is hedging; no documented surname-to-astronaut fit.
+apt-1096,Sonya Lucatero,reject,,rejected,,,,,,,Connection describes forestry work only; Lucatero has no documented name-to-forestry fit.
+apt-1100,Stacy L. Clark,reject,,rejected,,,,,,,Clark may evoke clarkia wildflowers is hedging; invented USDA author padding.
+apt-1107,Stephen Knight,reject,,rejected,,,,,,,Knight is a common surname; feudal-rank echo for a congressman is generic padding.
+apt-1109,Steve King,reject,,rejected,,,,,,,King is a common English surname; nine House terms do not create an aptronym.
+apt-1129,Surekha Yadav,reject,,rejected,,,,,,,Yadav is a common Indian caste surname; first female train driver is achievement not name fit.
+apt-1130,Susan L. Stout,reject,,rejected,,,,,,,Stout suggests sturdy trees is hedging; invented USDA author padding.
+apt-1140,Æthelred the Unready,reject,,rejected,,,,,,,Unready is a later English folk-etymology epithet on Old English unræd; nickname not aptronym.
+apt-1142,Thomas Banks,reject,,rejected,,,,,,,Banks/money echo in bank-note trial is contextual coincidence not aptronym.
+apt-1162,Tim Scott,reject,,rejected,,,,,,,Agent admitted Scott as intentional score-2 padding; common Scottish surname.
+apt-1181,Trent Franks,reject,,rejected,,,,,,,Franks/franking postage homophone for a congressman is invented wordplay.
+apt-1182,Trina Brake,reject,,rejected,,,,,,,Near-miss Field Operations vs Brake surname is self-described ironic wordplay failure.
+apt-1202,Wally Funk,reject,,rejected,,,,,,,Funk has no documented aviation meaning; Mercury 13 fame padding.
+apt-1206,Warren Davidson,reject,,rejected,,,,,,,Warren as given name glancing at rabbit-warren enclosure is common-name padding.
+apt-1207,Warren Magnuson,reject,,rejected,,,,,,,Warren is a common surname/given name; fortified-place echo is generic padding.
+apt-1208,Warren Rudman,reject,,rejected,,,,,,,Warren as given name with warren (enclosure) etymology is common-name padding.
+apt-1225,William Dean,reject,,rejected,,,,,,,Dean/deanery echo contrasting theft is invented; common surname.
+apt-1247,William Wilkinson,reject,,rejected,,,,,,,Notes admit weak fit; Wilkinson is patronymic not Baker despite baker occupation in trial.

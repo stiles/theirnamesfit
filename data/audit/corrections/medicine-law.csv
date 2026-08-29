@@ -1,0 +1,123 @@
+id,full_name,verdict,new_aptronym_score,new_review_status,new_aptronym_type,new_connection,new_name_origin,new_name_status,new_person_source_url,new_notes,reason
+apt-0002,Aaron Doctor,fix,,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0005,Abby Stork,fix,,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0012,Adrian Speck,rescore,3,,,,,,,,Speck/speak resemblance is hedged phonetic link.
+apt-0015,Aimee Blood,fix,,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0029,Alfred Dennis,fix,3,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0034,Allan Dennis,fix,3,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0035,Allen Korn,rescore,2,,,,,,,,Korn/corn foot ailment is phonetic stretch.
+apt-0040,Ambroise Paré,rescore,2,,other,Paré is his historical French surname with no documented occupational etymology link.,,,,,"Paré is his French surname, not a documented translation link to paré (prepared)."
+apt-0043,Amy Gore,fix,3,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0045,Anderson Nurse,fix,,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0047,Andre Fang,fix,,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0052,Andrew Ballaro,rescore,2,probable,,Ball is a common English surname with only slang overlap to urology.,,,,,Ball/testicle slang is weak for common name element; Limb aggregate surname only partly attested.
+apt-0069,Anne Mary Fang,fix,,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0074,Anthony Stone,fix,3,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0079,Arina Naaktgeboren,fix,,probable,,,,,,,Radio 538 Hennie de Haan Cup list is ephemeral media source; person not on employer page.
+apt-0086,Sir Astley Paston Cooper,rescore,2,,,,,,,,Cooper/barrel-maker unrelated to surgery despite historical figure.
+apt-0109,Benjamin Rush,rescore,2,,,,,,,,"Rush/hurry link is speculative virtue etymology, not documented name meaning."
+apt-0110,Benjamin Stone,fix,3,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0116,Bianca Vet,fix,,borderline,,,,,,Person attested only in onzetaal.nl aptonym list; independent profile not found.,Bianca Vet verified only from Dutch aptonym word list with no independent employer page.
+apt-0135,Boyd Skinner,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0141,Brett Welch,reject,,rejected,,,,,,,Connection admits faint homophone to wretch/Welsh; invented stretch with no occupational link.
+apt-0144,Brian Barker,rescore,1,,,,,,,,Barker/barking orders is weak occupational stretch.
+apt-0145,Brian Cox,rescore,2,,,,,,,,Common surname with glancing link; rubric score 2 not 3.
+apt-0148,Brian Payne,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0153,Bruce Stone,fix,3,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0174,Catherine Anne Fairpo,rescore,2,,,,,,,,Fair/fairness virtue link is speculative for Fairpo compound surname.
+apt-0179,Chari Hart,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0180,Charles Bell,rescore,2,,,Bell is a common English surname; his eponymous Bell palsy makes the name famous but not occupationally apt.,,,,,"Bell is eponym source for Bell palsy, not an occupational name fit; common surname."
+apt-0187,Charles Lawson,rescore,3,,,,,,,,Lawson/law embedded is moderate not strong.
+apt-0190,Charles Payne,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0197,Chester Stone,fix,3,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0215,Christopher Michael Barker,rescore,2,,,,,,,,Barker/dog sound weak for vet professor.
+apt-0222,Clara Barton,rescore,1,,,,,,,,Barton has no documented nursing link; padding historical figure.
+apt-0224,Claude Bataille,fix,,borderline,,,,,,,Fatrazie aptonym registry is discovery source only; no independent lawyer profile.
+apt-0234,Corona Rintawan,fix,,,,,,,https://en.wikipedia.org/wiki/Corona_Rintawan,,"person_source_url pointed to generic Aptronym list, not this person biography."
+apt-0235,Cosmo Gerald Maitland Gordon,rescore,1,,,,,,,,Gordon/gavel authority link is invented; no etymological connection.
+apt-0253,Daniel Skinner,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0255,Daniel Thew Wright,rescore,2,,,,,,,,Wright/right homophone is extremely common surname; score 1-2 per rubric.
+apt-0264,David C. Bury,rescore,3,,,,,,,,Bury/interment echo is moderate stretch.
+apt-0271,David Gore,rescore,3,probable,,Gore suggests bloodshed associated with surgery.,,,,,Common surname with glancing link; rubric score 3 not 4.
+apt-0283,David Skinner,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0288,David Weedon,rescore,2,,other,Weedon co-authored the 1977 urology paper that launched New Scientist nominative determinism coverage.,,,,,Weedon does not derive from weed; urology paper co-authorship is the only documented link.
+apt-0292,Deborah Couch,fix,3,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0296,Dennis Gore,rescore,3,probable,,Gore suggests bloodshed associated with surgery.,,,,,Common surname with glancing link; rubric score 3 not 4.
+apt-0300,Derrick Tooth,reject,,rejected,,,,,,,Connection invents tooth/truth/testicle wordplay with no defensible etymology or homophone link.
+apt-0314,Dominique Soin,fix,,borderline,,,,,,,Fatrazie registry only; no independent physician profile beyond aptonym list.
+apt-0323,Douglas Hart,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0324,Douglas Sharp,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0341,Edward Keelan,reject,,rejected,,,,,,,Connection fabricates link to Keaney co-author surname; no cardiac homophone in Keelan.
+apt-0347,Elizabeth Blackwell,rescore,2,,,,,,,,Blackwell/dark well link is admitted faint echo.
+apt-0353,Els Suiker,fix,,probable,,,,,,,Radio 538 list only; diabetes nurse role not confirmed on independent clinic page.
+apt-0390,Frank Morey Coffin,rescore,3,,,,,,,,Coffin/burial evokes hedging for common topographic surname.
+apt-0396,Fred Wallace Slaughter,rescore,3,,,,,,,,Slaughter/violent crime evokes hedging.
+apt-0411,Gary Sharp,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0429,George Miller Beard,rescore,2,,,,,,,,Beard/barber-surgeon echo is historical stretch.
+apt-0432,George Read Sage,rescore,2,,,,,,,,Sage/wisdom virtue surname.
+apt-0466,Gregory Payne,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0477,Harold Wordsworth Barber,rescore,3,,,,,,,,Barber/barber-surgeon for dermatologist is moderate.
+apt-0478,Harrie Brigham Chase,rescore,2,,,,,,,,Chase/pursuit common surname.
+apt-0498,Henry Seiler Wise,rescore,3,,,,,,,,Wise/judgment virtue surname common.
+apt-0512,Hubert Cox,rescore,2,,,,,,,,Common surname with glancing link; rubric score 2 not 3.
+apt-0546,Jacques Boucher,reject,,rejected,,,,,,,"Fatrazie lists Jacques Boucher as boucher-charcutier in Jussy, not chirurgien-dentiste; wrong specialty attribution."
+apt-0555,James Counsell,fix,5,,direct,"His surname Counsell is a homophone of counsel, the role of a barrister.",,,https://www.outertemple.com/barrister/james-counsell-kc/,,"person_source_url was Nominative determinism article, not barrister profile."
+apt-0557,James Earl Graves Jr.,rescore,2,,,,,,,,Graves/death evokes hedging.
+apt-0559,James Hunter III,rescore,2,,,,,,,,Hunter/detective stretch for common surname.
+apt-0563,James Locke,rescore,2,,,,,,,,Locke/locks jails stretch.
+apt-0569,James Payne,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0570,James Skelly Wright,rescore,2,,,,,,,,Wright/right homophone is extremely common surname.
+apt-0571,James Toothaker,fix,4,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0580,Jared Cox,rescore,2,,,,,,,,Common surname with glancing link; rubric score 2 not 3.
+apt-0616,John Armstrong,rescore,3,,,,,,,,Armstrong/strong arm moderate for poet-physician.
+apt-0628,John E. Steele,rescore,2,,,,,,,,Steele/steal pun weak.
+apt-0639,John Marshall,rescore,3,,,,,,,,Marshall/law officer is common surname occupational link.
+apt-0641,John Minor Wisdom,rescore,3,,,,,,,,Wisdom/judgment virtue surname.
+apt-0644,John Preston Bailey,rescore,3,,,,,,,,Bailey/Old Bailey place-name echo moderate.
+apt-0664,Joseph Galvin,reject,,rejected,,,,,,,No name-to-work fit; included only as BMJ nominative-determinism paper co-author.
+apt-0681,Justin Cox,rescore,2,,,,,,,,Common surname with glancing link; rubric score 2 not 3.
+apt-0682,Justin M. Bieber,fix,,borderline,,,,,,,Legal Cheek listicle is discovery source only; firm page not verified.
+apt-0690,Katrina Butcher,rescore,3,probable,,Butcher ironically suggests crude cutting though she performs precise upper GI surgery.,,,,,Butcher/ironic cutting moderate; NHS job advert is ephemeral source.
+apt-0703,Kevin Blinder,rescore,3,,,,,,,,Blinder/blinders moderate wordplay.
+apt-0716,Kristi Kinder,rescore,3,probable,,,,,,,Common surname with glancing link; rubric score 3 not 4.
+apt-0748,Lindsay Sleeper,fix,,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0749,Lindsey Cox,rescore,2,,,,,,,,Common surname with glancing link; rubric score 2 not 3.
+apt-0783,Margaret Boyle,rescore,2,borderline,,,,,,,Common surname with glancing link; rubric score 2 not 3.
+apt-0799,Mark Hart,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0816,Mary Yu,rescore,2,,,,,,,,Yu/you homophone weak for judge.
+apt-0830,Melodee Armstrong,fix,,borderline,,,,,,,LinkedIn is weak ephemeral source for municipal judge identity.
+apt-0839,Michael Hart,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0840,Michael Henry Lawson,rescore,3,,,,,,,,Lawson/law embedded moderate.
+apt-0841,Michael Koch,fix,,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0876,Nathaniel Sharp,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0880,Nicholas Burns-Cox,rescore,3,,,,,,,,Burns/burning pain is weak; Burns is common surname.
+apt-0891,Officer Gunz,fix,,borderline,,,,unknown,,,Green Bay Press Gazette aptronym survey names Officer Gunz without first name or department roster link.
+apt-0892,Officer Officer,fix,,probable,,,,unknown,,,Press survey names surname Officer only; first name not given in source.
+apt-0893,Officer Pistohl,fix,,probable,,,,unknown,,,Press survey names Officer Pistohl without full identity or roster confirmation.
+apt-0894,Officer Puestohl,fix,,borderline,,,,unknown,,,Press survey names Officer Puestohl without roster confirmation.
+apt-0909,Paul Looney,rescore,2,,,,,,,,Loony/Looney slang stretch for psychiatrist.
+apt-0917,Peter Burns-Cox,rescore,3,borderline,,,,,,,Burns-Cox wordplay from Dent anecdote; weak without independent urologist profile.
+apt-0923,Peter Pullum,rescore,2,borderline,,,,,,,Pullum/testicular exam anecdote from magazine only; person not independently verified.
+apt-0934,Pierre Boncoeur,fix,,borderline,,,,,,,Fatrazie registry only; cardiologist attested by aptonym list not independent clinic page.
+apt-0969,Rex Armstrong,fix,,borderline,,,,,,,LinkedIn profile does not establish judicial role authoritatively.
+apt-0976,Richard Carver,rescore,3,probable,,,,,,,Common surname with glancing link; rubric score 3 not 4.
+apt-0977,Richard Chopp,reject,,rejected,,,,,,,Duplicate of apt-0986 Richard Thomas Chopp; Slate listicle does not independently identify this urologist.
+apt-0980,Richard Hart,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-0986,Richard Thomas Chopp,fix,5,,,"Known as Dr. Dick Chopp, his name is a urology pun.",,,https://care.healthline.com/find-care/provider/dr-richard-chopp-1528061439,,opennpi.com is third-party directory; replace with Healthline provider page.
+apt-0991,Rob Banks,fix,,probable,,,,,https://en.wikipedia.org/wiki/Nominative_determinism,British PC Rob Banks widely cited in nominative-determinism sources; needs dedicated news or force profile URL.,person_source_url was generic Aptronym page; Rob Banks not named on that page.
+apt-1010,Robert Payne,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-1013,Robert Skinner,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-1040,Salmon Portland Chase,rescore,3,,,,,,,,Chase/pursuit common surname.
+apt-1048,Samuel Chase,rescore,2,,,,,,,,Chase/pursuit common surname.
+apt-1057,Sarah Payne,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-1080,Shari Skinner,fix,2,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-1082,Sheila Boyle,rescore,2,,,,,,,,Common surname with glancing link; rubric score 2 not 3.
+apt-1168,Todd Sleeper,fix,,probable,,,,,,,person_source_url is NPI registry homepage only; confirms licence exists but not specialty or employer from this URL.
+apt-1201,Waller Thomas Burns,rescore,1,,,,,,,,Burns/fire weak link.
+apt-1220,William Blackstone,rescore,2,,,,,,,,Blackstone/dark cornerstone is speculative.
+apt-1230,William H. Steele,rescore,2,,,,,,,,Steele/steal pun weak.
+apt-1235,William Lawson,rescore,3,,,,,,,,Lawson/law embedded moderate.
+apt-1241,William S. Strong,rescore,1,,,,,,,,Strong/strong arm faint echo.
+apt-1244,William Strong,rescore,2,,,,,,,,Strong/strong arm common surname.
+apt-1259,Yolande Laloi,fix,,borderline,,,,,,,Fatrazie registry only; avocat attested by aptonym list not independent firm page.
+apt-1264,Zita Galvin,rescore,1,,,,,,,,Galvin has no liver etymology; affiliation with Liver Centre is coincidence.
