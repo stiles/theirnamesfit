@@ -395,6 +395,13 @@ Ordered by expected yield.
     one. Women's leagues, and women in medicine, law and science, need a dedicated pass rather
     than being folded into each domain.
 
+## The name that started it
+
+Tarik Skubal is not in the published register. Sporting News says Tarik is Arabic for strike.
+The name means the one who knocks. The row is in `data/research/skubal.csv`, rejected, and
+replayed on every rebuild so the origin story cannot fall out of the file the way James Outman
+once did.
+
 ## Reproducing this
 
 ```

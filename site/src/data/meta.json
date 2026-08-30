@@ -1,0 +1,98 @@
+{
+ "total": 691,
+ "researched": 1329,
+ "rejected": 295,
+ "fields": [
+  {
+   "slug": "sports",
+   "label": "Sports",
+   "count": 173
+  },
+  {
+   "slug": "science",
+   "label": "Science",
+   "count": 107
+  },
+  {
+   "slug": "medicine",
+   "label": "Medicine",
+   "count": 75
+  },
+  {
+   "slug": "law",
+   "label": "Law",
+   "count": 59
+  },
+  {
+   "slug": "arts",
+   "label": "Arts",
+   "count": 58
+  },
+  {
+   "slug": "politics",
+   "label": "Politics",
+   "count": 42
+  },
+  {
+   "slug": "weather",
+   "label": "Weather",
+   "count": 40
+  },
+  {
+   "slug": "trades",
+   "label": "Trades",
+   "count": 30
+  },
+  {
+   "slug": "religion",
+   "label": "Religion",
+   "count": 24
+  },
+  {
+   "slug": "food",
+   "label": "Food and drink",
+   "count": 20
+  },
+  {
+   "slug": "education",
+   "label": "Education",
+   "count": 16
+  },
+  {
+   "slug": "business",
+   "label": "Business",
+   "count": 16
+  },
+  {
+   "slug": "military",
+   "label": "Military",
+   "count": 12
+  },
+  {
+   "slug": "transport",
+   "label": "Transport",
+   "count": 8
+  },
+  {
+   "slug": "media",
+   "label": "Media",
+   "count": 7
+  },
+  {
+   "slug": "other",
+   "label": "Other",
+   "count": 2
+  },
+  {
+   "slug": "crime",
+   "label": "Crime",
+   "count": 2
+  }
+ ],
+ "countries": 54,
+ "ironic": 36,
+ "translation": 121,
+ "earliestBirth": -85,
+ "latestBirth": 2007,
+ "span": 2092
+}

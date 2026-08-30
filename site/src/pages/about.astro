@@ -1,0 +1,76 @@
+---
+import Base from "../layouts/Base.astro";
+import { meta } from "../lib/data";
+---
+
+<Base
+  title="About — theirnames.fit"
+  description="An aptronym is a name that seems unusually suited to its owner. The internet is full of lists of these. A lot of them turn out to be wrong. So we checked."
+  path="/about"
+>
+  <section class="titleblock titleblock-tight">
+    <div class="wrap">
+      <p class="edition"><span>Front matter</span><span>What this is</span></p>
+      <h1 class="title">So we checked.</h1>
+    </div>
+  </section>
+
+  <section class="note">
+    <div class="wrap">
+      <p class="lede">
+        An aptronym is a name that seems unusually suited to its owner. Usain Bolt became a
+        sprinter. Amy Freeze became a meteorologist. Igor Judge became Lord Chief Justice of
+        England and Wales.
+      </p>
+
+      <p>
+        The internet is full of lists of these, and a lot of them turn out to be wrong. Invented
+        etymologies. People who never existed. Nicknames awarded for the very trait they describe,
+        then passed off as birth names, which is cheating.
+      </p>
+      <p>
+        This project started because of an anecdote about LA Dodgers ace Tarik Skubal's name origin. Sporting News says his given name is Arabic for
+        "strike", which would be tidy for a pitcher. It isn&rsquo;t. Tariq means the one who knocks
+        &mdash; a night visitor. So he is in the file as rejected. That is the point.
+      </p>
+
+      <p>
+        We looked at {meta.researched.toLocaleString("en-US")} names: {meta.total}{" "}
+        of them are here, from {meta.countries} countries, each with a source confirming who they
+        are and what they do. Some {meta.rejected}, including Skubal, failed review. Another{" "}
+        {meta.researched - meta.total - meta.rejected} were real enough but too thin, or we left
+        them out. The rejected ones are still in the underlying data, along with the reason each
+        one failed, because that turned out to be the most interesting part of the exercise.
+      </p>
+
+      <h2>The order</h2>
+      <p>
+        The register runs strongest first, so Usain Bolt is entry 001 and the ones that need a
+        sentence of explanation come later. Each entry keeps its number wherever it appears, so a
+        search result still tells you where that person sits in the whole. You can also sort the
+        register alphabetically or shuffle it.
+      </p>
+
+      <h2>The data</h2>
+      <p>
+        The <a href="https://github.com/stiles/theirnamesfit/tree/main/data">full dataset</a>, including the rejected entries, the review notes and the research logs,
+        is on <a href="https://github.com/stiles/theirnamesfit">GitHub</a>.
+      </p>
+      <p>
+        Found a mistake, or somebody obvious we have missed?{" "}
+        <a href="mailto:tips@theirnames.fit?subject=A%20name%20for%20the%20register">
+          Write to tips@theirnames.fit
+        </a>
+        . GitHub issues work too, if that is how you already live.
+      </p>
+
+      <p class="more" style="margin-top:2rem">
+        <a href="/">Back to the register</a>
+      </p>
+      <p class="more">
+        <a href="/random" rel="nofollow">See a random aptonym</a>
+      </p>
+    </div>
+  </section>
+</Base>
+

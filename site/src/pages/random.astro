@@ -1,0 +1,34 @@
+---
+import Base from "../layouts/Base.astro";
+import { entries } from "../lib/data";
+
+const slugs = JSON.stringify(entries.map((e) => e.slug));
+const fallback = entries[0];
+---
+
+<Base
+  title="Somebody else — theirnames.fit"
+  description="One of them, picked at random."
+  path="/random"
+  noindex
+>
+  <section class="titleblock titleblock-tight">
+    <div class="wrap">
+      <p class="edition"><span>One moment</span><span>Consulting the register</span></p>
+      <h1 class="title">Hold on.</h1>
+      <p class="standfirst">
+        Finding you somebody. If nothing happens,
+        <a href={`/${fallback.slug}`} id="fallback">here is one anyway</a>.
+      </p>
+    </div>
+  </section>
+
+  <script id="slugs" type="application/json" is:inline set:html={slugs} />
+</Base>
+
+<script>
+  const slugs: string[] = JSON.parse(document.getElementById("slugs")!.textContent!);
+  const pick = slugs[Math.floor(Math.random() * slugs.length)];
+  document.querySelector<HTMLAnchorElement>("#fallback")!.href = `/${pick}`;
+  location.replace(`/${pick}`);
+</script>

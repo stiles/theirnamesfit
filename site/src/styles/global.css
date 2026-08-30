@@ -1,0 +1,796 @@
+@import "@fontsource-variable/fraunces/full.css";
+@import "@fontsource-variable/fraunces/full-italic.css";
+@import "@fontsource/ibm-plex-mono/400.css";
+@import "@fontsource/ibm-plex-mono/600.css";
+
+:root {
+  color-scheme: light;
+  --paper: #f4f2ea;
+  --paper-2: #eeebe1;
+  --paper-warm: #efe4d4;
+  --ink: #16150f;
+  --ink-soft: #56534a;
+  --ink-faint: #8b8779;
+  --rule: #d8d3c5;
+  --rule-dot: #b5af9e;
+  --stamp: #a8351f;
+  --stamp-soft: color-mix(in srgb, var(--stamp) 18%, var(--rule));
+
+  --serif: "Fraunces Variable", Fraunces, Georgia, "Times New Roman", serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+
+  /* Fraunces carries optical size, softness and wonk axes. The quirks are the point at
+     display size and a liability across a paragraph, so each context sets its own. */
+  --f-display: "opsz" 144, "wght" 400, "SOFT" 40, "WONK" 1;
+  --f-name: "opsz" 20, "wght" 400, "SOFT" 30, "WONK" 1;
+  --f-read: "opsz" 14, "wght" 400, "SOFT" 15, "WONK" 0;
+
+  --page: 68rem;
+  --gutter: clamp(1.25rem, 4vw, 2.5rem);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  color: inherit;
+}
+
+/* Fraunces is variable, so font-weight alone would be ignored. */
+.title,
+.sheet-nm { font-variation-settings: var(--f-display); }
+
+.nm,
+.trade h2,
+.tally dd { font-variation-settings: var(--f-name); }
+
+body,
+.standfirst,
+.sheet-why,
+.note p,
+.col-rule,
+.sheet-facts dd,
+.stamp-src,
+.seek input,
+.none { font-variation-settings: var(--f-read); }
+
+:focus-visible {
+  outline: 2px solid var(--stamp);
+  outline-offset: 2px;
+}
+
+.wrap {
+  width: 100%;
+  max-width: var(--page);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.skip {
+  position: absolute;
+  left: -9999px;
+}
+
+.skip:focus {
+  left: var(--gutter);
+  top: 0.5rem;
+  z-index: 40;
+  background: var(--ink);
+  color: var(--paper);
+  padding: 0.5rem 0.75rem;
+  font-family: var(--mono);
+  font-size: 0.75rem;
+}
+
+/* ---------- running head ---------- */
+
+.runner {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: var(--paper);
+  border-bottom: 1px solid var(--ink);
+}
+
+.runner-in {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding-top: 0.55rem;
+  padding-bottom: 0.5rem;
+}
+
+.mark {
+  font-family: var(--mono);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: var(--ink-faint);
+  text-decoration: none;
+}
+
+.mark-tld { color: var(--stamp); }
+.mark:hover { color: var(--rule-dot); }
+.mark:hover .mark-tld { color: var(--ink); }
+
+.nav {
+  display: flex;
+  gap: clamp(0.75rem, 2.5vw, 1.75rem);
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+.nav a {
+  text-decoration: none;
+  padding-bottom: 1px;
+  border-bottom: 1px solid transparent;
+}
+
+.nav a:hover { color: var(--stamp); }
+.nav a[aria-current="page"] { color: var(--stamp); border-bottom-color: var(--stamp); }
+
+/* ---------- title block ---------- */
+
+/* The edition line belongs to the masthead, not to the headline, so it sits up close under
+   the nav and the whole gap goes underneath it. */
+.titleblock {
+  padding: 0.85rem 0 clamp(1.75rem, 3vw, 2.5rem);
+  background: var(--paper-warm);
+  border-bottom: 1px solid var(--stamp-soft);
+}
+.titleblock-tight { padding-bottom: 1rem; }
+
+.edition {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 0 0 clamp(2rem, 5vw, 3.25rem);
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--stamp-soft);
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.title {
+  margin: 0;
+  font-weight: 400;
+  font-size: clamp(2.75rem, 7vw, 5.25rem);
+  line-height: 0.98;
+  letter-spacing: -0.02em;
+  text-wrap: balance;
+}
+
+.standfirst {
+  max-width: 42rem;
+  margin: 1.25rem 0 0;
+  font-size: clamp(1.0625rem, 1rem + 0.35vw, 1.25rem);
+  line-height: 1.5;
+  color: var(--ink);
+  text-wrap: pretty;
+}
+
+/* ---------- finder ---------- */
+
+.finder {
+  position: sticky;
+  top: 2.05rem;
+  z-index: 15;
+  background: var(--paper);
+  border-bottom: 1px solid var(--rule);
+  padding-top: 0.75rem;
+  padding-bottom: 0.6rem;
+}
+
+/* Three tiers in this block, and they have to look like three: the search is the primary
+   control, the trades are how you actually move around the register, and the sort is an
+   afterthought. Uppercase and letterspacing are reserved for inert labels, never for
+   anything clickable, so casing alone tells you what responds to a click. */
+
+/* A fill-in-the-blank rule, the way a paper form asks for something. The line is always
+   there rather than appearing on focus, which is what makes it read as a field. */
+.seek {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1.5px solid var(--ink);
+}
+
+.seek:focus-within { border-bottom-color: var(--stamp); }
+.seek:focus-within label { color: var(--stamp); }
+
+.seek label,
+.orderlab {
+  flex: none;
+  font-family: var(--mono);
+  font-size: 0.5625rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+/* Sized to the register rows, not to the standfirst: you type at the same size as the names
+   you are looking for, and the intro stays the largest text in the block. */
+.seek-field {
+  position: relative;
+  flex: 1;
+  min-width: 0;
+}
+
+.seek input {
+  width: 100%;
+  font-family: var(--serif);
+  font-size: 1.0625rem;
+  color: var(--ink);
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+}
+
+.seek input:focus { outline: 0; }
+
+/* The real placeholder is a space, so :placeholder-shown still means empty. The visible
+   prompt is a sibling, which is what lets the caret sit after the words and blink. */
+.seek-hint {
+  position: absolute;
+  inset: 0 auto 0 0;
+  display: flex;
+  align-items: baseline;
+  font-family: var(--serif);
+  font-size: 1.0625rem;
+  font-style: italic;
+  color: var(--ink-faint);
+  pointer-events: none;
+  white-space: nowrap;
+}
+
+.caret {
+  display: inline-block;
+  width: 1.5px;
+  height: 0.9em;
+  margin-left: 0.15em;
+  background: var(--stamp);
+  transform: translateY(0.12em);
+}
+
+.seek-field:focus-within .seek-hint,
+.seek input:not(:placeholder-shown) + .seek-hint {
+  visibility: hidden;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+
+.count {
+  flex: none;
+  font-family: var(--mono);
+  font-size: 0.625rem;
+  letter-spacing: 0.06em;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+/* Tier two: the trades. Eighteen cells on a grid rather than a wrapping sentence, so the
+   counts line up in columns and the whole thing reads as an index instead of prose. */
+.tabs {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  column-gap: clamp(1rem, 2.5vw, 2.25rem);
+  margin-top: 1rem;
+  border-top: 1px solid var(--rule);
+}
+
+.tab {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+  width: 100%;
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-align: left;
+  color: var(--ink-soft);
+  background: none;
+  border: 0;
+  border-bottom: 1px solid var(--rule);
+  border-radius: 0;
+  padding: 0.3rem 0;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.tab-n {
+  flex: none;
+  font-size: 0.625rem;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+.tab:hover { color: var(--stamp); }
+.tab:hover .tab-n { color: var(--stamp); }
+
+.tab.is-on,
+.tab[aria-current="page"] {
+  font-weight: 600;
+  color: var(--stamp);
+  border-bottom-color: var(--stamp);
+}
+
+/* Tier three: the sort. Smaller and fainter than the trades, because almost nobody needs it. */
+.orderbar {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0 0.9rem;
+  /* Clear of the trades, which wrap to a second line and would otherwise look like a third. */
+  margin-top: 1rem;
+}
+
+.ord {
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0;
+  color: var(--ink-faint);
+  background: none;
+  border: 0;
+  border-bottom: 1px solid transparent;
+  border-radius: 0;
+  padding: 0.1rem 0;
+  cursor: pointer;
+}
+
+.ord:hover { color: var(--stamp); }
+.ord.is-on { font-weight: 600; color: var(--stamp); border-bottom-color: var(--stamp); }
+
+/* ---------- the register ---------- */
+
+.register { padding: 0 0 clamp(3rem, 7vw, 5rem); }
+
+.colhead,
+.rec > a {
+  display: grid;
+  grid-template-columns: 3rem minmax(0, auto) minmax(1.5rem, 1fr) minmax(0, auto) 8.5rem;
+  align-items: baseline;
+  gap: 0 0.75rem;
+}
+
+.colhead {
+  padding: 0.75rem 0 0.35rem;
+  border-bottom: 1px solid var(--ink);
+}
+
+/* The head shares the record grid but must not read as a record: every cell drops to the
+   label treatment, and the leader that joins a name to its trade has nothing to join. */
+.colhead > span {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  font-variation-settings: normal;
+}
+
+.colhead .ldr { border-bottom: 0; }
+
+.recs {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.rec { border-bottom: 1px solid var(--rule); }
+
+.rec > a {
+  text-decoration: none;
+  padding: 0.4rem 0 0.45rem;
+}
+
+.no {
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+.nm {
+  font-family: var(--serif);
+  font-size: 1.0625rem;
+  line-height: 1.25;
+}
+
+.ldr {
+  align-self: end;
+  margin-bottom: 0.1em;
+  border-bottom: 2px dotted var(--ink-faint);
+}
+
+.job {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  color: var(--ink-soft);
+  line-height: 1.3;
+}
+
+.loc {
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  color: var(--ink-faint);
+  text-align: right;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.rec > a:hover { background: var(--paper-2); }
+.rec > a:hover .no { color: var(--stamp); }
+.rec > a:hover .nm { text-decoration: underline; text-underline-offset: 3px; }
+
+.none {
+  font-family: var(--serif);
+  font-style: italic;
+  color: var(--ink-soft);
+  padding: 3rem 0;
+}
+
+/* ---------- one entry ---------- */
+
+.sheet { padding: clamp(2.5rem, 6vw, 4.5rem) 0 0; }
+
+.sheet-head {
+  display: flex;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  margin: 0 0 clamp(1.5rem, 4vw, 2.5rem);
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--ink);
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.sheet-head a { text-decoration: none; }
+.sheet-head a:hover { color: var(--stamp); }
+.sheet-head .is-ironic { color: var(--stamp); }
+
+.sheet-line {
+  display: grid;
+  grid-template-columns: minmax(0, auto) minmax(2rem, 1fr) minmax(0, auto);
+  align-items: baseline;
+  gap: 0 1.25rem;
+  margin: 0;
+  font-weight: 400;
+}
+
+.sheet-nm {
+  font-size: clamp(2.25rem, 6.5vw, 4.5rem);
+  line-height: 1;
+  letter-spacing: -0.025em;
+}
+
+.sheet-ldr {
+  align-self: end;
+  margin-bottom: 0.55em;
+  border-bottom: 1px dotted var(--rule-dot);
+}
+
+.sheet-job {
+  font-family: var(--mono);
+  font-size: clamp(0.8125rem, 1.6vw, 1.0625rem);
+  color: var(--ink-soft);
+  white-space: nowrap;
+}
+
+.sheet-why {
+  max-width: 33rem;
+  margin: clamp(1.75rem, 4vw, 2.75rem) 0 0;
+  font-size: clamp(1.125rem, 1rem + 0.6vw, 1.4375rem);
+  line-height: 1.5;
+  text-wrap: pretty;
+}
+
+.sheet-body {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(14rem, 0.8fr);
+  gap: clamp(2rem, 6vw, 5rem);
+  margin-top: clamp(2.5rem, 6vw, 4rem);
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+
+.sheet-facts { margin: 0; }
+
+.sheet-facts > div {
+  display: grid;
+  grid-template-columns: 7.5rem minmax(0, 1fr);
+  gap: 0.75rem;
+  padding: 0.35rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.sheet-facts dt {
+  font-family: var(--mono);
+  font-size: 0.625rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  padding-top: 0.2rem;
+}
+
+.sheet-facts dd { margin: 0; font-size: 0.9375rem; }
+.sheet-facts a { text-decoration: none; border-bottom: 1px solid var(--rule-dot); }
+.sheet-facts a:hover { color: var(--stamp); border-bottom-color: var(--stamp); }
+
+.sheet-check {
+  border-left: 1px solid var(--rule);
+  padding-left: clamp(1.25rem, 3vw, 2rem);
+}
+
+.stamp {
+  display: inline-block;
+  margin: 0;
+  padding: 0.25rem 0.6rem;
+  border: 1.5px solid var(--stamp);
+  color: var(--stamp);
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  transform: rotate(-1.5deg);
+}
+
+.stamp-src { margin: 0.9rem 0 0; font-size: 0.9375rem; }
+.stamp-src a { text-decoration: none; border-bottom: 1px solid var(--rule-dot); }
+.stamp-src a:hover { color: var(--stamp); border-bottom-color: var(--stamp); }
+
+.stamp-note {
+  margin: 0.5rem 0 0;
+  font-size: 0.875rem;
+  font-style: italic;
+  color: var(--ink-soft);
+}
+
+.register-rel { padding-top: clamp(2.5rem, 6vw, 4rem); }
+
+.sec {
+  margin: 0 0 0.25rem;
+  font-family: var(--mono);
+  font-size: 0.625rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.register-rel .recs { border-top: 1px solid var(--ink); }
+
+#more { margin-top: 0.75rem; }
+#more .ord { font-size: 0.75rem; color: var(--ink); border-bottom-color: var(--ink); }
+
+.more {
+  margin: 1.25rem 0 0;
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.more a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--rule-dot); }
+.more a:hover { color: var(--stamp); border-bottom-color: var(--stamp); }
+
+/* ---------- by trade ---------- */
+
+.trades { padding: clamp(1.5rem, 4vw, 2.5rem) 0 clamp(3rem, 7vw, 5rem); }
+
+.trades-in {
+  columns: 2;
+  column-gap: clamp(2rem, 5vw, 4rem);
+}
+
+.trade {
+  break-inside: avoid;
+  margin-bottom: 2rem;
+  border-top: 1px solid var(--ink);
+  padding-top: 0.5rem;
+}
+
+.trade h2 { margin: 0 0 0.4rem; font-size: 1.25rem; font-weight: 400; }
+.trade h2 a { text-decoration: none; }
+.trade h2 a:hover { color: var(--stamp); }
+
+.trade-n {
+  margin-left: 0.5rem;
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+.trade-list { margin: 0; padding: 0; list-style: none; }
+
+.trade-list li { border-bottom: 1px solid var(--rule); }
+
+.trade-list a {
+  display: grid;
+  grid-template-columns: minmax(0, auto) minmax(1.5rem, 1fr) minmax(0, auto);
+  align-items: baseline;
+  gap: 0 0.6rem;
+  padding: 0.28rem 0;
+  text-decoration: none;
+}
+
+.trade-list a:hover .nm { text-decoration: underline; text-underline-offset: 3px; }
+.trade-list a:hover .no { color: var(--stamp); }
+.trade-list .nm { font-size: 0.9375rem; }
+.trade-list .job { font-size: 0.6875rem; }
+
+/* ---------- prose pages ---------- */
+
+.note { padding: 0 0 clamp(3rem, 7vw, 5rem); }
+
+/* A measure on the text, not on the wrapper: the prose has to start on the same left edge
+   as the title above it, and a narrower .wrap would centre itself instead. */
+.note p,
+.note h2 { max-width: 42rem; }
+
+.note p { font-size: 1.0625rem; line-height: 1.6; margin: 0 0 1.1em; }
+.note .lede { font-size: 1.375rem; line-height: 1.45; max-width: 36rem; }
+.note a { text-decoration: none; border-bottom: 1px solid var(--rule-dot); }
+.note a:hover { color: var(--stamp); border-bottom-color: var(--stamp); }
+.note h2 {
+  margin: 2rem 0 0.6rem;
+  font-size: 1.25rem;
+  font-weight: 400;
+  font-variation-settings: var(--f-name);
+}
+
+/* ---------- colophon ---------- */
+
+.colophon { border-top: 1px solid var(--stamp-soft); background: var(--paper-warm); }
+
+.colophon-in {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: clamp(1.5rem, 5vw, 4rem);
+  padding-top: 1.5rem;
+  padding-bottom: 2.5rem;
+}
+
+.col-rule {
+  margin: 0;
+  max-width: 28rem;
+  font-size: 0.9375rem;
+  line-height: 1.55;
+  color: var(--ink-soft);
+}
+
+.col-links {
+  margin: 0.9rem 0 0;
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.col-links a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--rule-dot); }
+.col-links a:hover { color: var(--stamp); border-bottom-color: var(--stamp); }
+
+.tally {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.75rem 1.5rem;
+  margin: 0;
+  align-self: start;
+}
+
+.tally dt {
+  font-family: var(--mono);
+  font-size: 0.625rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.tally dd {
+  margin: 0.1rem 0 0;
+  font-size: 1.5rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.tally dd span { font-family: var(--mono); font-size: 0.75rem; color: var(--ink-faint); }
+
+[hidden] { display: none !important; }
+
+@media (max-width: 64rem) {
+  .tabs { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
+
+@media (max-width: 46rem) {
+  .runner-in { display: block; }
+  .nav {
+    width: 100%;
+    justify-content: space-between;
+    gap: 0;
+    margin-top: 0.35rem;
+  }
+  .nav a { padding: 0.4rem 0; }
+
+  .tabs { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+
+  .colhead .loc,
+  .rec .loc,
+  .colhead .job { display: none; }
+
+  .colhead,
+  .rec > a { grid-template-columns: 2.25rem minmax(0, 1fr); }
+
+  .colhead .ldr,
+  .rec .ldr { display: none; }
+
+  .rec .nm,
+  .rec .job { grid-column: 2; }
+
+  .rec .job { margin-top: 0.1rem; }
+
+  .sheet-body,
+  .colophon-in { grid-template-columns: 1fr; }
+
+  .trades-in { columns: 1; }
+
+  .sheet-check {
+    border-left: 0;
+    border-top: 1px solid var(--rule);
+    padding-left: 0;
+    padding-top: 1.25rem;
+  }
+
+  .sheet-line { grid-template-columns: 1fr; gap: 0.5rem; }
+  .sheet-ldr { display: none; }
+  .finder { position: static; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .rec > a,
+  .nav a,
+  .tab,
+  .ord { transition: color 100ms ease, background-color 100ms ease, border-color 100ms ease; }
+
+  .caret { animation: blink 1.05s step-end infinite; }
+}

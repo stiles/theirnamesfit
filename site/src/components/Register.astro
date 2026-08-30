@@ -1,0 +1,72 @@
+---
+import { surnameKey, type Entry } from "../lib/data";
+
+interface Props {
+  list: Entry[];
+  /** Adds the keys the client-side search, trade filter and order control read. */
+  interactive?: boolean;
+  /** The column head is only worth printing above a long run. */
+  head?: boolean;
+}
+
+const { list, interactive = false, head = false } = Astro.props;
+
+/** What a search should match: the visible text plus the things people actually type. */
+const keys = (e: Entry) => {
+  const text = [
+    e.name,
+    e.occupation,
+    e.field,
+    e.country,
+    e.organization,
+    e.connection,
+    e.origin,
+    e.tags,
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+  // Nobody typing "jager" should miss Adolf Jäger, so carry a stripped copy too.
+  const plain = text
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[\u2018\u2019\u201c\u201d']/g, "");
+  return plain === text ? text : `${text} ${plain}`;
+};
+
+const pad = (n: number) => String(n).padStart(3, "0");
+---
+
+{
+  head && (
+    <div class="colhead" aria-hidden="true">
+      <span class="no">No.</span>
+      <span class="nm">Name</span>
+      <span class="ldr" />
+      <span class="job">Trade</span>
+      <span class="loc">Country</span>
+    </div>
+  )
+}
+
+<ol class="recs">
+  {
+    list.map((e) => (
+      <li
+        class="rec"
+        data-k={interactive ? keys(e) : undefined}
+        data-f={interactive ? e.field : undefined}
+        data-n={interactive ? e.no : undefined}
+        data-a={interactive ? surnameKey(e) : undefined}
+      >
+        <a href={`/${e.slug}`}>
+          <span class="no">{pad(e.no)}</span>
+          <span class="nm">{e.name}</span>
+          <span class="ldr" />
+          <span class="job">{e.occupation}</span>
+          <span class="loc">{e.country}</span>
+        </a>
+      </li>
+    ))
+  }
+</ol>

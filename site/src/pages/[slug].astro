@@ -1,0 +1,93 @@
+---
+import Base from "../layouts/Base.astro";
+import Register from "../components/Register.astro";
+import { entries, get, fieldLabel } from "../lib/data";
+
+export function getStaticPaths() {
+  return entries.map((entry) => ({ params: { slug: entry.slug }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const related = entry.related.map(get);
+const description = `${entry.name}, ${entry.occupation}. ${entry.connection}`;
+
+const facts: [string, string][] = [
+  ["Trade", entry.occupation],
+  ["Field", fieldLabel(entry.field)],
+  ["Country", entry.country],
+  ["Attached to", entry.organization],
+  ["Dates", entry.life],
+  ["Name origin", entry.origin],
+];
+---
+
+<Base
+  title={`${entry.name}, ${entry.occupation} — theirnames.fit`}
+  description={description}
+  path={`/${entry.slug}`}
+  image={`/og/${entry.slug}.png`}
+  imageAlt={`${entry.name}, ${entry.occupation}`}
+>
+  <article class="sheet">
+    <div class="wrap">
+      <p class="sheet-head">
+        <span>Entry No. {String(entry.no).padStart(3, "0")}</span>
+        <a href={`/fields/${entry.field}`}>{fieldLabel(entry.field)}</a>
+        {entry.country && <span>{entry.country}</span>}
+        {entry.ironic && <a class="is-ironic" href="/inaptronyms">Inaptronym</a>}
+      </p>
+
+      <h1 class="sheet-line">
+        <span class="sheet-nm">{entry.name}</span>
+        <span class="sheet-ldr"></span>
+        <span class="sheet-job">{entry.occupation}</span>
+      </h1>
+
+      <p class="sheet-why">{entry.connection}</p>
+
+      <div class="sheet-body">
+        <dl class="sheet-facts">
+          {
+            facts
+              .filter(([, v]) => v)
+              .map(([k, v]) => (
+                <div>
+                  <dt>{k}</dt>
+                  <dd>{v}</dd>
+                </div>
+              ))
+          }
+        </dl>
+
+        <div class="sheet-check">
+          <p class="stamp">Checked</p>
+          <p class="stamp-src">
+            <a href={entry.source} rel="nofollow noopener">{entry.sourceLabel}</a>
+            {
+              entry.nameSource && entry.nameSource !== entry.source && (
+                <>
+                  {" "}&middot;{" "}
+                  <a href={entry.nameSource} rel="nofollow noopener">
+                    the name
+                  </a>
+                </>
+              )
+            }
+          </p>
+          {entry.context && <p class="stamp-note">{entry.context}</p>}
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <section class="register register-rel">
+    <div class="wrap">
+      <p class="sec">Nearby in the register</p>
+      <Register list={related} />
+      <p class="more">
+        <a href="/">The whole register</a> &middot;
+        <a href="/random" rel="nofollow">Send me another</a>
+      </p>
+    </div>
+  </section>
+</Base>

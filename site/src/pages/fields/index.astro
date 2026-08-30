@@ -1,0 +1,52 @@
+---
+import Base from "../../layouts/Base.astro";
+import { inField, meta } from "../../lib/data";
+
+const trades = meta.fields.map((f) => ({ ...f, picks: inField(f.slug).slice(0, 6) }));
+---
+
+<Base
+  title="By trade — theirnames.fit"
+  description={`The register divided into its ${meta.fields.length} trades, from sport to funeral direction.`}
+  path="/fields"
+>
+  <section class="titleblock titleblock-tight">
+    <div class="wrap">
+      <p class="edition"><span>Part two</span><span>The register, divided</span></p>
+      <h1 class="title">By trade.</h1>
+      <p class="standfirst">
+        {meta.fields.length} of them. Sport runs away with it because league rosters are the most
+        searchable list of human names in existence, which says more about the sources than about
+        the world.
+      </p>
+    </div>
+  </section>
+
+  <section class="trades">
+    <div class="wrap trades-in">
+      {
+        trades.map((t) => (
+          <section class="trade">
+            <h2>
+              <a href={`/fields/${t.slug}`}>
+                {t.label}
+                <span class="trade-n">{t.count}</span>
+              </a>
+            </h2>
+            <ul class="trade-list">
+              {t.picks.map((e) => (
+                <li>
+                  <a href={`/${e.slug}`}>
+                    <span class="nm">{e.name}</span>
+                    <span class="ldr" />
+                    <span class="job">{e.occupation}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+  </section>
+</Base>

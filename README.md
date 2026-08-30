@@ -12,13 +12,13 @@ every entry that failed review is still in the file with the reason it failed.
 
 | | |
 | --- | --- |
-| People | 1,325 |
-| Reviewed as real, scoring 3 or better | 691 |
+| People | 1,328 |
+| Reviewed as real, scoring 3 or better | 694 |
 | Rejected on review, retained with reasons | 294 |
 | Fields covered | 17, from sports to funeral direction |
 | Countries | 76 |
 | Earliest birth year that survived review | 85 BC |
-| Source URLs machine-checked | 2,184, of which 2 are dead — both on rejected rows |
+| Source URLs machine-checked | 2,187, of which 2 are dead — both on rejected rows |
 
 Run `make stats` for the current breakdown, which is generated from the data rather than
 typed here.
@@ -34,6 +34,7 @@ data/research/              raw per-domain research output and each researcher's
 data/audit/                 review slices, correction files and reviewer logs
 data/url_check.csv          HTTP status of every source URL
 data/wikipedia_enrichment.csv  what the Wikipedia pass changed and why
+site/                       the public website, theirnames.fit
 .cursor/docs/research-log.md   searches run, sources mined, rejections, open gaps
 .cursor/docs/research-brief.md the instructions the research agents worked from
 ```
@@ -93,12 +94,62 @@ make rebuild   # replay research -> apply audit corrections -> merge -> integrit
 make enrich    # Wikipedia pass: fill dates, detect birth names   (network)
 make urls      # re-check every source URL                        (network, ~3 min)
 make db        # rebuild the SQLite copy
+make site-data # regenerate the website's JSON snapshot
 make stats     # print the summary
 make check     # validate without writing
 ```
 
 `make rebuild` is deterministic and idempotent. It replays the research files in a fixed order
 so that record ids stay stable, because the audit correction files are keyed by id.
+
+## The website
+
+`site/` is [theirnames.fit](https://theirnames.fit): a static Astro build, one prerendered page
+per person, no client framework and no runtime data access. It ships about 100 KB per page, most
+of that two woff2 fonts. The homepage carries the whole register and filters it client-side, so
+search, the trade filter and the sort control never hit the network.
+
+The site never reads the CSV. `scripts/build_site_data.py` filters the master file down to what is
+publishable and writes `site/src/data/entries.json`, which is committed. So a deploy needs Node and
+nothing else, and the website cannot drift from the research data without a visible diff.
+
+```
+make site-data                 # regenerate the snapshot after changing the dataset
+cd site && npm install         # Node 22.12 or newer; see site/.nvmrc
+npm run dev                    # localhost:4321
+npm run build                  # ~1m40s, of which most is generating 691 social cards
+```
+
+What the site publishes: `review_status` of `verified` or `probable`, `aptronym_score` of 3 or
+better, minus three sound records withheld because the joke lands on a criminal conviction. That
+is 691 of the 1,328 people in the file. The exclusions are listed by id at the top of
+`scripts/build_site_data.py` and are trivial to reverse.
+
+The score, the review status, the type tags and the audit half of the `notes` column never reach
+the browser. `notes` is cut at the first research marker, so what survives is the sentence about
+the person rather than the sentence about the review.
+
+The score does one job before it is dropped: it fixes the running order. `build_site_data.py`
+sorts on score, then on how well the row is sourced, then on the length of the connection line,
+which is a decent proxy for whether the joke needs explaining. It then stamps each entry with a
+permanent register number, so Usain Bolt is 001 and the reader meets the self-evident cases
+first. That number travels with the person through every sort, filter and search on the site,
+which is why a search for "weather" returns 057, 082, 119 rather than renumbering from one.
+
+The site is laid out as a register rather than a set of cards. Name and trade sit on a single
+line joined by a dot leader, so the collision reads in one glance, and the homepage is the full
+list rather than a landing page in front of it. Names are set in Fraunces, with its optical
+size, softness and wonk axes tuned per context; everything else — trades, countries, counts,
+labels — is IBM Plex Mono. The only colour is an oxidised red, used for the "Checked" stamp and
+for hover states, on the grounds that verification is the one thing worth colouring in.
+
+Each entry gets a 1200x630 social card generated at build time by satori and resvg. The cards
+are set entirely in Courier Prime: in a monospaced face the dot leader can simply be typed, so
+the card is one line off a printout rather than a drawn layout. Satori cannot read variable
+fonts or woff2, so `site/fonts/` holds the two static TTFs, taken from Google Fonts as-is.
+
+Deployment is Vercel with the project root set to `site`. `site/vercel.json` handles clean URLs
+and cache headers; everything else is Astro defaults.
 
 ## How it was built
 
@@ -125,8 +176,8 @@ person happening to suit the unit.
 - **Verification is single-source for most rows.** The brief required one reliable source, not
   two. Rows resting on an employer page, a licence registry or a consumer physician directory
   are capped at `probable` and noted.
-- **The link check cannot prove a page says what we claim.** It proves the page exists. 244 of
-  the 2,184 references sit behind bot walls — Olympedia, Baseball Reference and LinkedIn all
+- **The link check cannot prove a page says what we claim.** It proves the page exists. 214 of
+  the 2,187 references sit behind bot walls — Olympedia, Baseball Reference and LinkedIn all
   refuse automated requests — so those were confirmed by hand when the row was written but
   cannot be rechecked automatically. That gap hid three guessed Baseball Reference ids through
   several rounds of checking, because a bot wall and a missing page look identical from outside.
@@ -134,6 +185,13 @@ person happening to suit the unit.
   for the trait it describes is not an aptronym, and 17 rows had it backwards, including Frank
   "Home Run" Baker at a score of 5. They are rejected or downgraded now, but the same error
   could survive elsewhere in any row whose `name_status` is `professional_name`.
+- **One agent's exclusion list was taken on trust.** The sports-northamerica log opens by
+  excluding twelve names as already being in the master dataset. Three of them were not: James
+  Outman, Josh Outman and Grant Balfour. James Outman is one of the four headline examples at the
+  top of this README, so the gap sat in the most visible place in the project until somebody
+  checked the claim against the file. They are in now, through
+  `data/research/sports-skipped.csv`. Every other domain log carries a similar exclusion list and
+  none of them has been checked.
 - **Coverage is Anglophone-heavy.** Half the records are American. 179 rows turn on translation
   across 25 languages, which is better than any published list, but Chinese, Korean, Vietnamese
   and most African and South Asian languages are barely touched.

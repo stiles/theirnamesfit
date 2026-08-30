@@ -1,0 +1,180 @@
+---
+import Base from "../layouts/Base.astro";
+import Register from "../components/Register.astro";
+import { entries, meta } from "../lib/data";
+---
+
+<Base
+  title="Their names fit — a register of suspiciously appropriate names, or aptonyms"
+  description={`Some people have names that fit their jobs suspiciously well. We found ${meta.total} of them, and checked every one against a source.`}
+  path="/"
+>
+  <section class="titleblock">
+    <div class="wrap">
+      <p class="edition">
+        <span>A register of aptonyms</span>
+      </p>
+      <h1 class="title">Their names fit.</h1>
+      <p class="standfirst">
+        Some careers seem preordained. Usain Bolt sprinted. Igor Judge judged. Bert Beveridge made vodka. There are many, many others. Looking at you, Tiger Woods! <em>Explore them all here.</em>
+      </p>
+    </div>
+  </section>
+
+  <section class="finder" aria-label="Search and filter the register">
+    <div class="wrap">
+      <div class="seek">
+        <label class="skip" for="q">Search the register</label>
+        <div class="seek-field">
+          <input
+            id="q"
+            type="search"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder=" "
+          />
+          <span class="seek-hint" aria-hidden="true">
+            Search: Name, trade, country<span class="caret"></span>
+          </span>
+        </div>
+        <span class="count" id="count" role="status" aria-live="polite">
+          {meta.total} entries
+        </span>
+      </div>
+
+      <div class="tabs" id="tabs">
+        <button class="tab is-on" type="button" data-f="">
+          <span>All</span><span class="tab-n">{meta.total}</span>
+        </button>
+        {
+          meta.fields.map((f) => (
+            <button class="tab" type="button" data-f={f.slug}>
+              <span>{f.label}</span>
+              <span class="tab-n">{f.count}</span>
+            </button>
+          ))
+        }
+      </div>
+
+      <div class="orderbar" id="orderbar">
+        <span class="orderlab">Order</span>
+        <button class="ord is-on" type="button" data-o="n">As entered</button>
+        <button class="ord" type="button" data-o="a">A&ndash;Z by surname</button>
+        <button class="ord" type="button" data-o="r">Shuffle</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="register">
+    <div class="wrap">
+      <Register list={entries} interactive head />
+      <p class="more" id="more" hidden>
+        <button type="button" class="ord" id="more-btn">Show the rest</button>
+      </p>
+      <p class="none" id="none" hidden>No such person in the register.</p>
+    </div>
+  </section>
+</Base>
+
+<script>
+  const q = document.querySelector<HTMLInputElement>("#q")!;
+  const list = document.querySelector<HTMLOListElement>(".recs")!;
+  const recs = [...list.querySelectorAll<HTMLLIElement>(".rec")];
+  const count = document.querySelector<HTMLElement>("#count")!;
+  const none = document.querySelector<HTMLElement>("#none")!;
+  const tabs = [...document.querySelectorAll<HTMLButtonElement>("#tabs .tab")];
+  const ords = [...document.querySelectorAll<HTMLButtonElement>("#orderbar .ord")];
+  const more = document.querySelector<HTMLElement>("#more")!;
+  const moreBtn = document.querySelector<HTMLButtonElement>("#more-btn")!;
+
+  const PAGE = 40;
+  let expanded = false;
+
+  const strip = (s: string) =>
+    s
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/[\u2018\u2019\u201c\u201d']/g, "")
+      .trim();
+
+  let field = "";
+
+  function apply(pushUrl = true) {
+    const terms = strip(q.value).split(/\s+/).filter(Boolean);
+    let shown = 0;
+    // A search is someone looking for a person, so open the fold. A trade filter still
+    // uses the fold: Sports is 173 rows and that is the problem this is solving.
+    if (terms.length) expanded = true;
+
+    for (const rec of recs) {
+      const keys = rec.dataset.k ?? "";
+      const ok = (!field || rec.dataset.f === field) && terms.every((t) => keys.includes(t));
+      if (ok) shown++;
+      rec.hidden = !ok || (!expanded && shown > PAGE);
+    }
+
+    count.textContent = shown === 1 ? "1 entry" : `${shown.toLocaleString("en-US")} entries`;
+    none.hidden = shown > 0;
+    more.hidden = expanded || shown <= PAGE;
+    moreBtn.textContent =
+      shown > PAGE ? `Show the other ${(shown - PAGE).toLocaleString("en-US")}` : "Show the rest";
+
+    for (const tab of tabs) tab.classList.toggle("is-on", (tab.dataset.f ?? "") === field);
+
+    if (pushUrl) {
+      const params = new URLSearchParams();
+      if (q.value.trim()) params.set("q", q.value.trim());
+      if (field) params.set("trade", field);
+      const query = params.toString();
+      history.replaceState(null, "", query ? `?${query}` : location.pathname);
+    }
+  }
+
+  function reorder(mode: string) {
+    const sorted = [...recs];
+    if (mode === "a") {
+      sorted.sort((a, b) => (a.dataset.a ?? "").localeCompare(b.dataset.a ?? ""));
+    } else if (mode === "r") {
+      for (let i = sorted.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [sorted[i], sorted[j]] = [sorted[j], sorted[i]];
+      }
+    } else {
+      sorted.sort((a, b) => Number(a.dataset.n) - Number(b.dataset.n));
+    }
+    const frag = document.createDocumentFragment();
+    for (const rec of sorted) frag.appendChild(rec);
+    list.appendChild(frag);
+  }
+
+  q.addEventListener("input", () => apply());
+  q.addEventListener("search", () => apply());
+
+  for (const tab of tabs) {
+    tab.addEventListener("click", () => {
+      const next = tab.dataset.f ?? "";
+      field = field === next ? "" : next;
+      apply();
+    });
+  }
+
+  for (const ord of ords) {
+    ord.addEventListener("click", () => {
+      for (const other of ords) other.classList.toggle("is-on", other === ord);
+      reorder(ord.dataset.o ?? "n");
+      apply();
+    });
+  }
+
+  moreBtn.addEventListener("click", () => {
+    expanded = true;
+    apply();
+  });
+
+  const params = new URLSearchParams(location.search);
+  q.value = params.get("q") ?? "";
+  field = params.get("trade") ?? "";
+  if (field && !tabs.some((t) => (t.dataset.f ?? "") === field)) field = "";
+  apply(false);
+</script>

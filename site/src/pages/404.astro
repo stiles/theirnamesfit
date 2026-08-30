@@ -1,0 +1,34 @@
+---
+import Base from "../layouts/Base.astro";
+import Register from "../components/Register.astro";
+import { entries, meta } from "../lib/data";
+---
+
+<Base
+  title="Not in the register — theirnames.fit"
+  description="That page does not exist."
+  path="/404"
+  noindex
+>
+  <section class="titleblock titleblock-tight">
+    <div class="wrap">
+      <p class="edition"><span>Error 404</span><span>No such entry</span></p>
+      <h1 class="title">Nobody by that name.</h1>
+      <p class="standfirst">
+        Whoever you were looking for, they are not at this address. These ones are.
+      </p>
+    </div>
+  </section>
+
+  <section class="register">
+    <div class="wrap">
+      <Register list={entries.slice(0, 6)} head />
+      <p class="more">
+        <a href="/">Search all {meta.total}</a>
+      </p>
+      <p class="more">
+        <a href="/random" rel="nofollow">See a random aptonym</a>
+      </p>
+    </div>
+  </section>
+</Base>

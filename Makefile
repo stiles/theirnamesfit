@@ -7,10 +7,12 @@ GEN1 = canonical.csv law-crime.csv medicine.csv sports-individual.csv \
        weather-nature.csv arts-media.csv business-food-faith-trades.csv translation.csv \
        historical.csv
 
-# Third-pass research, merged on top with sticky ids.
-GEN2 = sports-gaps.csv archives.csv translation-gaps.csv professions-gaps.csv restored.csv
+# Third-pass research, merged on top with sticky ids. Append only: inserting a file earlier in
+# this list would hand new ids to people who already have them.
+GEN2 = sports-gaps.csv archives.csv translation-gaps.csv professions-gaps.csv restored.csv \
+       sports-skipped.csv skubal.csv
 
-.PHONY: all rebuild check urls enrich db stats clean-db
+.PHONY: all rebuild check urls enrich db stats site-data clean-db
 
 ## Rebuild the master dataset from scratch, deterministically.
 rebuild:
@@ -25,7 +27,7 @@ rebuild:
 	$(PY) scripts/merge.py --check | tail -4
 
 ## Everything, including the network passes. Slow.
-all: rebuild enrich db stats
+all: rebuild enrich db site-data stats
 
 check:
 	$(PY) scripts/merge.py --check
@@ -41,6 +43,10 @@ enrich:
 ## Build the queryable SQLite copy.
 db:
 	$(PY) scripts/build_db.py
+
+## Regenerate the website's data snapshot. Commit the result; the deploy runs Node only.
+site-data:
+	$(PY) scripts/build_site_data.py
 
 stats:
 	$(PY) scripts/stats.py

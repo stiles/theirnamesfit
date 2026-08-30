@@ -1,0 +1,28 @@
+{
+  "name": "theirnames-fit",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "theirnames.fit — real people, suspiciously appropriate names",
+  "engines": {
+    "node": ">=22.12"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "rm -rf dist && astro build",
+    "preview": "astro preview",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.3",
+    "@resvg/resvg-js": "^2.6.2",
+    "astro": "^7.2.9",
+    "satori": "^0.33.4"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "@fontsource-variable/fraunces": "^5.3.0",
+    "@fontsource/ibm-plex-mono": "^5.3.0",
+    "typescript": "^6.0.3"
+  }
+}

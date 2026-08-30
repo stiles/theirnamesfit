@@ -1,0 +1,59 @@
+---
+import Base from "../../layouts/Base.astro";
+import Register from "../../components/Register.astro";
+import { fieldLabel, inField, meta } from "../../lib/data";
+
+export function getStaticPaths() {
+  return meta.fields.map((f) => ({ params: { field: f.slug }, props: { field: f } }));
+}
+
+const { field } = Astro.props;
+const list = inField(field.slug);
+const label = fieldLabel(field.slug);
+const countries = new Set(list.map((e) => e.country).filter(Boolean)).size;
+---
+
+<Base
+  title={`${label} — theirnames.fit`}
+  description={`${field.count} people in ${label.toLowerCase()} whose names fit their work, each one sourced.`}
+  path={`/fields/${field.slug}`}
+>
+  <section class="titleblock titleblock-tight">
+    <div class="wrap">
+      <p class="edition">
+        <span>Part two</span><span><a href="/fields">All trades</a></span>
+      </p>
+      <h1 class="title">{label}.</h1>
+      <p class="standfirst">
+        {field.count} of them, across {countries}{" "}
+        {countries === 1 ? "country" : "countries"}, strongest first.
+      </p>
+    </div>
+  </section>
+
+  <section class="finder" aria-label="The other trades">
+    <div class="wrap">
+      <div class="tabs">
+        <a class="tab" href="/"><span>All</span><span class="tab-n">{meta.total}</span></a>
+        {
+          meta.fields.map((f) => (
+            <a
+              class="tab"
+              href={`/fields/${f.slug}`}
+              aria-current={f.slug === field.slug ? "page" : undefined}
+            >
+              <span>{f.label}</span>
+              <span class="tab-n">{f.count}</span>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="register">
+    <div class="wrap">
+      <Register list={list} head />
+    </div>
+  </section>
+</Base>

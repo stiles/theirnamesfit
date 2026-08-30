@@ -3,7 +3,7 @@ apt-0001,A. J. Splatt,person_source_url,https://en.wikipedia.org/wiki/Nominative
 apt-0001,A. J. Splatt,discovery_source_url,https://en.wikipedia.org/wiki/Nominative_determinism,200
 apt-0002,Aaron Doctor,person_source_url,https://npiregistry.cms.hhs.gov/,200
 apt-0002,Aaron Doctor,discovery_source_url,https://doi.org/10.1179/002777310x12682237914945,200
-apt-0003,Aaron Judge,person_source_url,https://www.baseball-reference.com/players/j/judgeaa01.shtml,429
+apt-0003,Aaron Judge,person_source_url,https://www.baseball-reference.com/players/j/judgeaa01.shtml,200
 apt-0004,Aaron Snow,person_source_url,https://www.hockey-reference.com/players/s/snowaa01.html,200
 apt-0005,Abby Stork,person_source_url,https://npiregistry.cms.hhs.gov/,200
 apt-0005,Abby Stork,discovery_source_url,https://npiregistry.cms.hhs.gov/,200
@@ -95,7 +95,7 @@ apt-0053,Andrew Fisher,person_source_url,https://eps.ucsc.edu/people/?directoryp
 apt-0054,Andrew Fountain,person_source_url,https://www.pdx.edu/faculty-experts/expert/andrew-fountain,200
 apt-0054,Andrew Fountain,discovery_source_url,https://www.neatorama.com/2013/03/19/The-Name-Number-for-Geology-and-for-Other-Professions/,200
 apt-0055,Andrew Hull Foote,person_source_url,https://en.wikipedia.org/wiki/Andrew_Hull_Foote,200
-apt-0056,Andrew Painter,person_source_url,https://www.baseball-reference.com/players/p/paintan01.shtml,429
+apt-0056,Andrew Painter,person_source_url,https://www.baseball-reference.com/players/p/paintan01.shtml,200
 apt-1267,Andrew Pothecary,person_source_url,https://pharmaceutical-journal.com/article/feature/i-have-issued-15-repeat-prescriptions-this-morning-a-day-in-the-life-of-a-rheumatology-pharmacist,200
 apt-1267,Andrew Pothecary,name_source_url,https://en.wiktionary.org/wiki/apothecary,200
 apt-1267,Andrew Pothecary,discovery_source_url,https://improbable.com/2015/03/17/nominative-determinism-a-pothecary-the-pharmacist/,200
@@ -230,7 +230,7 @@ apt-0136,Brad Hand,discovery_source_url,https://www.theguardian.com/lifeandstyle
 apt-0137,Brad Slaughter,person_source_url,https://www.thesun.co.uk/news/7990629/experts-names-bizarre-similarity-to-job/,200
 apt-0137,Brad Slaughter,discovery_source_url,https://icon.ink/articles/nominative-determinism-examples-jobs/,200
 apt-0138,Braeden Winters,person_source_url,https://www.gjsentinel.com/news/western_colorado/december-heat-wave-in-grand-junction-is-unprecedented/article_85cdcec1-22c2-4cac-aa03-6a369d8a9e5b.html,200
-apt-0138,Braeden Winters,name_source_url,https://en.wiktionary.org/wiki/winter,200
+apt-0138,Braeden Winters,name_source_url,https://en.wiktionary.org/wiki/winter,429
 apt-0139,Brandon Fields,person_source_url,https://www.pro-football-reference.com/players/F/FielBr20.htm,403
 apt-0140,Brett Goode,person_source_url,https://www.pro-football-reference.com/players/G/GoodBr99.htm,403
 apt-0141,Brett Welch,person_source_url,https://www.counselmagazine.co.uk/articles/at-the-sharp-end--brett-welch,200
@@ -289,10 +289,10 @@ apt-0168,Carol Kirkwood,name_source_url,https://en.wiktionary.org/wiki/kirk,200
 apt-0169,Carolyn Screech,person_source_url,https://www.bbc.com/news/uk-england-cornwall-16068468,200
 apt-0169,Carolyn Screech,discovery_source_url,https://www.newscientist.com/article/1849552-feedback-507/,200
 apt-0170,Carrie Wolf Ritchie,person_source_url,https://thevillagereporter.com/montpelier-native-carrie-wolf-ritchie-puts-her-love-of-animals-to-use-in-columbus/,200
-apt-0170,Carrie Wolf Ritchie,name_source_url,https://en.wiktionary.org/wiki/wolf,200
+apt-0170,Carrie Wolf Ritchie,name_source_url,https://en.wiktionary.org/wiki/wolf,429
 apt-0171,Casey Cloud,person_source_url,https://cloudsweather.com/about/,200
 apt-0171,Casey Cloud,name_source_url,https://en.wiktionary.org/wiki/cloud,200
-apt-0172,Catfish Hunter,person_source_url,https://www.baseball-reference.com/players/h/hunteca01.shtml,429
+apt-0172,Catfish Hunter,person_source_url,https://www.baseball-reference.com/players/h/hunteca01.shtml,200
 apt-0173,Catherine Ann Limb,person_source_url,https://healthgps.co.uk/gp/4319-leigh-view-medical-practice/,200
 apt-0173,Catherine Ann Limb,discovery_source_url,https://doi.org/10.1308/147363515X14134529299420,403
 apt-0174,Catherine Anne Fairpo,person_source_url,https://www.judiciary.uk/appointments-and-retirements/appointment-as-a-judge-of-the-first-tier-tribunal-tax-chamber-catherine-fairpo/,200
@@ -384,7 +384,7 @@ apt-0226,Claudio Gentile,discovery_source_url,https://en.wikipedia.org/wiki/Aptr
 apt-0227,Clifford Butcher,person_source_url,https://www.anklearthritis.co.uk/mr-clifford-butcher,200
 apt-0228,Clint Eastwood,person_source_url,https://en.wikipedia.org/wiki/Clint_Eastwood,200
 apt-0229,Clive Rush,person_source_url,https://www.pro-football-reference.com/players/R/RushCl20.htm,403
-apt-0230,Clyde Kluttz,person_source_url,https://www.baseball-reference.com/players/k/kluttcl01.shtml,429
+apt-0230,Clyde Kluttz,person_source_url,https://www.baseball-reference.com/players/k/kluttcl01.shtml,200
 apt-0230,Clyde Kluttz,discovery_source_url,https://doi.org/10.1179/175622709x462478,200
 apt-0231,Colin Bass,person_source_url,https://en.wikipedia.org/wiki/Colin_Bass,200
 apt-0231,Colin Bass,discovery_source_url,https://www.theguardian.com/media/mind-your-language/2014/oct/31/mind-your-language-nominative-determinism,200
@@ -405,7 +405,7 @@ apt-0239,Craig M. Bone,discovery_source_url,https://www.standard.co.uk/lifestyle
 apt-1276,Cramer J. Stiff,person_source_url,https://www.deseret.com/1997/6/22/19319526/vocationally-apt-names-aren-t-always-a-blessing-ask-undertaker-cramer-stiff-judge-aaron-ment-or-exte/,200
 apt-0240,Creflo Dollar,person_source_url,https://en.wikipedia.org/wiki/Creflo_Dollar,200
 apt-0240,Creflo Dollar,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
-apt-0241,Crescent Hardy,person_source_url,https://bioguide.congress.gov/search/bio/H001070,200
+apt-0241,Crescent Hardy,person_source_url,https://bioguide.congress.gov/search/bio/H001070,403
 apt-0242,Crispin Blunt,person_source_url,https://www.legalcheek.com/2019/03/blunt-to-give-cannabis-talk-to-law-students/,200
 apt-0242,Crispin Blunt,name_source_url,https://www.etymonline.com/word/blunt,200
 apt-0243,Cuff (Shooters Hill draper),person_source_url,https://en.wikipedia.org/wiki/Kentish_Note_Book,200
@@ -415,7 +415,7 @@ apt-0244,Cy Young,person_source_url,https://www.baseball-reference.com/players/y
 apt-0245,D. Weedon,person_source_url,https://en.wikipedia.org/wiki/Nominative_determinism,200
 apt-0245,D. Weedon,discovery_source_url,https://en.wikipedia.org/wiki/Nominative_determinism,200
 apt-0246,Dae-Sik Moon,person_source_url,https://www.astro.utoronto.ca/people/faculty/name/dae-sik-moon/,200
-apt-0247,Dale Strong,person_source_url,https://bioguide.congress.gov/search/bio/S001220,200
+apt-0247,Dale Strong,person_source_url,https://bioguide.congress.gov/search/bio/S001220,403
 apt-0248,Dallas Raines,person_source_url,https://en.wikipedia.org/wiki/Dallas_Raines,200
 apt-0248,Dallas Raines,name_source_url,https://en.wiktionary.org/wiki/rain,200
 apt-0248,Dallas Raines,discovery_source_url,https://abc7.com/about/newsteam/dallas-raines,200
@@ -502,7 +502,7 @@ apt-0296,Dennis Gore,person_source_url,https://npiregistry.cms.hhs.gov/,200
 apt-0296,Dennis Gore,discovery_source_url,https://doi.org/10.1308/147363515X14134529299420,403
 apt-0297,Denzil Price Marshall Jr.,person_source_url,https://www.fjc.gov/history/judges/marshall-denzil-price-jr,200
 apt-0297,Denzil Price Marshall Jr.,name_source_url,https://www.etymonline.com/word/marshal,200
-apt-0298,Derek Jeter,person_source_url,https://www.baseball-reference.com/players/j/jeterde01.shtml,429
+apt-0298,Derek Jeter,person_source_url,https://www.baseball-reference.com/players/j/jeterde01.shtml,200
 apt-0298,Derek Jeter,name_source_url,https://archive.nytimes.com/cityroom.blogs.nytimes.com/2011/09/01/when-a-persons-name-means-what-it-says/,200
 apt-0298,Derek Jeter,discovery_source_url,https://www.providencejournal.com/story/opinion/2019/03/07/my-turn-gerry-goldstein-when-name-fits-game/53183563007/,403
 apt-0299,Derek Kickett,person_source_url,https://en.wikipedia.org/wiki/Derek_Kickett,200
@@ -518,7 +518,7 @@ apt-0304,Diana Woei,name_source_url,https://en.wiktionary.org/wiki/waaien,200
 apt-0304,Diana Woei,discovery_source_url,https://onzetaal.nl/educatie/ik-zit-op-de/basisschool/bijzondere-woorden/aptoniem,200
 apt-0305,Dick Campion,person_source_url,https://www.olympedia.org/athletes/47223,429
 apt-0306,Dick Gunn,person_source_url,https://www.olympedia.org/athletes/3419,429
-apt-0307,Dick Pole,person_source_url,https://www.baseball-reference.com/players/p/poledi01.shtml,429
+apt-0307,Dick Pole,person_source_url,https://www.baseball-reference.com/players/p/poledi01.shtml,200
 apt-1278,Dickie Bird,person_source_url,https://en.wikipedia.org/wiki/Dickie_Bird,200
 apt-1278,Dickie Bird,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
 apt-0308,Dietmar Schütze,person_source_url,https://de.wikipedia.org/wiki/Dietmar_Sch%C3%BCtze,200
@@ -564,11 +564,11 @@ apt-0329,Dwight F. Wolfe,person_source_url,https://www.vetmed.auburn.edu/faculty
 apt-0330,Early Wynn,person_source_url,https://en.wikipedia.org/wiki/Early_Wynn,200
 apt-0330,Early Wynn,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
 apt-0331,Ebenezer Emmons,person_source_url,https://en.wikipedia.org/wiki/Ebenezer_Emmons,200
-apt-0331,Ebenezer Emmons,name_source_url,https://www.etymonline.com/word/Ebenezer,504
+apt-0331,Ebenezer Emmons,name_source_url,https://www.etymonline.com/word/Ebenezer,200
 apt-0331,Ebenezer Emmons,discovery_source_url,https://www.umb.edu.pl/photo/pliki/progress-file/phs/phs_2013_2/171-174_ohry.pdf,200
 apt-0332,Ed Currie,person_source_url,https://en.wikipedia.org/wiki/Ed_Currie,200
 apt-0332,Ed Currie,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
-apt-0333,Ed Poles,person_source_url,https://www.baseball-reference.com/players/p/polesed01.shtml,429
+apt-0333,Ed Poles,person_source_url,https://www.baseball-reference.com/players/p/polesed01.shtml,200
 apt-0334,Eddy Carmack,person_source_url,https://doi.org/10.1016/j.dsr2.2008.08.020,200
 apt-0334,Eddy Carmack,discovery_source_url,https://www.neatorama.com/2013/03/19/The-Name-Number-for-Geology-and-for-Other-Professions/,200
 apt-0335,Edgar Allan Poe,person_source_url,https://en.wikipedia.org/wiki/Edgar_Allan_Poe,200
@@ -582,7 +582,7 @@ apt-0339,Edward Frederick Counsell,person_source_url,https://www.barstandardsboa
 apt-0339,Edward Frederick Counsell,discovery_source_url,https://www.counselmagazine.co.uk/articles/the-name-of-the-law,200
 apt-0340,Edward Jenner,person_source_url,https://en.wikipedia.org/wiki/Edward_Jenner,200
 apt-0341,Edward Keelan,person_source_url,https://www.bmj.com/content/347/bmj.f6627,429
-apt-0341,Edward Keelan,discovery_source_url,https://doi.org/10.1136/bmj.f6627,403
+apt-0341,Edward Keelan,discovery_source_url,https://doi.org/10.1136/bmj.f6627,429
 apt-0342,Edward Major,person_source_url,https://www.linkedin.com/in/edward-major-b5930836,999
 apt-0343,Edward Tatum,person_source_url,https://en.wikipedia.org/wiki/Edward_Tatum,200
 apt-0343,Edward Tatum,discovery_source_url,https://en.wikipedia.org/wiki/Nominative_determinism,200
@@ -667,7 +667,7 @@ apt-0384,Francine Prose,discovery_source_url,https://en.wikipedia.org/wiki/Aptro
 apt-0385,Francis E. Warren,person_source_url,https://en.wikipedia.org/wiki/Francis_E._Warren,200
 apt-0385,Francis E. Warren,discovery_source_url,https://www.warren.af.mil/About-Us/Base-History/,403
 apt-0386,Francis Moon,person_source_url,https://news.cornell.edu/stories/2007/01/frank-moon-wins-mechanical-engineering-lyapunov-award,200
-apt-0387,Frank Baumann,person_source_url,https://www.baseball-reference.com/players/b/baumafr01.shtml,429
+apt-0387,Frank Baumann,person_source_url,https://www.baseball-reference.com/players/b/baumafr01.shtml,200
 apt-0388,Frank Beard,person_source_url,https://en.wikipedia.org/wiki/Frank_Beard_(musician),200
 apt-0388,Frank Beard,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
 apt-0389,Frank Field,person_source_url,https://en.wikipedia.org/wiki/Frank_Field_(meteorologist),200
@@ -703,7 +703,7 @@ apt-0405,Garlich Von Essen,person_source_url,https://www.politico.eu/article/nom
 apt-0405,Garlich Von Essen,name_source_url,https://en.wiktionary.org/wiki/essen,200
 apt-0405,Garlich Von Essen,discovery_source_url,https://www.politico.eu/article/nominative-determinism-brief-history-of-names-that-sound-like-jobs/,200
 apt-0406,Garth Snow,person_source_url,https://www.hockey-reference.com/players/s/snowga01.html,200
-apt-0407,Gary Bowser,person_source_url,https://en.wikipedia.org/wiki/Team_Xecuter,wiki-error:HTTPError
+apt-0407,Gary Bowser,person_source_url,https://en.wikipedia.org/wiki/Team_Xecuter,200
 apt-0407,Gary Bowser,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
 apt-0408,Gary Numan,person_source_url,https://en.wikipedia.org/wiki/Gary_Numan,200
 apt-0408,Gary Numan,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
@@ -712,7 +712,7 @@ apt-0409,Gary Oldman,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym
 apt-0410,Gary Oldman and Gary Numan,person_source_url,https://en.wikipedia.org/wiki/Gary_Oldman,200
 apt-0410,Gary Oldman and Gary Numan,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
 apt-0411,Gary Sharp,person_source_url,https://npiregistry.cms.hhs.gov/,200
-apt-0412,Gene Roof,person_source_url,https://www.baseball-reference.com/players/r/roofge01.shtml,429
+apt-0412,Gene Roof,person_source_url,https://www.baseball-reference.com/players/r/roofge01.shtml,200
 apt-0413,Gene Shearer,person_source_url,https://en.wikipedia.org/wiki/Gene_Shearer,200
 apt-0413,Gene Shearer,discovery_source_url,https://www.newscientist.com/article/mg14419546-200-feedback/,200
 apt-0414,Geoff Souster,person_source_url,https://www.sousterandhicks.com/the-souster-surname.html,200
@@ -754,10 +754,10 @@ apt-0430,George Pope,discovery_source_url,https://www.espncricinfo.com/story/esp
 apt-0431,George Porter,person_source_url,https://www.catholic-hierarchy.org/bishop/bporterg.html,200
 apt-0432,George Read Sage,person_source_url,https://www.fjc.gov/history/judges/sage-george-read,200
 apt-0432,George Read Sage,name_source_url,https://www.etymonline.com/word/sage,200
-apt-0433,George Stephenson,person_source_url,https://en.wikipedia.org/wiki/George_Stephenson,wiki-error:HTTPError
+apt-0433,George Stephenson,person_source_url,https://en.wikipedia.org/wiki/George_Stephenson,200
 apt-0434,George Suttles,person_source_url,https://www.baseball-reference.com/players/s/suttlge01.shtml,429
 apt-0435,George Winterling,person_source_url,https://en.wikipedia.org/wiki/George_Winterling,200
-apt-0435,George Winterling,name_source_url,https://en.wiktionary.org/wiki/winter,200
+apt-0435,George Winterling,name_source_url,https://en.wiktionary.org/wiki/winter,429
 apt-0436,Georgia O'Keeffe,person_source_url,https://en.wikipedia.org/wiki/Georgia_O%27Keeffe,200
 apt-0437,Gerald A. Priest,person_source_url,https://www.texarkanagazette.com/obituaries/2019/aug/03/gerald-priest-e275/,200
 apt-0437,Gerald A. Priest,discovery_source_url,https://www.theledger.com/story/news/2003/07/26/theyve-heard-the-jokes-the-religious-people-with-names-like-sin-priest-pope/26065659007/,403
@@ -775,12 +775,12 @@ apt-0443,Geva Mentor,person_source_url,https://en.wikipedia.org/wiki/Geva_Mentor
 apt-0444,Gevvie Stone,person_source_url,https://www.teamusa.com/profiles/gevvie-stone,200
 apt-0445,Gilbert Gardner,person_source_url,https://www.pro-football-reference.com/players/G/GardGi20.htm,403
 apt-0446,Ginger Zee,person_source_url,https://en.wikipedia.org/wiki/Ginger_Zee,200
-apt-0446,Ginger Zee,name_source_url,https://en.wiktionary.org/wiki/zee,200
+apt-0446,Ginger Zee,name_source_url,https://en.wiktionary.org/wiki/zee,429
 apt-0447,Giuseppe Verdi,person_source_url,https://en.wikipedia.org/wiki/Giuseppe_Verdi,200
 apt-0447,Giuseppe Verdi,name_source_url,https://en.wiktionary.org/wiki/verde,200
 apt-0447,Giuseppe Verdi,discovery_source_url,https://www.thenewworld.co.uk/joe-green-and-a-name-to-envy/,200
 apt-0448,Glenn Gould,person_source_url,https://en.wikipedia.org/wiki/Glenn_Gould,200
-apt-0449,Glenn Seaborg,person_source_url,https://en.wikipedia.org/wiki/Glenn_T._Seaborg,wiki-error:HTTPError
+apt-0449,Glenn Seaborg,person_source_url,https://en.wikipedia.org/wiki/Glenn_T._Seaborg,200
 apt-0450,Gnaeus Julius Agricola,person_source_url,https://en.wikipedia.org/wiki/Gnaeus_Julius_Agricola,200
 apt-0450,Gnaeus Julius Agricola,name_source_url,https://en.wiktionary.org/wiki/agricola,200
 apt-0451,Gnaeus Pompeius Magnus,person_source_url,https://en.wikipedia.org/wiki/Pompey,200
@@ -810,6 +810,7 @@ apt-0462,Graham Potter,person_source_url,https://en.wikipedia.org/wiki/Graham_Po
 apt-0462,Graham Potter,discovery_source_url,https://www.nytimes.com/athletic/6524643/2025/08/04/football-names-clubs-managers-arsenal-wenger/,200
 apt-0463,Graham Saxby,person_source_url,https://www.newscientist.com/article/1833344-feedback-238/,200
 apt-0463,Graham Saxby,discovery_source_url,https://www.newscientist.com/article/1833344-feedback-238/,200
+apt-1326,Grant Balfour,person_source_url,https://en.wikipedia.org/wiki/Grant_Balfour,200
 apt-0464,Greg Brewer,person_source_url,https://www.insidewinemaking.com/ep-156-greg-brewer-brewer-clifton,200
 apt-0464,Greg Brewer,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
 apt-0465,Greggmar Swift,person_source_url,https://www.olympedia.org/athletes/123264,200
@@ -817,7 +818,7 @@ apt-0465,Greggmar Swift,discovery_source_url,https://msubeavers.com/sports/mens-
 apt-0466,Gregory Payne,person_source_url,https://npiregistry.cms.hhs.gov/,200
 apt-0467,Gregory Price,person_source_url,https://en.wikipedia.org/wiki/Gregory_Price_(economist),200
 apt-0468,Gus Savage,person_source_url,https://bioguide.congress.gov/search/bio/S000081,403
-apt-0469,Gustav Mahler,person_source_url,https://en.wikipedia.org/wiki/Gustav_Mahler,wiki-error:HTTPError
+apt-0469,Gustav Mahler,person_source_url,https://en.wikipedia.org/wiki/Gustav_Mahler,200
 apt-0469,Gustav Mahler,name_source_url,https://en.wikipedia.org/wiki/Mahler_(surname),200
 apt-0469,Gustav Mahler,discovery_source_url,https://en.wikipedia.org/wiki/Mahler_(surname),200
 apt-0470,Gwendolyn Sherard-Bishop,person_source_url,https://www.scrabbleplayers.org/tourneys/2004/nsc/build/player/4/132.html,200
@@ -864,7 +865,7 @@ apt-0491,Hennie de Haan,name_source_url,https://en.wiktionary.org/wiki/haan,200
 apt-0491,Hennie de Haan,discovery_source_url,https://nl.wikipedia.org/wiki/Aptoniem,200
 apt-0492,Henning Wind,person_source_url,https://www.olympedia.org/athletes/64176,429
 apt-0493,Henry Armstrong,person_source_url,https://boxrec.com/en/box-pro/9018,403
-apt-0494,Henry Bessemer,person_source_url,https://en.wikipedia.org/wiki/Henry_Bessemer,wiki-error:HTTPError
+apt-0494,Henry Bessemer,person_source_url,https://en.wikipedia.org/wiki/Henry_Bessemer,200
 apt-0495,Henry Head,person_source_url,https://en.wikipedia.org/wiki/Henry_Head,200
 apt-0495,Henry Head,discovery_source_url,https://www.chicagotribune.com/1995/05/07/a-field-day-with-aptly-named-workers/,200
 apt-0496,Henry Hook,person_source_url,https://boxrec.com/en/box-pro/10476,403
@@ -875,17 +876,17 @@ apt-0498,Henry Seiler Wise,person_source_url,https://www.fjc.gov/history/judges/
 apt-0498,Henry Seiler Wise,name_source_url,https://www.etymonline.com/word/wise,200
 apt-0499,Henry Wadsworth Longfellow,person_source_url,https://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow,200
 apt-0499,Henry Wadsworth Longfellow,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
-apt-0500,Herb Score,person_source_url,https://www.baseball-reference.com/players/s/scorehe01.shtml,429
+apt-0500,Herb Score,person_source_url,https://www.baseball-reference.com/players/s/scorehe01.shtml,200
 apt-0501,Herbert S. Goldstein,person_source_url,https://en.wikipedia.org/wiki/Herbert_S._Goldstein,200
 apt-0502,Herman Dijk,person_source_url,https://nl.wikipedia.org/wiki/Herman_Dijk,200
 apt-0502,Herman Dijk,name_source_url,https://en.wiktionary.org/wiki/dijk,200
 apt-0502,Herman Dijk,discovery_source_url,https://onzetaal.nl/educatie/ik-zit-op-de/basisschool/bijzondere-woorden/aptoniem,200
 apt-0503,Holly Hunter,person_source_url,https://en.wikipedia.org/wiki/Holly_Hunter,200
-apt-0504,Home Run Baker,person_source_url,https://www.baseball-reference.com/players/b/bakerfr01.shtml,429
+apt-0504,Home Run Baker,person_source_url,https://www.baseball-reference.com/players/b/bakerfr01.shtml,200
 apt-0504,Home Run Baker,discovery_source_url,https://sabr.org/journal/article/when-did-frank-baker-become-home-run-baker/,200
-apt-0505,Homer Bush,person_source_url,https://www.baseball-reference.com/players/b/bushho01.shtml,429
-apt-0506,Homer Smoot,person_source_url,https://www.baseball-reference.com/players/s/smootho01.shtml,429
-apt-0507,Homer Spragins,person_source_url,https://www.baseball-reference.com/players/s/spragho01.shtml,429
+apt-0505,Homer Bush,person_source_url,https://www.baseball-reference.com/players/b/bushho01.shtml,200
+apt-0506,Homer Smoot,person_source_url,https://www.baseball-reference.com/players/s/smootho01.shtml,200
+apt-0507,Homer Spragins,person_source_url,https://www.baseball-reference.com/players/s/spragho01.shtml,200
 apt-0508,Homer Thompson,person_source_url,https://www.baseball-reference.com/players/t/thompho01.shtml,429
 apt-0509,Hosegood (Shooters Hill hosier),person_source_url,https://en.wikipedia.org/wiki/Kentish_Note_Book,200
 apt-0509,Hosegood (Shooters Hill hosier),name_source_url,https://www.etymonline.com/word/hose,200
@@ -941,7 +942,7 @@ apt-0538,Jack Archer,person_source_url,https://www.olympedia.org/athletes/68845,
 apt-0539,Jack Brooks,person_source_url,"https://history.house.gov/People/Listing/B/BROOKS,-Jack-Bascom-(B000880)/",200
 apt-0540,Jack Christ,person_source_url,https://slate.com/news-and-politics/2005/12/charol-shakeshaft-topped.html,200
 apt-0540,Jack Christ,discovery_source_url,https://slate.com/news-and-politics/2005/12/charol-shakeshaft-topped.html,200
-apt-0541,Jack Glasscock,person_source_url,https://www.baseball-reference.com/players/g/glassja01.shtml,429
+apt-0541,Jack Glasscock,person_source_url,https://www.baseball-reference.com/players/g/glassja01.shtml,200
 apt-0542,Jack Hathaway,person_source_url,https://www.nasa.gov/wp-content/uploads/2026/02/hathaway-j-1.pdf,200
 apt-0543,Jackson Archer,person_source_url,https://www.afltables.com/afl/stats/players/J/Jackson_Archer.html,200
 apt-0544,Jackson Pollock,person_source_url,https://en.wikipedia.org/wiki/Jackson_Pollock,200
@@ -983,6 +984,7 @@ apt-0564,James Mark Gill,person_source_url,https://www.martenson.com/obituaries/
 apt-0565,James Marshall Shepherd,person_source_url,https://geography.uga.edu/directory/people/james-marshall-shepherd,200
 apt-0565,James Marshall Shepherd,name_source_url,https://en.wiktionary.org/wiki/shepherd,200
 apt-0566,James Maynard,person_source_url,https://www.maths.ox.ac.uk/people/james.maynard,200
+apt-1327,James Outman,person_source_url,https://en.wikipedia.org/wiki/James_Outman,200
 apt-0567,James P. Rash,person_source_url,https://health.usnews.com/doctors/james-rash-242457,error:TimeoutError
 apt-0567,James P. Rash,discovery_source_url,https://www.standard.co.uk/lifestyle/the-name-game-the-weird-science-of-nominative-determinism-6384728.html,200
 apt-0568,James Parkinson,person_source_url,https://en.wikipedia.org/wiki/James_Parkinson,200
@@ -1046,12 +1048,12 @@ apt-0605,Jimmy McGrory,person_source_url,https://en.wikipedia.org/wiki/Jimmy_McG
 apt-0605,Jimmy McGrory,discovery_source_url,https://finter.dk/most-headed-goals-in-football-history-ronaldo-crouch-klose-and-the-greatest-heading-records/,454
 apt-0606,Joachim Löw,person_source_url,https://en.wikipedia.org/wiki/Joachim_L%C3%B6w,200
 apt-0606,Joachim Löw,name_source_url,https://en.wiktionary.org/wiki/L%C3%B6we,200
-apt-0607,Joanna Story,person_source_url,https://le.ac.uk/people/joanna-story,200
+apt-0607,Joanna Story,person_source_url,https://le.ac.uk/people/joanna-story,403
 apt-0608,Jocelyn Bell Burnell,person_source_url,https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell,200
 apt-0609,Jocelyn Rose,person_source_url,https://cals.cornell.edu/people/jocelyn-kenneth-campbell-rose,200
 apt-0610,Jodie Crane,person_source_url,https://www.ucc.ie/en/ornithology/people/drjodiecrane/,200
 apt-0611,Joe Winters,person_source_url,https://www.kcrg.com/about-us/meet-the-team/,200
-apt-0611,Joe Winters,name_source_url,https://en.wiktionary.org/wiki/winter,200
+apt-0611,Joe Winters,name_source_url,https://en.wiktionary.org/wiki/winter,429
 apt-0612,Joe Yawn,person_source_url,https://www.chicagotribune.com/1995/05/07/a-field-day-with-aptly-named-workers/,200
 apt-0612,Joe Yawn,discovery_source_url,https://www.chicagotribune.com/1995/05/07/a-field-day-with-aptly-named-workers/,200
 apt-1289,Joel Parrott,person_source_url,https://oaklandside.org/2026/07/07/oakland-names-aptronyms-caen/,200
@@ -1077,7 +1079,7 @@ apt-0625,John Clark,person_source_url,https://www.oldbaileyonline.org/record/t18
 apt-0626,John Constable,person_source_url,https://en.wikipedia.org/wiki/John_Constable,200
 apt-0626,John Constable,name_source_url,https://www.etymonline.com/word/constable,200
 apt-0627,John de Wolf,person_source_url,https://en.wikipedia.org/wiki/John_de_Wolf,200
-apt-0627,John de Wolf,name_source_url,https://en.wiktionary.org/wiki/wolf,200
+apt-0627,John de Wolf,name_source_url,https://en.wiktionary.org/wiki/wolf,429
 apt-0627,John de Wolf,discovery_source_url,https://www.nytimes.com/athletic/6524643/2025/08/04/football-names-clubs-managers-arsenal-wenger/,200
 apt-0628,John E. Steele,person_source_url,https://www.fjc.gov/history/judges/steele-john-e,200
 apt-0628,John E. Steele,name_source_url,https://www.etymonline.com/word/steal,200
@@ -1092,7 +1094,7 @@ apt-0632,John Henry Leech,name_source_url,https://www.etymonline.com/word/leech,
 apt-0633,John Hunter,person_source_url,https://en.wikipedia.org/wiki/John_Hunter_(surgeon),200
 apt-0633,John Hunter,name_source_url,https://www.etymonline.com/word/hunt,200
 apt-0634,John J. Keaney,person_source_url,https://www.bmj.com/content/347/bmj.f6627,429
-apt-0634,John J. Keaney,discovery_source_url,https://doi.org/10.1136/bmj.f6627,403
+apt-0634,John J. Keaney,discovery_source_url,https://doi.org/10.1136/bmj.f6627,429
 apt-0635,John Law,person_source_url,https://www.judiciary.uk/appointments-and-retirements/circuit-judge-appointment-law/,200
 apt-0635,John Law,discovery_source_url,https://www.counselmagazine.co.uk/articles/the-name-of-the-law,200
 apt-0636,John Lawless,person_source_url,https://slate.com/news-and-politics/2005/12/charol-shakeshaft-topped.html,200
@@ -1128,11 +1130,11 @@ apt-0650,John Williams,person_source_url,https://en.wikipedia.org/wiki/John_Will
 apt-0651,John Wingfield,person_source_url,https://biology.ucdavis.edu/people/john-wingfield,403
 apt-0651,John Wingfield,discovery_source_url,https://www.neatorama.com/2013/03/19/The-Name-Number-for-Geology-and-for-Other-Professions/,200
 apt-0652,John Winter,person_source_url,https://www.biographies.net/biography/john-winter/m/02qg5lb,200
-apt-0652,John Winter,name_source_url,https://en.wiktionary.org/wiki/winter,200
-apt-0653,Johnny Bench,person_source_url,https://www.baseball-reference.com/players/b/benchjo01.shtml,429
-apt-0654,Johnny Dickshot,person_source_url,https://www.baseball-reference.com/players/d/dicksjo01.shtml,429
+apt-0652,John Winter,name_source_url,https://en.wiktionary.org/wiki/winter,429
+apt-0653,Johnny Bench,person_source_url,https://www.baseball-reference.com/players/b/benchjo01.shtml,200
+apt-0654,Johnny Dickshot,person_source_url,https://www.baseball-reference.com/players/d/dicksjo01.shtml,200
 apt-0655,Johnny Hekker,person_source_url,https://www.pro-football-reference.com/players/H/HekkJo00.htm,403
-apt-0656,Johnny Podres,person_source_url,https://www.baseball-reference.com/players/p/podrejo01.shtml,429
+apt-0656,Johnny Podres,person_source_url,https://www.baseball-reference.com/players/p/podrejo01.shtml,200
 apt-0656,Johnny Podres,name_source_url,https://en.wiktionary.org/wiki/podrido,200
 apt-0657,Jon Runyan,person_source_url,https://www.pro-football-reference.com/players/R/RunyJo20.htm,403
 apt-0658,Jonatan Leandoer,person_source_url,https://en.wikipedia.org/wiki/Yung_Lean,200
@@ -1146,7 +1148,7 @@ apt-0661,José Gustavo Angel Ramírez,person_source_url,https://www.catholic-hie
 apt-0662,Joseph A. Walker,person_source_url,https://en.wikipedia.org/wiki/Joseph_A._Walker,200
 apt-0663,Joseph Bond,person_source_url,https://www.marketscreener.com/insider/JOSEPH-BOND-A1GGV4/,403
 apt-0664,Joseph Galvin,person_source_url,https://www.bmj.com/content/347/bmj.f6627,429
-apt-0664,Joseph Galvin,discovery_source_url,https://doi.org/10.1136/bmj.f6627,403
+apt-0664,Joseph Galvin,discovery_source_url,https://doi.org/10.1136/bmj.f6627,429
 apt-0665,Joseph Gurney Cannon,person_source_url,"https://history.house.gov/People/Listing/C/CANNON,-Joseph-Gurney-(C000121)/",200
 apt-0666,Joseph Locke,person_source_url,https://en.wikipedia.org/wiki/Joseph_Locke,200
 apt-0666,Joseph Locke,name_source_url,https://www.etymonline.com/word/lock,200
@@ -1160,6 +1162,7 @@ apt-0670,Josh Earnest,person_source_url,https://en.wikipedia.org/wiki/Josh_Earne
 apt-0670,Josh Earnest,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
 apt-0671,Josh Hunt,person_source_url,https://www.afltables.com/afl/stats/players/J/Josh_Hunt.html,200
 apt-0672,Josh Major,person_source_url,https://cdainstitute.ca/wp-content/uploads/2026/02/MAJOR-GENERAL-J.J.-MAJOR-BIO-ENG.pdf,200
+apt-1328,Josh Outman,person_source_url,https://en.wikipedia.org/wiki/Josh_Outman,200
 apt-0673,Joshua Bell,person_source_url,https://en.wikipedia.org/wiki/Joshua_Bell,200
 apt-0674,Joshua Butt,person_source_url,https://www.bristol.ac.uk/people/?search=author&author1=Joshua+Butt,200
 apt-0674,Joshua Butt,discovery_source_url,https://icon.ink/articles/nominative-determinism-examples-jobs/,200
@@ -1174,7 +1177,7 @@ apt-0679,Julienne Stroeve,person_source_url,https://nsidc.org/about/our-people/J
 apt-0680,Julio Barber,person_source_url,https://juliobarber.com/,200
 apt-0681,Justin Cox,person_source_url,https://npiregistry.cms.hhs.gov/,200
 apt-0682,Justin M. Bieber,person_source_url,https://www.legalcheek.com/2016/02/lawyers-with-brilliant-names-you-just-couldnt-make-up/,200
-apt-0683,Justin Steele,person_source_url,https://www.baseball-reference.com/players/s/steelju01.shtml,429
+apt-0683,Justin Steele,person_source_url,https://www.baseball-reference.com/players/s/steelju01.shtml,200
 apt-0684,Karen Riveros,person_source_url,https://www.olympedia.org/athletes/127164,200
 apt-0685,Karin Slaughter,person_source_url,https://en.wikipedia.org/wiki/Karin_Slaughter,200
 apt-0685,Karin Slaughter,discovery_source_url,https://www.theguardian.com/lifeandstyle/2024/sep/17/aptronym-job-normative-determinism,200
@@ -1186,7 +1189,7 @@ apt-0688,Katie Volynets,discovery_source_url,https://en.wikipedia.org/wiki/Aptro
 apt-0689,Katja Frieler,person_source_url,https://www.pik-potsdam.de/members/frieler,200
 apt-0690,Katrina Butcher,person_source_url,https://beta.jobs.nhs.uk/candidate/jobadvert/C9387-25-0853,200
 apt-0690,Katrina Butcher,discovery_source_url,https://doi.org/10.1308/147363515X14134529299420,403
-apt-0691,Keith Foulke,person_source_url,https://www.baseball-reference.com/players/f/foulkke01.shtml,429
+apt-0691,Keith Foulke,person_source_url,https://www.baseball-reference.com/players/f/foulkke01.shtml,200
 apt-0692,Keith Miller,person_source_url,https://en.wikipedia.org/wiki/Keith_Miller,200
 apt-0692,Keith Miller,discovery_source_url,https://www.espncricinfo.com/story/espncricinfo-xi-cricketers-names-that-are-also-professions-722219,403
 apt-0693,Keith Weed,person_source_url,https://en.wikipedia.org/wiki/Keith_Weed,200
@@ -1194,8 +1197,8 @@ apt-0693,Keith Weed,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,
 apt-0694,Kelly Armstrong,person_source_url,https://en.wikipedia.org/wiki/Kelly_Armstrong,200
 apt-0695,Kelly Goodburn,person_source_url,https://www.pro-football-reference.com/players/G/GoodKe20.htm,403
 apt-0696,Kelly Woods,person_source_url,https://www.nps.gov/orgs/1965/kelly-woods-llc-manager.htm,200
-apt-0696,Kelly Woods,name_source_url,https://en.wiktionary.org/wiki/wood,200
-apt-0697,Ken Drinkwater,person_source_url,https://essas.arc.hokudai.ac.jp/essas_ssc/ken-drinkwater/,200
+apt-0696,Kelly Woods,name_source_url,https://en.wiktionary.org/wiki/wood,429
+apt-0697,Ken Drinkwater,person_source_url,https://essas.arc.hokudai.ac.jp/essas_ssc/ken-drinkwater/,error:TimeoutError
 apt-0697,Ken Drinkwater,discovery_source_url,https://www.neatorama.com/2013/03/19/The-Name-Number-for-Geology-and-for-Other-Professions/,200
 apt-0698,Ken Green,person_source_url,https://en.wikipedia.org/wiki/Ken_Green_(golfer),200
 apt-1294,Ken Rush,person_source_url,https://en.wikipedia.org/wiki/Ken_Rush,200
@@ -1219,7 +1222,7 @@ apt-0708,Kim Yu-Seok,person_source_url,https://www.olympedia.org/athletes/106561
 apt-0708,Kim Yu-Seok,discovery_source_url,https://www.olympics.com/en/athletes/yoo-suk-kim,error:TimeoutError
 apt-0709,King Whetstone,person_source_url,https://www.nass.usda.gov/About_NASS/NASS_Biographies/whetstone.php,200
 apt-0709,King Whetstone,name_source_url,https://en.wiktionary.org/wiki/whetstone,200
-apt-0710,Kirby Puckett,person_source_url,https://www.baseball-reference.com/players/p/puckeki01.shtml,429
+apt-0710,Kirby Puckett,person_source_url,https://www.baseball-reference.com/players/p/puckeki01.shtml,200
 apt-0711,Kit Bond,person_source_url,https://en.wikipedia.org/wiki/Kit_Bond,200
 apt-0712,Kiyoshi Kurosawa,person_source_url,https://en.wikipedia.org/wiki/Kiyoshi_Kurosawa,200
 apt-0712,Kiyoshi Kurosawa,name_source_url,https://en.wikipedia.org/wiki/Kurosawa_(surname),200
@@ -1238,7 +1241,7 @@ apt-0717,Kyuji Fujikawa,name_source_url,https://en.wiktionary.org/wiki/%E7%90%83
 apt-0717,Kyuji Fujikawa,discovery_source_url,https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%97%E3%83%88%E3%83%AD%E3%83%8B%E3%83%A0,200
 apt-0718,Lake Speed,person_source_url,https://en.wikipedia.org/wiki/Lake_Speed,200
 apt-0718,Lake Speed,discovery_source_url,https://www.nbcsports.com/nascar/news/lake-speed-nascar-karting-bobby-hillin-jr-darrell-waltrip-darlington-raceway,200
-apt-0719,Lance Painter,person_source_url,https://www.baseball-reference.com/players/p/paintla01.shtml,429
+apt-0719,Lance Painter,person_source_url,https://www.baseball-reference.com/players/p/paintla01.shtml,200
 apt-0720,Lang Lang,person_source_url,https://en.wikipedia.org/wiki/Lang_Lang,200
 apt-0720,Lang Lang,name_source_url,https://en.wiktionary.org/wiki/%E6%9C%97,200
 apt-0721,Larry Foote,person_source_url,https://www.pro-football-reference.com/players/F/FootLa20.htm,403
@@ -1358,7 +1361,7 @@ apt-0781,Marco Spijkerman,name_source_url,https://en.wiktionary.org/wiki/spijker
 apt-1297,Marco Velo,person_source_url,https://en.wikipedia.org/wiki/Marco_Velo,200
 apt-1297,Marco Velo,name_source_url,https://en.wiktionary.org/wiki/v%C3%A9lo,200
 apt-0782,Marcus Tullius Cicero,person_source_url,https://en.wikipedia.org/wiki/Marcus_Tullius_Cicero,200
-apt-0782,Marcus Tullius Cicero,name_source_url,https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Cicero*.html,200
+apt-0782,Marcus Tullius Cicero,name_source_url,https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Cicero*.html,error:URLError
 apt-0783,Margaret Boyle,person_source_url,https://npiregistry.cms.hhs.gov/,200
 apt-0783,Margaret Boyle,discovery_source_url,https://doi.org/10.1308/147363515X14134529299420,403
 apt-1298,Margaret Chance,person_source_url,https://www.milliman.com/en/consultants/Chance-Margaret,200
@@ -1384,7 +1387,7 @@ apt-0794,Mark Avery,person_source_url,https://markavery.info/,200
 apt-0794,Mark Avery,discovery_source_url,http://news.bbc.co.uk/today/hi/today/newsid_9664000/9664697.stm,200
 apt-0795,Mark Butcher,person_source_url,https://en.wikipedia.org/wiki/Mark_Butcher,200
 apt-0795,Mark Butcher,discovery_source_url,https://www.espncricinfo.com/story/espncricinfo-xi-cricketers-names-that-are-also-professions-722219,403
-apt-0796,Mark Clear,person_source_url,https://www.baseball-reference.com/players/c/clearma01.shtml,429
+apt-0796,Mark Clear,person_source_url,https://www.baseball-reference.com/players/c/clearma01.shtml,200
 apt-0797,Mark Crossley,person_source_url,https://en.wikipedia.org/wiki/Mark_Crossley,200
 apt-0798,Mark De Man,person_source_url,https://en.wikipedia.org/wiki/Mark_De_Man,200
 apt-0798,Mark De Man,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
@@ -1430,7 +1433,7 @@ apt-0822,Matt Taylor,person_source_url,https://en.wikipedia.org/wiki/Matt_Taylor
 apt-0823,Matthew Alan Beat,person_source_url,https://en.wikipedia.org/wiki/Aptronym,200
 apt-0823,Matthew Alan Beat,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
 apt-0824,Matthew Winter,person_source_url,https://meetingorganizer.copernicus.org/EMS2026/EMS2026-828.html,200
-apt-0824,Matthew Winter,name_source_url,https://en.wiktionary.org/wiki/winter,200
+apt-0824,Matthew Winter,name_source_url,https://en.wiktionary.org/wiki/winter,429
 apt-1300,Mauro Del Giudice,person_source_url,https://en.wikipedia.org/wiki/Mauro_Del_Giudice,200
 apt-1300,Mauro Del Giudice,name_source_url,https://en.wiktionary.org/wiki/giudice,200
 apt-1300,Mauro Del Giudice,discovery_source_url,https://www.nomix.it/nomi-mestieri-nomen-omen.php,200
@@ -1510,7 +1513,7 @@ apt-0870,Nari Contractor,person_source_url,https://en.wikipedia.org/wiki/Nari_Co
 apt-0870,Nari Contractor,discovery_source_url,https://www.espncricinfo.com/story/espncricinfo-xi-cricketers-names-that-are-also-professions-722219,403
 apt-0871,Nat Seavy,person_source_url,https://www.audubon.org/people/nat-seavy,200
 apt-0872,Natalie-Francesca Woods,person_source_url,https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=3653&context=etd,403
-apt-0872,Natalie-Francesca Woods,name_source_url,https://en.wiktionary.org/wiki/wood,200
+apt-0872,Natalie-Francesca Woods,name_source_url,https://en.wiktionary.org/wiki/wood,429
 apt-0873,Nathan Cool,person_source_url,https://nathancool.com/global_warming/author.shtml,200
 apt-0873,Nathan Cool,name_source_url,https://en.wiktionary.org/wiki/cool,200
 apt-0874,Nathan Leeper,person_source_url,https://www.olympedia.org/athletes/89146,429
@@ -1579,7 +1582,7 @@ apt-0909,Paul Looney,discovery_source_url,https://www.chicagotribune.com/1995/05
 apt-0910,Paul McStay,person_source_url,https://en.wikipedia.org/wiki/Paul_McStay,200
 apt-0910,Paul McStay,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
 apt-0911,Paul Schwinghammer,person_source_url,https://hallmarkhomes.com/staff-members/paul-schwinghammer/,200
-apt-0911,Paul Schwinghammer,name_source_url,https://en.geneanet.org/surnames/SCHWINGHAMMER,403
+apt-0911,Paul Schwinghammer,name_source_url,https://en.geneanet.org/surnames/SCHWINGHAMMER,200
 apt-1308,Paulinho Boca de Cantor,person_source_url,https://en.wikipedia.org/wiki/Paulinho_Boca_de_Cantor,200
 apt-1308,Paulinho Boca de Cantor,name_source_url,https://en.wiktionary.org/wiki/cantor#Portuguese,200
 apt-1308,Paulinho Boca de Cantor,discovery_source_url,https://www.linoresende.jor.br/nomes-mais-que-apropriados/,200
@@ -1610,7 +1613,7 @@ apt-0924,Peter Skidmore,discovery_source_url,https://en.wikipedia.org/wiki/Nomin
 apt-0925,Peter Taal,person_source_url,https://over.nos.nl/nieuws/25-jaar-taal-bij-de-nos/,200
 apt-0925,Peter Taal,name_source_url,https://en.wiktionary.org/wiki/taal,200
 apt-0925,Peter Taal,discovery_source_url,https://onzetaal.nl/educatie/ik-zit-op-de/basisschool/bijzondere-woorden/aptoniem,200
-apt-0926,Phil Roof,person_source_url,https://www.baseball-reference.com/players/r/roofph01.shtml,429
+apt-0926,Phil Roof,person_source_url,https://www.baseball-reference.com/players/r/roofph01.shtml,200
 apt-0927,Philander Rodman Jr.,person_source_url,https://www.espn.com/basketball/pba/story/_/id/29474229/philander-rodman-jr-father-dennis-rodman-dies-79,202
 apt-0927,Philander Rodman Jr.,name_source_url,https://en.wiktionary.org/wiki/philander,200
 apt-0927,Philander Rodman Jr.,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
@@ -1691,7 +1694,7 @@ apt-0968,Reverend Harry Drummond Potter,person_source_url,https://www.barstandar
 apt-0968,Reverend Harry Drummond Potter,discovery_source_url,https://www.legalcheek.com/2016/02/lawyers-with-brilliant-names-you-just-couldnt-make-up/,200
 apt-0969,Rex Armstrong,person_source_url,https://www.linkedin.com/in/rex-armstrong-0769354,999
 apt-0970,Rex Hunt,person_source_url,https://www.afltables.com/afl/stats/players/R/Rex_Hunt.html,200
-apt-0971,Rich Batchelor,person_source_url,https://www.baseball-reference.com/players/b/batchri01.shtml,429
+apt-0971,Rich Batchelor,person_source_url,https://www.baseball-reference.com/players/b/batchri01.shtml,200
 apt-0972,Rich Fairbank,person_source_url,https://en.wikipedia.org/wiki/Richard_Fairbank,200
 apt-0972,Rich Fairbank,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
 apt-0973,Rich Ricci,person_source_url,https://en.wikipedia.org/wiki/Rich_Ricci,200
@@ -1766,15 +1769,15 @@ apt-1019,Rod Muddle,person_source_url,http://news.bbc.co.uk/today/hi/today/newsi
 apt-1019,Rod Muddle,discovery_source_url,http://news.bbc.co.uk/today/hi/today/newsid_9664000/9664697.stm,200
 apt-1020,Roger Kneebone,person_source_url,https://www.imperial.ac.uk/people/r.kneebone,200
 apt-1020,Roger Kneebone,discovery_source_url,https://www.theguardian.com/lifeandstyle/2018/dec/15/hannah-jane-parkinson-names-inspire-choices-life,200
-apt-1021,Roger Light,person_source_url,https://rogerlight.com/,200
-apt-1021,Roger Light,discovery_source_url,https://rogerlight.com/,200
+apt-1021,Roger Light,person_source_url,https://rogerlight.com/,403
+apt-1021,Roger Light,discovery_source_url,https://rogerlight.com/,403
 apt-1022,Roger Marshall,person_source_url,https://en.wikipedia.org/wiki/Roger_Marshall_(politician),200
 apt-1022,Roger Marshall,name_source_url,https://www.etymonline.com/word/marshal,200
 apt-1023,Roger Printup,person_source_url,https://slate.com/news-and-politics/2005/12/charol-shakeshaft-topped.html,200
 apt-1023,Roger Printup,discovery_source_url,https://slate.com/news-and-politics/2005/12/charol-shakeshaft-topped.html,200
-apt-1024,Rollie Fingers,person_source_url,https://www.baseball-reference.com/players/f/fingero01.shtml,429
+apt-1024,Rollie Fingers,person_source_url,https://www.baseball-reference.com/players/f/fingero01.shtml,200
 apt-1025,Ronald Lee Watt,person_source_url,https://www.newcomerdenver.com/obituaries/ronald-watt,200
-apt-1026,Rookie Davis,person_source_url,https://www.baseball-reference.com/players/d/davisro03.shtml,429
+apt-1026,Rookie Davis,person_source_url,https://www.baseball-reference.com/players/d/davisro03.shtml,200
 apt-1027,Rory Best,person_source_url,https://en.wikipedia.org/wiki/Rory_Best,200
 apt-1028,Rosalind Brewer,person_source_url,https://en.wikipedia.org/wiki/Rosalind_Brewer,200
 apt-1028,Rosalind Brewer,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
@@ -1828,10 +1831,10 @@ apt-1057,Sarah Payne,person_source_url,https://npiregistry.cms.hhs.gov/,200
 apt-1058,Sarah Slater,person_source_url,https://www.londonlives.org/record/t17840526-5,403
 apt-1059,Sarah Vowell,person_source_url,https://en.wikipedia.org/wiki/Sarah_Vowell,200
 apt-1059,Sarah Vowell,discovery_source_url,https://www.theguardian.com/lifeandstyle/2024/sep/17/aptronym-job-normative-determinism,200
-apt-1060,Satchel Paige,person_source_url,https://www.baseball-reference.com/players/p/paigesa01.shtml,429
+apt-1060,Satchel Paige,person_source_url,https://www.baseball-reference.com/players/p/paigesa01.shtml,200
 apt-1061,Saul Perlmutter,person_source_url,https://en.wikipedia.org/wiki/Saul_Perlmutter,200
 apt-1061,Saul Perlmutter,name_source_url,https://en.wiktionary.org/wiki/Perlmutter,200
-apt-1062,Scott Diamond,person_source_url,https://www.baseball-reference.com/players/d/diamosc01.shtml,429
+apt-1062,Scott Diamond,person_source_url,https://www.baseball-reference.com/players/d/diamosc01.shtml,200
 apt-1063,Scott Goodyear,person_source_url,https://en.wikipedia.org/wiki/Scott_Goodyear,200
 apt-1063,Scott Goodyear,discovery_source_url,https://slate.com/news-and-politics/2005/12/charol-shakeshaft-topped.html,200
 apt-1064,Scott H. Stoleson,person_source_url,https://research.fs.usda.gov/download/treesearch/38176.pdf,200
@@ -1839,7 +1842,7 @@ apt-1065,Scott Hatch,person_source_url,https://orcid.org/0000-0002-0064-8187,200
 apt-1065,Scott Hatch,discovery_source_url,https://www.neatorama.com/2013/03/19/The-Name-Number-for-Geology-and-for-Other-Professions/,200
 apt-1066,Scott McClellan,person_source_url,https://en.wikipedia.org/wiki/Scott_McClellan,200
 apt-1067,Scott Perry,person_source_url,https://en.wikipedia.org/wiki/Scott_Perry_(politician),200
-apt-1068,Scott Speed,person_source_url,https://en.wikipedia.org/wiki/Scott_Speed,wiki-error:HTTPError
+apt-1068,Scott Speed,person_source_url,https://en.wikipedia.org/wiki/Scott_Speed,200
 apt-1068,Scott Speed,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
 apt-1069,Sean Baker,person_source_url,https://www.berkeleyside.org/2015/10/09/bites-butchers-son-to-university-gathers-new-chef/,200
 apt-1070,Sean Cash,person_source_url,https://orcid.org/0000-0002-7561-3392,200
@@ -1878,7 +1881,7 @@ apt-1314,Simon Gagné,name_source_url,https://en.wiktionary.org/wiki/gagner,200
 apt-1090,Simon Grove,person_source_url,https://www.redmap.org.au/my-redmap/view/DrSimonGroveTMAG/,200
 apt-1090,Simon Grove,discovery_source_url,https://www.neatorama.com/2013/03/19/The-Name-Number-for-Geology-and-for-Other-Professions/,200
 apt-1091,Simon Head,person_source_url,https://www.salisburyjournal.co.uk/news/24494031.chafyn-grove-simon-head-reacts-labours-private-schools-policy/,200
-apt-1092,Sina Movahed,person_source_url,https://en.wikipedia.org/wiki/Sina_Movahed,wiki-error:HTTPError
+apt-1092,Sina Movahed,person_source_url,https://en.wikipedia.org/wiki/Sina_Movahed,200
 apt-1092,Sina Movahed,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
 apt-1093,Skip Waters,person_source_url,https://wcti12.com/archive/skip-waters-1953-2014,200
 apt-1093,Skip Waters,name_source_url,https://en.wiktionary.org/wiki/water,200
@@ -1887,8 +1890,8 @@ apt-1094,Snowden D. Flora,name_source_url,https://en.wiktionary.org/wiki/snow,20
 apt-1095,Sonia Seneviratne,person_source_url,https://www.ipcc.ch/people/sonia-seneviratne/,200
 apt-1096,Sonya Lucatero,person_source_url,https://www.fs.usda.gov/about-agency/features/forestry-technician,200
 apt-1096,Sonya Lucatero,name_source_url,https://en.wiktionary.org/wiki/forest,200
-apt-1097,Sparky Lyle,person_source_url,https://www.baseball-reference.com/players/l/lylesp01.shtml,429
-apt-1098,Spottswood Poles,person_source_url,https://www.baseball-reference.com/players/p/polessp01.shtml,429
+apt-1097,Sparky Lyle,person_source_url,https://www.baseball-reference.com/players/l/lylesp01.shtml,200
+apt-1098,Spottswood Poles,person_source_url,https://www.baseball-reference.com/players/p/polessp01.shtml,200
 apt-1099,St. John Fisher,person_source_url,https://www.catholic-hierarchy.org/bishop/bfishe.html,200
 apt-1100,Stacy L. Clark,person_source_url,https://www.srs.fs.usda.gov/pubs/gtr/gtr_srs237/gtr_srs237.pdf,200
 apt-1101,Stan Lee,person_source_url,https://en.wikipedia.org/wiki/Stan_Lee,200
@@ -1918,7 +1921,7 @@ apt-1112,Steve Wohlenhaus,person_source_url,https://www.kare11.com/article/news/
 apt-1112,Steve Wohlenhaus,name_source_url,https://en.wiktionary.org/wiki/sunny,200
 apt-1113,Steven Bookman,person_source_url,https://www.linkedin.com/in/steven-bookman-12009426,999
 apt-1114,Stevie Wonder,person_source_url,https://en.wikipedia.org/wiki/Stevie_Wonder,200
-apt-1115,Sting,person_source_url,https://en.wikipedia.org/wiki/Sting_(musician),wiki-error:HTTPError
+apt-1115,Sting,person_source_url,https://en.wikipedia.org/wiki/Sting_(musician),200
 apt-1115,Sting,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
 apt-1116,Sting Ray Robb,person_source_url,https://en.wikipedia.org/wiki/Sting_Ray_Robb,200
 apt-1116,Sting Ray Robb,discovery_source_url,https://www.foxsports.com/stories/motor/sting-ray-robb-unique-name-indycar,200
@@ -2026,11 +2029,11 @@ apt-1177,Tony Snow,discovery_source_url,https://slate.com/news-and-politics/2005
 apt-1178,Topper Shutt,person_source_url,https://www.wusa9.com/article/about-us/team-bios/topper-shutt-chief-meteorologist/65-72614410,200
 apt-1179,Tormod Frostad,person_source_url,https://www.olympedia.org/athletes/139268,200
 apt-1180,Tōru Takemitsu,person_source_url,https://en.wikipedia.org/wiki/T%C5%8Dru_Takemitsu,200
-apt-1180,Tōru Takemitsu,name_source_url,https://japanese-names.info/last-name/takemitsu/,200
+apt-1180,Tōru Takemitsu,name_source_url,https://japanese-names.info/last-name/takemitsu/,403
 apt-1181,Trent Franks,person_source_url,https://en.wikipedia.org/wiki/Trent_Franks,200
 apt-1182,Trina Brake,person_source_url,https://www.fsa.usda.gov/about-fsa/fsa-leadership/trina-brake,200
 apt-1182,Trina Brake,name_source_url,https://en.wiktionary.org/wiki/field,200
-apt-1183,Troy Puckett,person_source_url,https://www.baseball-reference.com/players/p/pucketr01.shtml,429
+apt-1183,Troy Puckett,person_source_url,https://www.baseball-reference.com/players/p/pucketr01.shtml,200
 apt-1320,Tuomari Nurmio,person_source_url,https://en.wikipedia.org/wiki/Tuomari_Nurmio,200
 apt-1320,Tuomari Nurmio,name_source_url,https://en.wiktionary.org/wiki/tuomari,200
 apt-1184,Twining Lynes,person_source_url,https://tomfolio.pbworks.com/w/page/22340473/AuthorAptronyms,200
@@ -2040,7 +2043,7 @@ apt-1186,Ulysses S. Grant,person_source_url,https://en.wikipedia.org/wiki/Ulysse
 apt-1186,Ulysses S. Grant,name_source_url,https://www.etymonline.com/word/grant,200
 apt-1187,Unai Aguirre,person_source_url,https://en.wikipedia.org/wiki/Unai_Aguirre,200
 apt-1187,Unai Aguirre,name_source_url,https://en.wiktionary.org/wiki/Aguirre,200
-apt-1188,Urban Shocker,person_source_url,https://www.baseball-reference.com/players/s/shockur01.shtml,429
+apt-1188,Urban Shocker,person_source_url,https://www.baseball-reference.com/players/s/shockur01.shtml,200
 apt-1189,Usain Bolt,person_source_url,https://en.wikipedia.org/wiki/Usain_Bolt,200
 apt-1189,Usain Bolt,discovery_source_url,https://en.wikipedia.org/wiki/Aptronym,200
 apt-1190,Val Castor,person_source_url,https://cas.okstate.edu/alumni/distinguished_alumni/castor_val.html,403
@@ -2178,7 +2181,7 @@ apt-1263,Zhu Ting,person_source_url,https://en.wikipedia.org/wiki/Zhu_Ting_(foot
 apt-1263,Zhu Ting,name_source_url,https://en.wiktionary.org/wiki/%E6%8C%BA,200
 apt-1263,Zhu Ting,discovery_source_url,https://www.topendsports.com/fun/names/apt.htm,200
 apt-1264,Zita Galvin,person_source_url,https://www.bmj.com/content/347/bmj.f6627,429
-apt-1264,Zita Galvin,discovery_source_url,https://doi.org/10.1136/bmj.f6627,403
+apt-1264,Zita Galvin,discovery_source_url,https://doi.org/10.1136/bmj.f6627,429
 apt-1265,Zoltan Ovary,person_source_url,https://archives.med.nyu.edu/taxonomy/term/8392,200
 apt-1265,Zoltan Ovary,discovery_source_url,https://slate.com/news-and-politics/2005/12/charol-shakeshaft-topped.html,200
 apt-1325,Žydrūnas Ilgauskas,person_source_url,https://en.wikipedia.org/wiki/%C5%BDydr%C5%ABnas_Ilgauskas,200
