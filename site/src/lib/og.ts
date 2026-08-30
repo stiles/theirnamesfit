@@ -123,7 +123,7 @@ export async function card({ name, occupation, no, footer }: Card): Promise<Buff
           rule(
             [
               text("THEIR NAMES FIT", { letterSpacing: "0.14em" }),
-              text(no ? `ENTRY NO. ${String(no).padStart(3, "0")}` : "A REGISTER OF APT NAMES", {
+              text(no ? `ENTRY NO. ${String(no).padStart(3, "0")}` : "A REGISTER OF APTRONYMS", {
                 letterSpacing: "0.14em",
               }),
             ],
