@@ -53,6 +53,20 @@ const current = (href: string) =>
     <meta name="theme-color" content="#efe4d4" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="sitemap" href="/sitemap-index.xml" />
+
+    {
+      import.meta.env.PROD && (
+        <>
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-MQ9B4ZTTTM" />
+          <script is:inline>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-MQ9B4ZTTTM');
+          </script>
+        </>
+      )
+    }
   </head>
   <body>
     <a class="skip" href="#main">Skip to the register</a>

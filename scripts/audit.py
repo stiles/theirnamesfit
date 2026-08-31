@@ -1,14 +1,19 @@
 #!/usr/bin/env python3
 """Split the master dataset into audit slices, and apply audit corrections back to it.
 
-    python3 scripts/audit.py split    # write data/audit/<slice>.csv for reviewers
-    python3 scripts/audit.py apply    # fold data/audit/corrections/*.csv into the master
+    python3 scripts/audit.py split [name...]   # write data/audit/<slice>.csv for reviewers
+    python3 scripts/audit.py apply             # fold data/audit/corrections/*.csv into the master
+
+Naming a slice rewrites only that one. The domain slices are a record of what each reviewer
+was handed, so regenerating all of them against a since-corrected master destroys that.
 """
 
 from __future__ import annotations
 
 import csv
+import re
 import sys
+from collections.abc import Callable
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -25,6 +30,18 @@ SLICES: dict[str, set[str]] = {
     "public-practical": {
         "politics", "military", "crime", "education", "trades", "transport", "other",
     },
+}
+
+# Slices selected by a predicate rather than by domain, for a defect that cuts across fields.
+QUOTED_NICKNAME = re.compile(r"[\"“”]([^\"“”]+)[\"“”]")
+
+# A nickname awarded for the trait it describes is not an aptronym, it is the trait being
+# restated. The rows that can hide that inversion are the ones not resting on a birth name.
+FOCUS: dict[str, Callable[[dict[str, str]], bool]] = {
+    "name-status": lambda r: (
+        r["name_status"] in {"professional_name", "pseudonym"}
+        or bool(QUOTED_NICKNAME.search(r["full_name"]))
+    ),
 }
 
 CORRECTION_COLUMNS = [
@@ -45,34 +62,74 @@ CORRECTION_COLUMNS = [
 VERDICTS = {"keep", "rescore", "reject", "fix"}
 
 
+def merge_corrections(path: Path, columns: list[str], new_rows: list[dict[str, str]]) -> int:
+    """Fold new corrections into an existing file, keyed by id.
+
+    Correction files are replayed on every rebuild, so a generated one must never be written
+    from scratch. A pass that clobbers its own output reverts its own fixes the moment it
+    stops finding anything to fix: `resolve_npi.py` selects rows citing the NPI homepage, and
+    once they are repointed it matches nothing at all.
+    """
+    existing: dict[str, dict[str, str]] = {}
+    if path.exists():
+        with path.open(newline="", encoding="utf-8") as fh:
+            reader = csv.DictReader(fh)
+            columns = list(dict.fromkeys(list(reader.fieldnames or []) + columns))
+            existing = {r["id"]: r for r in reader}
+
+    for row in new_rows:
+        existing[row["id"]] = row
+
+    with path.open("w", newline="", encoding="utf-8") as fh:
+        writer = csv.DictWriter(fh, fieldnames=columns, extrasaction="ignore")
+        writer.writeheader()
+        for rid in sorted(existing):
+            writer.writerow(existing[rid])
+    return len(existing)
+
+
 def read_master() -> tuple[list[str], list[dict[str, str]]]:
     with MASTER.open(newline="", encoding="utf-8") as fh:
         reader = csv.DictReader(fh)
         return list(reader.fieldnames or []), list(reader)
 
 
-def do_split() -> None:
+def do_split(only: set[str] | None = None) -> None:
     cols, rows = read_master()
     AUDIT.mkdir(parents=True, exist_ok=True)
     CORRECTIONS.mkdir(parents=True, exist_ok=True)
 
-    assigned = 0
-    for name, fields in SLICES.items():
-        subset = [r for r in rows if r["field"] in fields]
-        assigned += len(subset)
+    unknown = (only or set()) - set(SLICES) - set(FOCUS)
+    if unknown:
+        raise SystemExit(f"unknown slice(s): {', '.join(sorted(unknown))}")
+
+    def write(name: str, subset: list[dict[str, str]], tag: str = "") -> None:
+        if only and name not in only:
+            return
         path = AUDIT / f"{name}.csv"
         with path.open("w", newline="", encoding="utf-8") as fh:
             writer = csv.DictWriter(fh, fieldnames=cols)
             writer.writeheader()
             writer.writerows(subset)
-        print(f"{path.relative_to(ROOT)}: {len(subset)} rows")
+        print(f"{path.relative_to(ROOT)}: {len(subset)} rows{tag}")
 
         template = CORRECTIONS / f"{name}.template.csv"
         with template.open("w", newline="", encoding="utf-8") as fh:
             csv.writer(fh).writerow(CORRECTION_COLUMNS)
 
-    if assigned != len(rows):
+    assigned = 0
+    for name, fields in SLICES.items():
+        subset = [r for r in rows if r["field"] in fields]
+        assigned += len(subset)
+        write(name, subset)
+
+    if not only and assigned != len(rows):
         print(f"WARNING: {len(rows) - assigned} rows fell outside every slice")
+
+    # Focus slices overlap the domain slices on purpose: a row can need a second look for a
+    # reason its domain reviewer was not asked about.
+    for name, match in FOCUS.items():
+        write(name, [r for r in rows if match(r)], " (focus)")
 
 
 def do_apply() -> None:
@@ -155,7 +212,7 @@ def do_apply() -> None:
 if __name__ == "__main__":
     command = sys.argv[1] if len(sys.argv) > 1 else ""
     if command == "split":
-        do_split()
+        do_split(set(sys.argv[2:]) or None)
     elif command == "apply":
         do_apply()
     else:

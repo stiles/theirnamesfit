@@ -12,7 +12,7 @@ GEN1 = canonical.csv law-crime.csv medicine.csv sports-individual.csv \
 GEN2 = sports-gaps.csv archives.csv translation-gaps.csv professions-gaps.csv restored.csv \
        sports-skipped.csv skubal.csv
 
-.PHONY: all rebuild check urls enrich db stats site-data clean-db
+.PHONY: all rebuild check urls enrich npi dates db stats site-data clean-db
 
 ## Rebuild the master dataset from scratch, deterministically.
 rebuild:
@@ -39,6 +39,17 @@ urls:
 ## Fill dates and detect birth names from Wikipedia leads.
 enrich:
 	$(PY) scripts/enrich_wikipedia.py --apply
+
+# The two passes below write correction files rather than the master, so their output goes
+# through data/audit/corrections/ and lands on the next `audit.py apply`.
+
+## Repoint NPI rows from the registry homepage to the provider record.  (network)
+npi:
+	$(PY) scripts/resolve_npi.py
+
+## Check recorded dates against the Wikipedia lead each row cites.      (network, ~3 min)
+dates:
+	$(PY) scripts/check_dates.py
 
 ## Build the queryable SQLite copy.
 db:

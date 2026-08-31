@@ -38,8 +38,20 @@ CTX = ssl.create_default_context()
 # "(born 12 March 1970)", "(1802-1885)", "(born Reginald Kenneth Dwight; 25 March 1947)"
 YEAR = r"(1[0-9]{3}|20[0-9]{2}|[89][0-9]{2})"
 BORN_YEAR = re.compile(rf"\bborn[^);.]{{0,40}}?\b{YEAR}\b")
-RANGE_YEARS = re.compile(rf"\(\s*(?:c\.\s*)?{YEAR}\s*[–—-]\s*(?:c\.\s*)?{YEAR}\s*\)")
-LEAD_RANGE = re.compile(rf"[;(]\s*(?:c\.\s*)?[^;()]{{0,30}}?{YEAR}\s*[–—-]\s*[^;()]{{0,30}}?{YEAR}")
+
+# Inside a date parenthetical there is no need to stop at punctuation: the whole group is the
+# date block, so "born Reginald Kenneth Dwight; 25 March 1947" reads through the semicolon.
+IN_PAREN_BORN = re.compile(rf"\bborn\b.*?\b{YEAR}\b", re.DOTALL)
+IN_PAREN_DIED = re.compile(rf"\bdied\b.*?\b{YEAR}\b", re.DOTALL)
+IN_PAREN_YEAR = re.compile(rf"\b{YEAR}\b")
+
+PAREN = re.compile(r"\(([^()]{1,160})\)")
+
+# A lead is full of year pairs — seasons, tenures, terms of office — and reading one as a
+# lifespan buries a living person: Josh Outman's spell at the Rockies, "(2012-2013)", was
+# recorded as his dates. A bare range counts as a lifespan only where a biography puts one,
+# directly after the subject's name. An explicit "born" needs no such guard.
+NAME_WORDS = 10
 
 # "(born Marshall Bruce Mathers III;" / "born Norma Jeane Mortenson," / "né Smith"
 ALT_NAME = re.compile(
@@ -93,6 +105,44 @@ def _api_extracts_once(host: str, titles: list[str]) -> dict[str, str]:
         for p in query.get("pages", {}).values()
     }
     return {t: by_title.get(alias[t], "") for t in titles}
+
+
+def is_name_only(text: str) -> bool:
+    """Whether everything so far could still be the subject's name and titles. Names are
+    capitalised in every language the enrichment reads, so a lowercase word that is not a
+    particle means the sentence has started and any dates after it belong to the prose."""
+    words = [w.strip("(),.;:'’\"") for w in text.split()]
+    words = [w for w in words if w]
+    if len(words) > NAME_WORDS:
+        return False
+    return all(w[0].isupper() or w.lower() in PARTICLES or len(w) == 1 for w in words)
+
+
+def dates(lead: str) -> tuple[str, str]:
+    """Birth and death year from a lead, either of which may be blank. Reads the first
+    parenthetical that carries dates at all, since honorifics and post-nominals often take
+    the slot next to the name."""
+    for group in PAREN.finditer(lead):
+        scope = group.group(1)
+        years = IN_PAREN_YEAR.findall(scope)
+
+        # Two years beside the name are a lifespan whatever else the group holds. "born" in
+        # that position usually introduces a birth name, not a birth date: Freud's group
+        # reads "born Sigismund Schlomo Freud; 6 May 1856 – 23 September 1939".
+        if len(years) >= 2:
+            if is_name_only(lead[: group.start()]):
+                return years[0], years[1]
+            continue
+
+        if len(years) == 1:
+            if IN_PAREN_BORN.search(scope):
+                return years[0], ""
+            if IN_PAREN_DIED.search(scope):
+                return "", years[0]
+
+    # No parenthetical worth reading: a lead can still say "was born in 1857" in prose.
+    born = BORN_YEAR.search(lead)
+    return (born.group(1), "") if born else ("", "")
 
 
 def tokens(name: str) -> list[str]:
@@ -192,14 +242,7 @@ def main() -> None:
                 continue
             lead = text[:900]
 
-            birth = death = ""
-            span = RANGE_YEARS.search(lead) or LEAD_RANGE.search(lead)
-            if span:
-                birth, death = span.group(1), span.group(2)
-            else:
-                got = BORN_YEAR.search(lead)
-                if got:
-                    birth = got.group(1)
+            birth, death = dates(lead)
 
             match = ALT_NAME.search(lead)
             title_tokens = set(tokens(title))

@@ -1,0 +1,1331 @@
+id,key_name,key_field,full_name
+apt-0001,a j splatt,medicine,A. J. Splatt
+apt-0002,aaron doctor,medicine,Aaron Doctor
+apt-0003,aaron judge,sports,Aaron Judge
+apt-0004,aaron snow,sports,Aaron Snow
+apt-0005,abby stork,medicine,Abby Stork
+apt-0006,abu hafs amr haddad,religion,Abu Hafs Amr Haddad
+apt-0007,adam gunn,sports,Adam Gunn
+apt-0008,adam riess,science,Adam Riess
+apt-0009,adam speker,law,Adam Speker
+apt-0010,adam weiner,medicine,Adam Weiner
+apt-0011,adolf jager,sports,Adolf Jäger
+apt-0012,adrian speck,law,Adrian Speck
+apt-0013,aerial powers,sports,Aerial Powers
+apt-0014,aidan stone,sports,Aidan Stone
+apt-0015,aimee blood,medicine,Aimee Blood
+apt-0016,akihiko hoshide,science,Akihiko Hoshide
+apt-0017,akira kurosawa,arts,Akira Kurosawa
+apt-0018,al haynes,transport,Al Haynes
+apt-0019,alain casanova,sports,Alain Casanova
+apt-0020,alan ball,sports,Alan Ball
+apt-0021,alan heavens,science,Alan Heavens
+apt-0022,alastair cook,sports,Alastair Cook
+apt-0023,albert sidney major,military,Albert Sidney Major Jr.
+apt-0024,alec steele,trades,Alec Steele
+apt-0025,alessandro volta,science,Alessandro Volta
+apt-0026,alexander burns wallace,medicine,Alexander Burns Wallace
+apt-0027,alexander graham bell,science,Alexander Graham Bell
+apt-0028,alfred adler,science,Alfred Adler
+apt-0029,alfred dennis,medicine,Alfred Dennis
+apt-0030,alfred diver,sports,Alfred Diver
+apt-0031,alfred hitchcock,arts,Alfred Hitchcock
+apt-0032,alfred russel wallace,science,Alfred Russel Wallace
+apt-0033,alison light,arts,Alison Light
+apt-0034,allan dennis,medicine,Allan Dennis
+apt-0035,allen korn,medicine,Allen Korn
+apt-0036,allison field,weather,Allison Field
+apt-0037,alper gezeravci,transport,Alper Gezeravci
+apt-0038,am rong,politics,Am Rong
+apt-0039,amanda cheesley,politics,Amanda Cheesley
+apt-0040,ambroise pare,medicine,Ambroise Paré
+apt-0041,amy castor,weather,Amy Castor
+apt-0042,amy freeze,weather,Amy Freeze
+apt-0043,amy gore,medicine,Amy Gore
+apt-0044,amy winehouse,arts,Amy Winehouse
+apt-0045,anderson nurse,medicine,Anderson Nurse
+apt-0046,andre brooks,weather,Andre Brooks
+apt-0047,andre fang,medicine,Andre Fang
+apt-0048,andre marie ampere,science,André-Marie Ampère
+apt-0049,andre wisdom,sports,Andre Wisdom
+apt-0050,andreas vesalius,medicine,Andreas Vesalius
+apt-0051,andreas wank,sports,Andreas Wank
+apt-0052,andrew ballaro,medicine,Andrew Ballaro
+apt-0053,andrew fisher,science,Andrew Fisher
+apt-0054,andrew fountain,science,Andrew Fountain
+apt-0055,andrew hull foote,military,Andrew Hull Foote
+apt-0056,andrew painter,sports,Andrew Painter
+apt-0057,andrew waterhouse,science,Andrew Waterhouse
+apt-0058,andrija vukovic,sports,Andrija Vuković
+apt-0059,andy carroll,sports,Andy Carroll
+apt-0060,angel colon,medicine,Angel Colon
+apt-0061,angel martinez vivas,religion,Angel Martínez Vivas
+apt-0062,angel means,medicine,Angel Means
+apt-0063,angel rodriguez gamoneda,religion,Angel Rodríguez Gamoneda
+apt-0064,angus king,politics,Angus King
+apt-0065,ann greathouse,business,Ann Greathouse
+apt-0066,anna pavlova,arts,Anna Pavlova
+apt-0067,anna smashnova,sports,Anna Smashnova
+apt-0068,anne dyer,science,Anne Dyer
+apt-0069,anne mary fang,medicine,Anne Mary Fang
+apt-0070,annkatrin rose,science,Annkatrin Rose
+apt-0071,anthony brewergray,food,Anthony Brewergray
+apt-0072,anthony hazard,business,Anthony Hazard
+apt-0073,anthony rush,sports,Anthony Rush
+apt-0074,anthony stone,medicine,Anthony Stone
+apt-0075,anthony weiner,politics,Anthony Weiner
+apt-0076,anthony weller,arts,Anthony Weller
+apt-0077,aral okay,science,Aral Okay
+apt-0078,arianna huffington,media,Arianna Huffington
+apt-0079,arina naaktgeboren,medicine,Arina Naaktgeboren
+apt-0080,armin jager,sports,Armin Jäger
+apt-0081,arsene wenger,sports,Arsène Wenger
+apt-0082,art hawkins,science,Art Hawkins
+apt-0083,art spiegelman,arts,Art Spiegelman
+apt-0084,arthur bliss,arts,Arthur Bliss
+apt-0085,ashleigh johnson,sports,Ashleigh Johnson
+apt-0086,astley paston cooper,medicine,Sir Astley Paston Cooper
+apt-0087,auguste lumiere,arts,Auguste Lumière
+apt-0088,avicenna,medicine,Avicenna
+apt-0089,axel frost,sports,Axel Frost
+apt-0090,ayn learn,education,Ayn Learn
+apt-0091,bailey swift,sports,Bailey Swift
+apt-0092,baker mayfield,sports,Baker Mayfield
+apt-0093,bankee kwan,business,Bankee Kwan
+apt-0094,barb wolfe,medicine,Barb Wolfe
+apt-0095,barbara snow,science,Barbara Snow
+apt-0096,barbara walters,media,Barbara Walters
+apt-0097,barbara wolfe,medicine,Barbara Wolfe
+apt-0098,barnaby smith,media,Barnaby Smith
+apt-0099,barney frank,politics,Barney Frank
+apt-0100,barny boatman,sports,Barny Boatman
+apt-0101,baron hill,politics,Baron Hill
+apt-0102,basil butcher,sports,Basil Butcher
+apt-0103,bear woods,education,Bear Woods
+apt-0104,bekim kastrati,sports,Bekim Kastrati
+apt-0105,ben wettervogel,weather,Ben Wettervogel
+apt-0106,benjamin britten,arts,Benjamin Britten
+apt-0107,benjamin hale settle,law,Benjamin Hale Settle
+apt-0108,benjamin millepied,arts,Benjamin Millepied
+apt-0109,benjamin rush,medicine,Benjamin Rush
+apt-0110,benjamin stone,medicine,Benjamin Stone
+apt-0111,benjamin winger,science,Benjamin Winger
+apt-0112,bernard foing,science,Bernard Foing
+apt-0113,bert beveridge,business,Bert Beveridge
+apt-0114,bert ironmonger,sports,Bert Ironmonger
+apt-0115,bianca knight,sports,Bianca Knight
+apt-0116,bianca vet,medicine,Bianca Vet
+apt-0117,bill archer,politics,Bill Archer
+apt-0118,bill giles,weather,Bill Giles
+apt-0119,bill grant,politics,Bill Grant
+apt-0120,billy schwind,weather,Billy Schwind
+apt-0121,blade jenkins,sports,Blade Jenkins
+apt-0122,blas canto,arts,Blas Cantó
+apt-0123,bob barber,sports,Bob Barber
+apt-0124,bob flowerdew,trades,Bob Flowerdew
+apt-0125,bob hope,arts,Bob Hope
+apt-0126,bob rock,arts,Bob Rock
+apt-0127,bob walk,sports,Bob Walk
+apt-0128,bob wise,politics,Bob Wise
+apt-0129,bob woodward,media,Bob Woodward
+apt-0130,bobby george,sports,Bobby George
+apt-0131,bobby hooper,sports,Bobby Hooper
+apt-0132,bolitha james laws,law,Bolitha James Laws
+apt-0133,bonnie beaver,medicine,Bonnie Beaver
+apt-0134,bono,arts,Bono
+apt-0135,boyd skinner,medicine,Boyd Skinner
+apt-0136,brad hand,sports,Brad Hand
+apt-0137,brad slaughter,food,Brad Slaughter
+apt-0138,braeden winters,weather,Braeden Winters
+apt-0139,brandon fields,sports,Brandon Fields
+apt-0140,brett goode,sports,Brett Goode
+apt-0141,brett welch,law,Brett Welch
+apt-0142,brian atwater,science,Brian Atwater
+apt-0143,brian baldinger,sports,Brian Baldinger
+apt-0144,brian barker,law,Brian Barker
+apt-0145,brian cox,medicine,Brian Cox
+apt-0146,brian dick,medicine,Brian Dick
+apt-0147,brian mast,politics,Brian Mast
+apt-0148,brian payne,medicine,Brian Payne
+apt-0149,briny baird,sports,Briny Baird
+apt-0150,bronislav yermak,business,Bronislav Yermak
+apt-0151,brooke brighton,weather,Brooke Brighton
+apt-0152,brooks garner,weather,Brooks Garner
+apt-0153,bruce stone,medicine,Bruce Stone
+apt-0154,bruno fromage,business,Bruno Fromage
+apt-0155,byron stone,science,Byron Stone
+apt-0156,c j berry,science,C. J. Berry
+apt-0157,c michael knee,medicine,C. Michael Knee
+apt-0158,c sharpe minor,arts,C. Sharpe Minor
+apt-0159,cameron goode,sports,Cameron Goode
+apt-0160,camilla snowman andresen,science,Camilla Snowman Andresen
+apt-0161,carl anthony fisher,religion,Carl Anthony Fisher
+apt-0162,carl archer,sports,Carl Archer
+apt-0163,carl jung,science,Carl Jung
+apt-0164,carl linnaeus,science,Carl Linnaeus
+apt-0165,carl richard cavonius,science,Carl Richard Cavonius
+apt-0166,carla dove,science,Carla Dove
+apt-0167,carmelita jeter,sports,Carmelita Jeter
+apt-0168,carol kirkwood,weather,Carol Kirkwood
+apt-0169,carolyn screech,science,Carolyn Screech
+apt-0170,carrie wolf ritchie,trades,Carrie Wolf Ritchie
+apt-0171,casey cloud,weather,Casey Cloud
+apt-0172,catfish hunter,sports,Catfish Hunter
+apt-0173,catherine ann limb,medicine,Catherine Ann Limb
+apt-0174,catherine anne fairpo,law,Catherine Anne Fairpo
+apt-0175,cathy brewer,food,Cathy Brewer
+apt-0176,cecil beaton,arts,Cecil Beaton
+apt-0177,cecil fielder,sports,Cecil Fielder
+apt-0178,celia hunter,science,Celia Hunter
+apt-0179,chari hart,medicine,Chari Hart
+apt-0180,charles bell,medicine,Charles Bell
+apt-0181,charles chamberlain,politics,Charles Chamberlain
+apt-0182,charles coward,military,Charles Coward
+apt-0183,charles david walker,transport,Charles David Walker
+apt-0184,charles ewan law,law,Charles Ewan Law
+apt-0185,charles franklin brooks,weather,Charles Franklin Brooks
+apt-0186,charles j precourt,transport,Charles J. Precourt
+apt-0187,charles lawson,law,Charles Lawson
+apt-0188,charles lyell,science,Charles Lyell
+apt-0189,charles palmer,sports,Charles Palmer
+apt-0190,charles payne,medicine,Charles Payne
+apt-0191,charles reade,arts,Charles Reade
+apt-0192,charlie gunn,sports,Charlie Gunn
+apt-0193,charlie hill,sports,Charlie Hill
+apt-0194,charol shakeshaft,education,Charol Shakeshaft
+apt-0195,chase young,sports,Chase Young
+apt-0196,chesley sullenberger,transport,Chesley Sullenberger
+apt-0197,chester stone,medicine,Chester Stone
+apt-0198,chip reese,sports,Chip Reese
+apt-0199,chris cannon,politics,Chris Cannon
+apt-0200,chris gardocki,sports,Chris Gardocki
+apt-0201,chris goode,sports,Chris Goode
+apt-0202,chris moneymaker,sports,Chris Moneymaker
+apt-0203,chris rock,arts,Chris Rock
+apt-0204,chris wheeler,sports,Chris Wheeler
+apt-0205,chris wood,sports,Chris Wood
+apt-0206,christian fuchs,sports,Christian Fuchs
+apt-0207,christian pain edwards,sports,Christian Pain Edwards
+apt-0208,christian poser,sports,Christian Poser
+apt-0209,christian weber,arts,Christian Weber
+apt-0210,christiane amanpour,media,Christiane Amanpour
+apt-0211,christiane endler,sports,Christiane Endler
+apt-0212,christopher coke,business,Christopher Coke
+apt-0213,christopher k payne,medicine,Christopher K. Payne
+apt-0214,christopher limb,medicine,Christopher Limb
+apt-0215,christopher michael barker,medicine,Christopher Michael Barker
+apt-0216,christopher payne,medicine,Christopher Payne
+apt-0217,christopher spray,science,Christopher Spray
+apt-0218,christopher wren,arts,Christopher Wren
+apt-0219,cinderela rice guevara,law,Cinderela Rice Guevara
+apt-0220,ciro immobile,sports,Ciro Immobile
+apt-0221,claire loiseau,science,Claire Loiseau
+apt-0222,clara barton,medicine,Clara Barton
+apt-0223,clarence gamble,science,Clarence Gamble
+apt-0224,claude bataille,law,Claude Bataille
+apt-0225,claude monet,arts,Claude Monet
+apt-0226,claudio gentile,sports,Claudio Gentile
+apt-0227,clifford butcher,medicine,Clifford Butcher
+apt-0228,clint eastwood,arts,Clint Eastwood
+apt-0229,clive rush,sports,Clive Rush
+apt-0230,clyde kluttz,sports,Clyde Kluttz
+apt-0231,colin bass,arts,Colin Bass
+apt-0232,cool papa bell,sports,Cool Papa Bell
+apt-0233,cooper rush,sports,Cooper Rush
+apt-0234,corona rintawan,medicine,Corona Rintawan
+apt-0235,cosmo gerald maitland gordon,law,Cosmo Gerald Maitland Gordon
+apt-0236,cotton mather,religion,Cotton Mather
+apt-0237,court s rich,law,Court S. Rich
+apt-0238,courtney lee,sports,Courtney Lee
+apt-0239,craig m bone,medicine,Craig M. Bone
+apt-0240,creflo dollar,religion,Creflo Dollar
+apt-0241,crescent hardy,politics,Crescent Hardy
+apt-0242,crispin blunt,politics,Crispin Blunt
+apt-0243,cuff shooters hill draper,trades,Cuff (Shooters Hill draper)
+apt-0244,cy young,sports,Cy Young
+apt-0245,d weedon,medicine,D. Weedon
+apt-0246,dae sik moon,science,Dae-Sik Moon
+apt-0247,dale strong,politics,Dale Strong
+apt-0248,dallas raines,weather,Dallas Raines
+apt-0249,damien fitzhenry,sports,Damien Fitzhenry
+apt-0250,dana perino,politics,Dana Perino
+apt-0251,dani byrd,science,Dani Byrd
+apt-0252,daniel c dey,trades,Daniel C. Dey
+apt-0253,daniel skinner,medicine,Daniel Skinner
+apt-0254,daniel snowman,science,Daniel Snowman
+apt-0255,daniel thew wright,law,Daniel Thew Wright
+apt-0256,danielle outlaw,law,Danielle Outlaw
+apt-0257,danny elfman,arts,Danny Elfman
+apt-0258,danny vukovic,sports,Danny Vuković
+apt-0259,darius rush,sports,Darius Rush
+apt-0260,darren potter,sports,Darren Potter
+apt-0261,dave camp,politics,Dave Camp
+apt-0262,david a payne,medicine,David A. Payne
+apt-0263,david bird,science,David Bird
+apt-0264,david c bury,law,David C. Bury
+apt-0265,david cohen,religion,David Cohen
+apt-0266,david copperfield,arts,David Copperfield
+apt-0267,david dollar,science,David Dollar
+apt-0268,david e smith,medicine,David E. Smith
+apt-0269,david fisher,food,David Fisher
+apt-0270,david goodfield,sports,David Goodfield
+apt-0271,david gore,medicine,David Gore
+apt-0272,david hookes,sports,David Hookes
+apt-0273,david j wald,science,David J. Wald
+apt-0274,david learn,education,David Learn
+apt-0275,david leslie limb,medicine,David Leslie Limb
+apt-0276,david levy,politics,David Levy
+apt-0277,david loud,arts,David Loud
+apt-0278,david m ller wolfe,sports,David Møller Wolfe
+apt-0279,david m walker,transport,David M. Walker
+apt-0280,david price,science,David Price
+apt-0281,david rodigan,media,David Rodigan
+apt-0282,david shepherd,sports,David Shepherd
+apt-0283,david skinner,medicine,David Skinner
+apt-0284,david snow,science,David Snow
+apt-0285,david strelec,sports,Dávid Strelec
+apt-0286,david toews,science,David Toews
+apt-0287,david w music,arts,David W. Music
+apt-0288,david weedon,medicine,David Weedon
+apt-0289,davis love,sports,Davis Love III
+apt-0290,dawn fairbanks,business,Dawn Fairbanks
+apt-0291,dean boring,business,Dean Boring
+apt-0292,deborah couch,medicine,Deborah Couch
+apt-0293,decimus junius brutus albinus,military,Decimus Junius Brutus Albinus
+apt-0294,dennis bird,science,Dennis Bird
+apt-0295,dennis boyd,sports,Dennis Boyd
+apt-0296,dennis gore,medicine,Dennis Gore
+apt-0297,denzil price marshall,law,Denzil Price Marshall Jr.
+apt-0298,derek jeter,sports,Derek Jeter
+apt-0299,derek kickett,sports,Derek Kickett
+apt-0300,derrick tooth,medicine,Derrick Tooth
+apt-0301,des britten,religion,Des Britten
+apt-0302,deward dopson,sports,Deward Dopson
+apt-0303,dewey hopper,weather,Dewey Hopper
+apt-0304,diana woei,weather,Diana Woei
+apt-0305,dick campion,sports,Dick Campion
+apt-0306,dick gunn,sports,Dick Gunn
+apt-0307,dick pole,sports,Dick Pole
+apt-0308,dietmar schutze,sports,Dietmar Schütze
+apt-0309,dixie dean,sports,Dixie Dean
+apt-0310,dmitri medvedev,politics,Dmitri Medvedev
+apt-0311,doc strong,sports,Doc Strong
+apt-0312,doctor willard bliss,medicine,Doctor Willard Bliss
+apt-0313,dominique dropsy,sports,Dominique Dropsy
+apt-0314,dominique soin,medicine,Dominique Soin
+apt-0315,don black,politics,Don Black
+apt-0316,don popadick,crime,Don Popadick
+apt-0317,donald r wesson,medicine,Donald R. Wesson
+apt-0318,donald trump,politics,Donald Trump
+apt-0319,dorothea dix,medicine,Dorothea Dix
+apt-0320,dorothea lange,arts,Dorothea Lange
+apt-0321,doug bowser,business,Doug Bowser
+apt-0322,douglas given,science,Douglas Given
+apt-0323,douglas hart,medicine,Douglas Hart
+apt-0324,douglas sharp,medicine,Douglas Sharp
+apt-0325,duncan d hunter,politics,Duncan D. Hunter
+apt-0326,duncan gay,politics,Duncan Gay
+apt-0327,duncan hunter,politics,Duncan Hunter
+apt-0328,dustin partridge,science,Dustin Partridge
+apt-0329,dwight f wolfe,medicine,Dwight F. Wolfe
+apt-0330,early wynn,sports,Early Wynn
+apt-0331,ebenezer emmons,science,Ebenezer Emmons
+apt-0332,ed currie,food,Ed Currie
+apt-0333,ed poles,sports,Ed Poles
+apt-0334,eddy carmack,science,Eddy Carmack
+apt-0335,edgar allan poe,arts,Edgar Allan Poe
+apt-0336,edgar kaal,trades,Edgar Kaal
+apt-0337,edouard manet,arts,Édouard Manet
+apt-0338,edward coke,law,Sir Edward Coke
+apt-0339,edward frederick counsell,law,Edward Frederick Counsell
+apt-0340,edward jenner,medicine,Edward Jenner
+apt-0341,edward keelan,medicine,Edward Keelan
+apt-0342,edward major,military,Edward Major
+apt-0343,edward tatum,science,Edward Tatum
+apt-0344,edwin ford hunter,law,Edwin Ford Hunter Jr.
+apt-0345,edwin kist,other,Edwin Kist
+apt-0346,eleanor laws kc,law,Eleanor Laws KC
+apt-0347,elizabeth blackwell,medicine,Elizabeth Blackwell
+apt-0348,elizabeth fisher,science,Elizabeth Fisher
+apt-0349,elizabeth s cochran,science,Elizabeth S. Cochran
+apt-0350,elizabeth warren,politics,Elizabeth Warren
+apt-0351,elizabeth weatherhead,weather,Elizabeth Weatherhead
+apt-0352,ellis gardner,sports,Ellis Gardner
+apt-0353,els suiker,medicine,Els Suiker
+apt-0354,emilio botin,business,Emilio Botín
+apt-0355,emily wines,food,Emily Wines
+apt-0356,emmanuel king,sports,Emmanuel King
+apt-0357,endurance abinuwa,sports,Endurance Abinuwa
+apt-0358,ennio morricone,arts,Ennio Morricone
+apt-0359,eric hacker,science,Eric Hacker
+apt-0360,eric hollies,sports,Eric Hollies
+apt-0361,eric moody,transport,Eric Moody
+apt-0362,erik fish,sports,Erik Fish
+apt-0363,erik i johnson,science,Erik I. Johnson
+apt-0364,ernst fast,sports,Ernst Fast
+apt-0365,esperanza spalding,arts,Esperanza Spalding
+apt-0366,ethan hooker,sports,Ethan Hooker
+apt-0367,eugene swift,sports,Eugene Swift
+apt-0368,eugene terre blanche,politics,Eugène Terre'Blanche
+apt-0369,eugenius outerbridge,transport,Eugenius Outerbridge
+apt-0370,evangelista torricelli,science,Evangelista Torricelli
+apt-0371,faith popcorn,business,Faith Popcorn
+apt-0372,farokh engineer,sports,Farokh Engineer
+apt-0373,federico fellini,arts,Federico Fellini
+apt-0374,ferdinand magellan,science,Ferdinand Magellan
+apt-0375,ferry kok,food,Ferry Kok
+apt-0376,fielder jones,sports,Fielder Jones
+apt-0377,florence nightingale,medicine,Florence Nightingale
+apt-0378,forest townsley,trades,Forest Townsley
+apt-0379,forest whitaker,arts,Forest Whitaker
+apt-0380,forrest b lee,science,Forrest B. Lee
+apt-0381,forrest hall,science,Forrest Hall
+apt-0382,frances crook,law,Frances Crook
+apt-0383,frances fry,science,Frances Fry
+apt-0384,francine prose,arts,Francine Prose
+apt-0385,francis e warren,politics,Francis E. Warren
+apt-0386,francis moon,science,Francis Moon
+apt-0387,frank baumann,sports,Frank Baumann
+apt-0388,frank beard,arts,Frank Beard
+apt-0389,frank field,weather,Frank Field
+apt-0390,frank morey coffin,law,Frank Morey Coffin
+apt-0391,frank turner,sports,Frank Turner
+apt-0392,franz liszt,arts,Franz Liszt
+apt-0393,fred astaire,arts,Fred Astaire
+apt-0394,fred karr,education,Fred Karr
+apt-0395,fred root,sports,Fred Root
+apt-0396,fred wallace slaughter,law,Fred Wallace Slaughter
+apt-0397,friederike otto,science,Friederike Otto
+apt-0398,fritz lang,arts,Fritz Lang
+apt-0399,gabe pressman,media,Gabe Pressman
+apt-0400,gaius julius caesar,politics,Gaius Julius Caesar
+apt-0401,gaius plinius secundus,science,Gaius Plinius Secundus
+apt-0402,gale hoffnagle,weather,Gale Hoffnagle
+apt-0403,galen,medicine,Galen
+apt-0404,garland ellis burrell,law,Garland Ellis Burrell Jr.
+apt-0405,garlich von essen,politics,Garlich Von Essen
+apt-0406,garth snow,sports,Garth Snow
+apt-0407,gary bowser,crime,Gary Bowser
+apt-0408,gary numan,arts,Gary Numan
+apt-0409,gary oldman,arts,Gary Oldman
+apt-0410,gary oldman and gary numan,arts,Gary Oldman and Gary Numan
+apt-0411,gary sharp,medicine,Gary Sharp
+apt-0412,gene roof,sports,Gene Roof
+apt-0413,gene shearer,science,Gene Shearer
+apt-0414,geoff souster,trades,Geoff Souster
+apt-0415,georg simon ohm,science,Georg Simon Ohm
+apt-0416,george archibald,science,George Archibald
+apt-0417,george ball greene,sports,George Ball-Greene
+apt-0418,george beet,sports,George Beet
+apt-0419,george berkeley,religion,George Berkeley
+apt-0420,george best,sports,George Best
+apt-0421,george bird grinnell,science,George Bird Grinnell
+apt-0422,george c marshall,military,George C. Marshall
+apt-0423,george cecil mort,law,George Cecil Mort
+apt-0424,george f gunn,law,George F. Gunn Jr.
+apt-0425,george francis train,transport,George Francis Train
+apt-0426,george jeffreys,law,George Jeffreys
+apt-0427,george koch,medicine,George Koch
+apt-0428,george mcgovern,politics,George McGovern
+apt-0429,george miller beard,medicine,George Miller Beard
+apt-0430,george pope,sports,George Pope
+apt-0431,george porter,religion,George Porter
+apt-0432,george read sage,law,George Read Sage
+apt-0433,george stephenson,transport,George Stephenson
+apt-0434,george suttles,sports,George Suttles
+apt-0435,george winterling,weather,George Winterling
+apt-0436,georgia o keeffe,arts,Georgia O'Keeffe
+apt-0437,gerald a priest,religion,Gerald A. Priest
+apt-0438,gerald henry gordon,law,Sir Gerald Henry Gordon
+apt-0439,gerald j supina,law,Gerald J. Supina
+apt-0440,gerard pique,sports,Gerard Piqué
+apt-0441,gerhard weber,arts,Gerhard Weber
+apt-0442,gert oostindie,science,Gert Oostindie
+apt-0443,geva mentor,sports,Geva Mentor
+apt-0444,gevvie stone,sports,Gevvie Stone
+apt-0445,gilbert gardner,sports,Gilbert Gardner
+apt-0446,ginger zee,weather,Ginger Zee
+apt-0447,giuseppe verdi,arts,Giuseppe Verdi
+apt-0448,glenn gould,arts,Glenn Gould
+apt-0449,glenn seaborg,science,Glenn Seaborg
+apt-0450,gnaeus julius agricola,military,Gnaeus Julius Agricola
+apt-0451,gnaeus pompeius magnus,military,Gnaeus Pompeius Magnus
+apt-0452,gnaeus pompeius strabo,military,Gnaeus Pompeius Strabo
+apt-0453,gontran cherrier,food,Gontran Cherrier
+apt-0454,gordon cheeseman,science,Gordon Cheeseman
+apt-0455,gordon parks,arts,Gordon Parks
+apt-0456,gordon ramsay,trades,Gordon Ramsay
+apt-0457,gout gout,sports,Gout Gout
+apt-0458,gouverneur kemble,politics,Gouverneur Kemble
+apt-0459,gouverneur kemble warren,military,Gouverneur Kemble Warren
+apt-0460,gouverneur morris,politics,Gouverneur Morris
+apt-0461,graham onions,sports,Graham Onions
+apt-0462,graham potter,sports,Graham Potter
+apt-0463,graham saxby,science,Graham Saxby
+apt-0464,greg brewer,food,Greg Brewer
+apt-0465,greggmar swift,sports,Greggmar Swift
+apt-0466,gregory payne,medicine,Gregory Payne
+apt-0467,gregory price,science,Gregory Price
+apt-0468,gus savage,politics,Gus Savage
+apt-0469,gustav mahler,arts,Gustav Mahler
+apt-0470,gwendolyn sherard bishop,sports,Gwendolyn Sherard-Bishop
+apt-0471,habib el malki,politics,Habib El Malki
+apt-0472,hank blade,sports,Hank Blade
+apt-0473,hans richter,law,Hans Richter
+apt-0474,hans zimmer,arts,Hans Zimmer
+apt-0475,happy camp,politics,Happy Camp
+apt-0476,harold jack frost,weather,"Harold ""Jack"" Frost"
+apt-0477,harold wordsworth barber,medicine,Harold Wordsworth Barber
+apt-0478,harrie brigham chase,law,Harrie Brigham Chase
+apt-0479,harry caray,sports,Harry Caray
+apt-0480,harry frost,sports,Harry Frost
+apt-0481,harry hill,sports,Harry Hill
+apt-0482,harry houdini,arts,Harry Houdini
+apt-0483,hastie eugene love,crime,Hastie Eugene Love
+apt-0484,hayao miyazaki,arts,Hayao Miyazaki
+apt-0485,hazel counsell,law,Hazel Counsell
+apt-0486,heather lake,weather,Heather Lake
+apt-0487,heather reid,weather,Heather Reid
+apt-0488,heinrich amadeus wolff,law,Heinrich Amadeus Wolff
+apt-0489,heinrich hertz,science,Heinrich Hertz
+apt-0490,helen dewitt,arts,Helen DeWitt
+apt-0491,hennie de haan,politics,Hennie de Haan
+apt-0492,henning wind,sports,Henning Wind
+apt-0493,henry armstrong,sports,Henry Armstrong
+apt-0494,henry bessemer,science,Henry Bessemer
+apt-0495,henry head,medicine,Henry Head
+apt-0496,henry hook,sports,Henry Hook
+apt-0497,henry i baldwin,trades,Henry I. Baldwin
+apt-0498,henry seiler wise,law,Henry Seiler Wise
+apt-0499,henry wadsworth longfellow,arts,Henry Wadsworth Longfellow
+apt-0500,herb score,sports,Herb Score
+apt-0501,herbert s goldstein,religion,Herbert S. Goldstein
+apt-0502,herman dijk,politics,Herman Dijk
+apt-0503,holly hunter,arts,Holly Hunter
+apt-0504,home run baker,sports,Home Run Baker
+apt-0505,homer bush,sports,Homer Bush
+apt-0506,homer smoot,sports,Homer Smoot
+apt-0507,homer spragins,sports,Homer Spragins
+apt-0508,homer thompson,sports,Homer Thompson
+apt-0509,hosegood shooters hill hosier,trades,Hosegood (Shooters Hill hosier)
+apt-0510,howard cannon,politics,Howard Cannon
+apt-0511,howard j bennett,medicine,Howard J. Bennett
+apt-0512,hubert cox,medicine,Hubert Cox
+apt-0513,hubert green,sports,Hubert Green
+apt-0514,hubert legal,law,Hubert Legal
+apt-0515,hugh d flood,medicine,Hugh D. Flood
+apt-0516,hugh dick,medicine,Hugh Dick
+apt-0517,hugh fish,science,Hugh Fish
+apt-0518,hugh lennox bond,law,Hugh Lennox Bond
+apt-0519,hugh seymour,medicine,Hugh Seymour
+apt-0520,hugo winter,science,Hugo Winter
+apt-0521,humphry davy,science,Humphry Davy
+apt-0522,hunter henry,sports,Hunter Henry
+apt-0523,iain begg,science,Iain Begg
+apt-0524,ian bishop,religion,Ian Bishop
+apt-0525,ian mccaskill,weather,Ian McCaskill
+apt-0526,ibrahim al hammadi,transport,Ibrahim Al Hammadi
+apt-0527,ignar rip,other,Ignar Rip
+apt-0528,igor judge,law,Igor Judge
+apt-0529,increase mather,religion,Increase Mather
+apt-0530,innocent of alaska,religion,Innocent of Alaska
+apt-0531,ion ion,science,Ion Ion
+apt-0532,isaac newton,science,Isaac Newton
+apt-0533,isaac success,sports,Isaac Success
+apt-0534,isambard kingdom brunel,transport,Isambard Kingdom Brunel
+apt-0535,itzhak perlman,arts,Itzhak Perlman
+apt-0536,ivo krieg,politics,Ivo Krieg
+apt-0537,j r smith,sports,J.R. Smith
+apt-0538,jack archer,sports,Jack Archer
+apt-0539,jack brooks,politics,Jack Brooks
+apt-0540,jack christ,education,Jack Christ
+apt-0541,jack glasscock,sports,Jack Glasscock
+apt-0542,jack hathaway,transport,Jack Hathaway
+apt-0543,jackson archer,sports,Jackson Archer
+apt-0544,jackson pollock,arts,Jackson Pollock
+apt-0545,jacqueline waters,weather,Jacqueline Waters
+apt-0546,jacques boucher,medicine,Jacques Boucher
+apt-0547,jagos vukovic,sports,Jagoš Vuković
+apt-0548,jaime sin,religion,Jaime Sin
+apt-0549,jake striker,sports,Jake Striker
+apt-0550,jake tapper,media,Jake Tapper
+apt-0551,jamaal bowman,politics,Jamaal Bowman
+apt-0552,james alger fee,law,James Alger Fee
+apt-0553,james cameron,arts,James Cameron
+apt-0554,james cook,military,James Cook
+apt-0555,james counsell,law,James Counsell
+apt-0556,james dutton,transport,James Dutton
+apt-0557,james earl graves,law,James Earl Graves Jr.
+apt-0558,james earl major,politics,James Earl Major
+apt-0559,james hunter,law,James Hunter III
+apt-0560,james jett,sports,James Jett
+apt-0561,james joule,science,James Joule
+apt-0562,james justice,politics,James Justice
+apt-0563,james locke,law,James Locke
+apt-0564,james mark gill,trades,James Mark Gill
+apt-0565,james marshall shepherd,weather,James Marshall Shepherd
+apt-0566,james maynard,science,James Maynard
+apt-0567,james p rash,medicine,James P. Rash
+apt-0568,james parkinson,medicine,James Parkinson
+apt-0569,james payne,medicine,James Payne
+apt-0570,james skelly wright,law,James Skelly Wright
+apt-0571,james toothaker,medicine,James Toothaker
+apt-0572,james trafford,sports,James Trafford
+apt-0573,james watt,science,James Watt
+apt-0574,jamie maw,food,Jamie Maw
+apt-0575,jan igor rybak,science,Jan Igor Rybak
+apt-0576,jan vennegoor of hesselink,sports,Jan Vennegoor of Hesselink
+apt-0577,jane banks,crime,Jane Banks
+apt-0578,janet bond arterton,law,Janet Bond Arterton
+apt-0579,janine bowman,sports,Janine Bowman
+apt-0580,jared cox,medicine,Jared Cox
+apt-0581,jason graves,trades,Jason Graves
+apt-0582,jason wright,trades,Jason Wright
+apt-0583,javier camara,arts,Javier Cámara
+apt-0584,jay carney,politics,Jay Carney
+apt-0585,jayden hunt,sports,Jayden Hunt
+apt-0586,jeff baker,food,Jeff Baker
+apt-0587,jeff float,sports,Jeff Float
+apt-0588,jeff spear,sports,Jeff Spear
+apt-0589,jeffrey m advokat,law,Jeffrey M. Advokat
+apt-0590,jen hunt,science,Jen Hunt
+apt-0591,jennifer mcclellan,politics,Jennifer McClellan
+apt-0592,jeremy butcher,medicine,Jeremy Butcher
+apt-0593,jeremy hansen,transport,Jeremy Hansen
+apt-0594,jeremy wade,sports,Jeremy Wade
+apt-0595,jerry forest franklin,science,Jerry Forest Franklin
+apt-0596,jerry rush,sports,Jerry Rush
+apt-0597,jim armstrong,sports,Jim Armstrong
+apt-0598,jim bottomley,sports,Jim Bottomley
+apt-0599,jim marshall,politics,Jim Marshall
+apt-0600,jim mcgovern,politics,Jim McGovern
+apt-0601,jim pitcher,sports,Jim Pitcher
+apt-0602,jim playfair,sports,Jim Playfair
+apt-0603,jim starlin,arts,Jim Starlin
+apt-0604,jimmy doolittle,military,Jimmy Doolittle
+apt-0605,jimmy mcgrory,sports,Jimmy McGrory
+apt-0606,joachim low,sports,Joachim Löw
+apt-0607,joanna story,science,Joanna Story
+apt-0608,jocelyn bell burnell,science,Jocelyn Bell Burnell
+apt-0609,jocelyn rose,science,Jocelyn Rose
+apt-0610,jodie crane,science,Jodie Crane
+apt-0611,joe winters,weather,Joe Winters
+apt-0612,joe yawn,medicine,Joe Yawn
+apt-0613,johan wallens,sports,Johan Wallens
+apt-0614,johann gustav fischer,science,Johann Gustav Fischer
+apt-0615,johann strauss,arts,Johann Strauss II
+apt-0616,john armstrong,medicine,John Armstrong
+apt-0617,john bird,sports,John Bird
+apt-0618,john bond,business,John Bond
+apt-0619,john brewer,religion,John Brewer
+apt-0620,john buschman,science,John Buschman
+apt-0621,john c chicken,science,John C. Chicken
+apt-0622,john c furman,business,John C. Furman
+apt-0623,john cage,arts,John Cage
+apt-0624,john carpenter,arts,John Carpenter
+apt-0625,john clark,crime,John Clark
+apt-0626,john constable,arts,John Constable
+apt-0627,john de wolf,sports,John de Wolf
+apt-0628,john e steele,law,John E. Steele
+apt-0629,john fish,science,John Fish
+apt-0630,john h wolfe,medicine,John H. Wolfe
+apt-0631,john hardon,religion,John Hardon
+apt-0632,john henry leech,science,John Henry Leech
+apt-0633,john hunter,medicine,John Hunter
+apt-0634,john j keaney,medicine,John J. Keaney
+apt-0635,john law,law,John Law
+apt-0636,john lawless,law,John Lawless
+apt-0637,john laws,law,John Laws
+apt-0638,john leech,arts,John Leech
+apt-0639,john marshall,law,John Marshall
+apt-0640,john mcclellan,politics,John McClellan
+apt-0641,john minor wisdom,law,John Minor Wisdom
+apt-0642,john nielsen gammon,weather,John Nielsen-Gammon
+apt-0643,john peter daniels,law,John Peter Daniels
+apt-0644,john preston bailey,law,John Preston Bailey
+apt-0645,john sack,sports,John Sack
+apt-0646,john sergeant,politics,John Sergeant
+apt-0647,john stone,science,John Stone
+apt-0648,john taylor doolittle,politics,John Taylor Doolittle
+apt-0649,john utaka,sports,John Utaka
+apt-0650,john williams,arts,John Williams
+apt-0651,john wingfield,science,John Wingfield
+apt-0652,john winter,weather,John Winter
+apt-0653,johnny bench,sports,Johnny Bench
+apt-0654,johnny dickshot,sports,Johnny Dickshot
+apt-0655,johnny hekker,sports,Johnny Hekker
+apt-0656,johnny podres,sports,Johnny Podres
+apt-0657,jon runyan,sports,Jon Runyan
+apt-0658,jonatan leandoer,arts,Jonatan Leandoer
+apt-0659,jonathan jager,sports,Jonathan Jäger
+apt-0660,jose bove,politics,José Bové
+apt-0661,jose gustavo angel ramirez,religion,José Gustavo Angel Ramírez
+apt-0662,joseph a walker,transport,Joseph A. Walker
+apt-0663,joseph bond,business,Joseph Bond
+apt-0664,joseph galvin,medicine,Joseph Galvin
+apt-0665,joseph gurney cannon,politics,Joseph Gurney Cannon
+apt-0666,joseph locke,transport,Joseph Locke
+apt-0667,joseph priestley,science,Joseph Priestley
+apt-0668,joseph swain,trades,Joseph Swain
+apt-0669,josephine bacon,food,Joséphine Bacon
+apt-0670,josh earnest,politics,Josh Earnest
+apt-0671,josh hunt,sports,Josh Hunt
+apt-0672,josh major,military,Josh Major
+apt-0673,joshua bell,arts,Joshua Bell
+apt-0674,joshua butt,food,Joshua Butt
+apt-0675,joshua price,science,Joshua Price
+apt-0676,josiah wedgwood,trades,Josiah Wedgwood
+apt-0677,juan trippe,transport,Juan Trippe
+apt-0678,jules angst,medicine,Jules Angst
+apt-0679,julienne stroeve,science,Julienne Stroeve
+apt-0680,julio barber,trades,Julio Barber
+apt-0681,justin cox,medicine,Justin Cox
+apt-0682,justin m bieber,law,Justin M. Bieber
+apt-0683,justin steele,sports,Justin Steele
+apt-0684,karen riveros,sports,Karen Riveros
+apt-0685,karin slaughter,arts,Karin Slaughter
+apt-0686,karl b major,military,Karl B. Major
+apt-0687,kathleen flood,science,Kathleen Flood
+apt-0688,katie volynets,sports,Katie Volynets
+apt-0689,katja frieler,science,Katja Frieler
+apt-0690,katrina butcher,medicine,Katrina Butcher
+apt-0691,keith foulke,sports,Keith Foulke
+apt-0692,keith miller,sports,Keith Miller
+apt-0693,keith weed,trades,Keith Weed
+apt-0694,kelly armstrong,politics,Kelly Armstrong
+apt-0695,kelly goodburn,sports,Kelly Goodburn
+apt-0696,kelly woods,trades,Kelly Woods
+apt-0697,ken drinkwater,science,Ken Drinkwater
+apt-0698,ken green,sports,Ken Green
+apt-0699,ken weathers,weather,Ken Weathers
+apt-0700,kenneth angell,religion,Kenneth Angell
+apt-0701,kerry goode,sports,Kerry Goode
+apt-0702,kevin admiral,military,Kevin Admiral
+apt-0703,kevin blinder,medicine,Kevin Blinder
+apt-0704,kevin farmer,trades,Kevin Farmer
+apt-0705,kevin hunter sharp,law,Kevin Hunter Sharp
+apt-0706,khemo rivera,sports,Khemo Rivera
+apt-0707,kim batten,sports,Kim Batten
+apt-0708,kim yu seok,sports,Kim Yu-Seok
+apt-0709,king whetstone,trades,King Whetstone
+apt-0710,kirby puckett,sports,Kirby Puckett
+apt-0711,kit bond,politics,Kit Bond
+apt-0712,kiyoshi kurosawa,arts,Kiyoshi Kurosawa
+apt-0713,klaske meester,education,Klaske Meester
+apt-0714,klaus bischoff,sports,Klaus Bischoff
+apt-0715,kobbie mainoo,sports,Kobbie Mainoo
+apt-0716,kristi kinder,medicine,Kristi Kinder
+apt-0717,kyuji fujikawa,sports,Kyuji Fujikawa
+apt-0718,lake speed,transport,Lake Speed
+apt-0719,lance painter,sports,Lance Painter
+apt-0720,lang lang,arts,Lang Lang
+apt-0721,larry foote,sports,Larry Foote
+apt-0722,larry playfair,sports,Larry Playfair
+apt-0723,larry speakes,politics,Larry Speakes
+apt-0724,larry sprinkle,weather,Larry Sprinkle
+apt-0725,laura knott twine,education,Laura Knott-Twine
+apt-0726,lauryn mark,sports,Lauryn Mark
+apt-0727,lavor postell,sports,Lavor Postell
+apt-0728,lawrence bone,medicine,Lawrence Bone
+apt-0729,lawrence casler,science,Lawrence Casler
+apt-0730,layne beachley,sports,Layne Beachley
+apt-0731,learned hand,law,Learned Hand
+apt-0732,lee speakman,law,Lee Speakman
+apt-0733,leon billings,business,Leon Billings
+apt-0734,leon brittan,politics,Leon Brittan
+apt-0735,leon stormy rottman,weather,"Leon ""Stormy"" Rottman"
+apt-0736,leonard lance,politics,Leonard Lance
+apt-0737,leonard waterworth,transport,Leonard Waterworth
+apt-0738,leopold arzt,medicine,Leopold Arzt
+apt-0739,les mcburney,law,Les McBurney
+apt-0740,les plack,medicine,Les Plack
+apt-0741,lesley ann dupigny giroux,weather,Lesley-Ann Dupigny-Giroux
+apt-0742,lewis carroll,arts,Lewis Carroll
+apt-0743,lewis lipsitt,science,Lewis Lipsitt
+apt-0744,lewis moist,sports,Lewis Moist
+apt-0745,liam puncher,sports,Liam Puncher
+apt-0746,lieselot marinus,politics,Lieselot Marinus
+apt-0747,lieutenant mike kafka,military,Lieutenant Mike Kafka
+apt-0748,lindsay sleeper,medicine,Lindsay Sleeper
+apt-0749,lindsey cox,medicine,Lindsey Cox
+apt-0750,liniker,arts,Liniker
+apt-0751,lionel baker,sports,Lionel Baker
+apt-0752,lionel tiger,science,Lionel Tiger
+apt-0753,lis frost,sports,Lis Frost
+apt-0754,lisa lightfoot,sports,Lisa Lightfoot
+apt-0755,lloy ball,sports,Lloy Ball
+apt-0756,lloyd mints,science,Lloyd Mints
+apt-0757,lorentz fisker,science,Lorentz Fisker
+apt-0758,louis agassiz,science,Louis Agassiz
+apt-0759,louis anatole la garde,medicine,Louis Anatole La Garde
+apt-0760,louis armstrong,arts,Louis Armstrong
+apt-0761,louis henry burns,law,Louis Henry Burns
+apt-0762,louis lumiere,arts,Louis Lumière
+apt-0763,louis pasteur,science,Louis Pasteur
+apt-0764,louise slaughter,politics,Louise Slaughter
+apt-0765,luc frieden,politics,Luc Frieden
+apt-0766,luchino visconti,arts,Luchino Visconti
+apt-0767,lucius cornelius sulla felix,politics,Lucius Cornelius Sulla Felix
+apt-0768,lucius quinctius cincinnatus,politics,Lucius Quinctius Cincinnatus
+apt-0769,luis curvelo,sports,Luis Curvelo
+apt-0770,lukas jager,sports,Lukas Jäger
+apt-0771,luke butcher,food,Luke Butcher
+apt-0772,luke howard,weather,Luke Howard
+apt-0773,m moran weston,business,M. Moran Weston
+apt-0774,mackenzie lake,weather,Mackenzie Lake
+apt-0775,major owens,politics,Major Owens
+apt-0776,malcolm bolton,science,Malcolm Bolton
+apt-0777,malcolm champion,sports,Malcolm Champion
+apt-0778,manfred apt,sports,Manfred Apt
+apt-0779,manlio bacigalupo,sports,Manlio Bacigalupo
+apt-0780,marc webb,arts,Marc Webb
+apt-0781,marco spijkerman,trades,Marco Spijkerman
+apt-0782,marcus tullius cicero,politics,Marcus Tullius Cicero
+apt-0783,margaret boyle,medicine,Margaret Boyle
+apt-0784,margaret court,sports,Margaret Court
+apt-0785,margaret hassan,politics,Margaret Hassan
+apt-0786,margaret spellings,politics,Margaret Spellings
+apt-0787,margaret storey,science,Margaret Storey
+apt-0788,margit kovacs,arts,Margit Kovács
+apt-0789,marianne merchez,transport,Marianne Merchez
+apt-0790,marie t harte,medicine,Marie T. Harte
+apt-0791,marilyn vos savant,media,Marilyn vos Savant
+apt-0792,mario lek,trades,Mario Lek
+apt-0793,marius wolf,sports,Marius Wolf
+apt-0794,mark avery,science,Mark Avery
+apt-0795,mark butcher,sports,Mark Butcher
+apt-0796,mark clear,sports,Mark Clear
+apt-0797,mark crossley,sports,Mark Crossley
+apt-0798,mark de man,sports,Mark De Man
+apt-0799,mark hart,medicine,Mark Hart
+apt-0800,mark henry,sports,Mark Henry
+apt-0801,mark kelly,politics,Mark Kelly
+apt-0802,mark l prophet,religion,Mark L. Prophet
+apt-0803,mark nicholas payne,medicine,Mark Nicholas Payne
+apt-0804,mark price,science,Mark Price
+apt-0805,mark reckless,politics,Mark Reckless
+apt-0806,mark twain,arts,Mark Twain
+apt-0807,mark wallington,sports,Mark Wallington
+apt-0808,markus wolf,arts,Markus Wolf
+apt-0809,markus zimmermann,arts,Markus Zimmermann
+apt-0810,martha graham,arts,Martha Graham
+apt-0811,martha hatch,science,Martha Hatch
+apt-0812,martin rush,sports,Martin Rush
+apt-0813,martin schneebeli,science,Martin Schneebeli
+apt-0814,mary brush,arts,Mary Brush
+apt-0815,mary stampone,weather,Mary Stampone
+apt-0816,mary yu,law,Mary Yu
+apt-0817,mat sadler,sports,Mat Sadler
+apt-0818,mathew barlow,science,Mathew Barlow
+apt-0819,matt beekman,trades,Matt Beekman
+apt-0820,matt gobush,politics,Matt Gobush
+apt-0821,matt groening,arts,Matt Groening
+apt-0822,matt taylor,weather,Matt Taylor
+apt-0823,matthew alan beat,arts,Matthew Alan Beat
+apt-0824,matthew winter,weather,Matthew Winter
+apt-0825,max pain griffin,sports,Max Pain Griffin
+apt-0826,max schreck,arts,Max Schreck
+apt-0827,megan fox,trades,Megan Fox
+apt-0828,megan rivers,sports,Megan Rivers
+apt-0829,mel garside wight,sports,Mel Garside-Wight
+apt-0830,melodee armstrong,law,Melodee Armstrong
+apt-0831,mercy otis warren,politics,Mercy Otis Warren
+apt-0832,meriwether lewis,science,Meriwether Lewis
+apt-0833,michael ball,sports,Michael Ball
+apt-0834,michael bang,arts,Michael Bang
+apt-0835,michael cloud,politics,Michael Cloud
+apt-0836,michael faraday,science,Michael Faraday
+apt-0837,michael fish,weather,Michael Fish
+apt-0838,michael grimm,politics,Michael Grimm
+apt-0839,michael hart,medicine,Michael Hart
+apt-0840,michael henry lawson,law,Michael Henry Lawson
+apt-0841,michael koch,medicine,Michael Koch
+apt-0842,michael lean,food,Michael Lean
+apt-0843,michael lord,politics,Michael Lord
+apt-0844,michael pollan,food,Michael Pollan
+apt-0845,michael rock,sports,Michael Rock
+apt-0846,michael t judge,law,Michael T. Judge
+apt-0847,michael vickers,religion,Michael Vickers
+apt-0848,michael wehner,science,Michael Wehner
+apt-0849,michael william fisher,religion,Michael William Fisher
+apt-0850,michelle williams court,law,Michelle Williams Court
+apt-0851,mickey bass,arts,Mickey Bass
+apt-0852,miguel angel alba diaz,religion,Miguel Angel Alba Díaz
+apt-0853,miguel angel nguema bee,religion,Miguel Angel Nguema Bee
+apt-0854,mike england,sports,Mike England
+apt-0855,mike hookem,politics,Mike Hookem
+apt-0856,mike stone,science,Mike Stone
+apt-0857,mikulas jozef lexmann,religion,Mikuláš Jozef Lexmann
+apt-0858,mildred graves,trades,Mildred Graves
+apt-0859,misty copeland,arts,Misty Copeland
+apt-0860,mo brooks,politics,Mo Brooks
+apt-0861,modest mussorgsky,arts,Modest Mussorgsky
+apt-0862,moe gardner,sports,Moe Gardner
+apt-0863,montez sweat,sports,Montez Sweat
+apt-0864,morgan freeman,arts,Morgan Freeman
+apt-0865,morgan frost,sports,Morgan Frost
+apt-0866,moses blah,politics,Moses Blah
+apt-0867,muriel watt,science,Muriel Watt
+apt-0868,najee goode,sports,Najee Goode
+apt-0869,naomi goldstein cohen,religion,Naomi Goldstein Cohen
+apt-0870,nari contractor,sports,Nari Contractor
+apt-0871,nat seavy,science,Nat Seavy
+apt-0872,natalie francesca woods,trades,Natalie-Francesca Woods
+apt-0873,nathan cool,weather,Nathan Cool
+apt-0874,nathan leeper,sports,Nathan Leeper
+apt-0875,nathaniel hawthorne,arts,Nathaniel Hawthorne
+apt-0876,nathaniel sharp,medicine,Nathaniel Sharp
+apt-0877,naveen kumar,sports,Naveen Kumar
+apt-0878,neil gaiman,arts,Neil Gaiman
+apt-0879,neversink,other,Neversink
+apt-0880,nicholas burns cox,medicine,Nicholas Burns-Cox
+apt-0881,nick fenton wells,sports,Nick Fenton-Wells
+apt-0882,nicolae militaru,military,Nicolae Militaru
+apt-0883,nicole sprinkles,weather,Nicole Sprinkles
+apt-0884,nikolai volkov,sports,Nikolai Volkov
+apt-0885,noah webster,arts,Noah Webster
+apt-0886,noboru yamada,sports,Noboru Yamada
+apt-0887,norman conquest,sports,Norman Conquest
+apt-0888,norman eisen,business,Norman Eisen
+apt-0889,ocean ramsey,science,Ocean Ramsey
+apt-0890,oceana mackenzie,sports,Oceana Mackenzie
+apt-0891,officer gunz,law,Officer Gunz
+apt-0892,officer officer,law,Officer Officer
+apt-0893,officer pistohl,law,Officer Pistohl
+apt-0894,officer puestohl,law,Officer Puestohl
+apt-0895,oliver goldsmith,arts,Oliver Goldsmith
+apt-0896,oliver stone,arts,Oliver Stone
+apt-0897,olympia aldersey,sports,Olympia Aldersey
+apt-0898,otto koch,food,Otto Koch
+apt-0899,p head,education,P. Head
+apt-0900,paracelsus,medicine,Paracelsus
+apt-0901,paradise,religion,Rev. Paradise
+apt-0902,pardeep narwal,sports,Pardeep Narwal
+apt-0903,patience scales,arts,Patience Scales
+apt-0904,patience wright,arts,Patience Wright
+apt-0905,patrick burkhart,science,Patrick Burkhart
+apt-0906,patrick h brose,trades,Patrick H. Brose
+apt-0907,paul anderson,sports,Paul Anderson
+apt-0908,paul burns,law,Paul Burns
+apt-0909,paul looney,medicine,Paul Looney
+apt-0910,paul mcstay,sports,Paul McStay
+apt-0911,paul schwinghammer,trades,Paul Schwinghammer
+apt-0912,pekka pouta,weather,Pekka Pouta
+apt-0913,penn jillette,arts,Penn Jillette
+apt-0914,percival pott,medicine,Percival Pott
+apt-0915,peter baker,media,Peter Baker
+apt-0916,peter bowler,sports,Peter Bowler
+apt-0917,peter burns cox,medicine,Peter Burns-Cox
+apt-0918,peter conder,science,Peter Conder
+apt-0919,peter crouch,sports,Peter Crouch
+apt-0920,peter doughty cook,food,Peter Doughty-Cook
+apt-0921,peter king,politics,Peter King
+apt-0922,peter magyar,politics,Péter Magyar
+apt-0923,peter pullum,medicine,Peter Pullum
+apt-0924,peter skidmore,science,Peter Skidmore
+apt-0925,peter taal,media,Peter Taal
+apt-0926,phil roof,sports,Phil Roof
+apt-0927,philander rodman,military,Philander Rodman Jr.
+apt-0928,philip glass,arts,Philip Glass
+apt-0929,philip howard spiceland,weather,Philip Howard Spiceland
+apt-0930,philip sharp,politics,Philip Sharp
+apt-0931,philip syng physick,medicine,Philip Syng Physick
+apt-0932,phyllis green,trades,Phyllis Green
+apt-0933,pierre auguste renoir,arts,Pierre-Auguste Renoir
+apt-0934,pierre boncoeur,medicine,Pierre Boncoeur
+apt-0935,pierre salinger,politics,Pierre Salinger
+apt-0936,piloo reporter,sports,Piloo Reporter
+apt-0937,pim visser,business,Pim Visser
+apt-0938,pinch thomas,sports,Pinch Thomas
+apt-0939,prentice henry marshall,law,Prentice Henry Marshall
+apt-0940,preston brooks,politics,Preston Brooks
+apt-0941,price fishback,science,Price Fishback
+apt-0942,prince fielder,sports,Prince Fielder
+apt-0943,publius cornelius lentulus spinther,politics,Publius Cornelius Lentulus Spinther
+apt-0944,publius cornelius scipio africanus,military,Publius Cornelius Scipio Africanus
+apt-0945,publius valerius publicola,politics,Publius Valerius Publicola
+apt-0946,quentin jammer,sports,Quentin Jammer
+apt-0947,quinten post,sports,Quinten Post
+apt-0948,quintus caecilius metellus pius,military,Quintus Caecilius Metellus Pius
+apt-0949,quintus horatius flaccus,arts,Quintus Horatius Flaccus
+apt-0950,quintus pedius publicola,politics,Quintus Pedius Publicola
+apt-0951,r a sparkes,science,R. A. Sparkes
+apt-0952,r p waters,sports,R. P. Waters
+apt-0953,ralf richter,law,Ralf Richter
+apt-0954,randall toothaker,medicine,Randall Toothaker
+apt-0955,raphael cohen,religion,Raphael Cohen
+apt-0956,raphael wolf,sports,Raphael Wolf
+apt-0957,ravi tailor,trades,Ravi Tailor
+apt-0958,ray baker,sports,Ray Baker
+apt-0958,raymond baker,sports,Raymond Baker
+apt-0959,ray guy,sports,Ray Guy
+apt-0960,ray reardon,sports,Ray Reardon
+apt-0961,raymond ban,weather,Raymond Ban
+apt-0962,raymond measures,science,Raymond Measures
+apt-0963,red barber,sports,Red Barber
+apt-0964,rehman malik,politics,Rehman Malik
+apt-0965,rem koolhaas,arts,Rem Koolhaas
+apt-0966,rembrandt,arts,Rembrandt
+apt-0967,rene magritte,arts,René Magritte
+apt-0968,reverend harry drummond potter,law,Reverend Harry Drummond Potter
+apt-0969,rex armstrong,law,Rex Armstrong
+apt-0970,rex hunt,sports,Rex Hunt
+apt-0971,rich batchelor,sports,Rich Batchelor
+apt-0972,rich fairbank,business,Rich Fairbank
+apt-0973,rich ricci,business,Rich Ricci
+apt-0974,richard betts,science,Richard Betts
+apt-0975,richard bright,medicine,Richard Bright
+apt-0976,richard carver,medicine,Richard Carver
+apt-0977,richard chopp,medicine,Richard Chopp
+apt-0978,richard green,sports,Richard Green
+apt-0979,richard grip,business,Richard Grip
+apt-0980,richard hart,medicine,Richard Hart
+apt-0981,richard kingson,sports,Richard Kingson
+apt-0982,richard law,law,Richard Law
+apt-0983,richard lazarus,science,Richard Lazarus
+apt-0984,richard limb,medicine,Richard Limb
+apt-0985,richard strauss,arts,Richard Strauss
+apt-0986,richard thomas chopp,medicine,Richard Thomas Chopp
+apt-0987,richard trench,science,Richard Trench
+apt-0988,rick scott,politics,Rick Scott
+apt-0989,ringo starr,arts,Ringo Starr
+apt-0990,river phoenix,arts,River Phoenix
+apt-0991,rob banks,law,Rob Banks
+apt-0992,rob goode,sports,Rob Goode
+apt-0993,rob sunny roseman,weather,"Rob ""Sunny"" Roseman"
+apt-0994,robert alexander courts,law,Robert Alexander Courts
+apt-0995,robert boyle,science,Robert Boyle
+apt-0996,robert burns,arts,Robert Burns
+apt-0997,robert burns woodward,science,Robert Burns Woodward
+apt-0998,robert capa,arts,Robert Capa
+apt-0999,robert cashdollar,business,Robert Cashdollar
+apt-1000,robert crumb,arts,Robert Crumb
+apt-1001,robert field,science,Robert Field
+apt-1002,robert forrest,science,Robert Forrest
+apt-1003,robert frost,arts,Robert Frost
+apt-1004,robert hooke,science,Robert Hooke
+apt-1005,robert joseph baker,religion,Robert Joseph Baker
+apt-1006,robert joseph fisher,religion,Robert Joseph Fisher
+apt-1007,robert l gibson,transport,Robert L. Gibson
+apt-1008,robert l swann,science,Robert L. Swann
+apt-1009,robert odell owens,politics,Robert Odell Owens
+apt-1010,robert payne,medicine,Robert Payne
+apt-1011,robert peary,science,Robert Peary
+apt-1012,robert rathbun,sports,Robert Rathbun
+apt-1013,robert skinner,medicine,Robert Skinner
+apt-1014,robert steele,politics,Robert Steele
+apt-1015,roberta l nutt,education,Roberta L. Nutt
+apt-1016,robin fox,science,Robin Fox
+apt-1017,robin frost,science,Robin Frost
+apt-1018,robin mahfood,business,Robin Mahfood
+apt-1019,rod muddle,transport,Rod Muddle
+apt-1020,roger kneebone,medicine,Roger Kneebone
+apt-1021,roger light,arts,Roger Light
+apt-1022,roger marshall,politics,Roger Marshall
+apt-1023,roger printup,education,Roger Printup
+apt-1024,rollie fingers,sports,Rollie Fingers
+apt-1025,ronald lee watt,trades,Ronald Lee Watt
+apt-1026,rookie davis,sports,Rookie Davis
+apt-1027,rory best,sports,Rory Best
+apt-1028,rosalind brewer,business,Rosalind Brewer
+apt-1029,rowland wolfe,sports,Rowland Wolfe
+apt-1030,roy blunt,politics,Roy Blunt
+apt-1031,roy romer,education,Roy Romer
+apt-1032,rudolf von richter,law,Rudolf von Richter
+apt-1033,russell brain,medicine,Russell Brain
+apt-1034,russell hiatt,trades,Russell Hiatt
+apt-1035,russell mark,sports,Russell Mark
+apt-1036,ruth apt,sports,Ruth Apt
+apt-1037,ryan winterton,sports,Ryan Winterton
+apt-1038,sales shooters hill auctioneer,business,Sales (Shooters Hill auctioneer)
+apt-1039,sally ride,transport,Sally Ride
+apt-1040,salmon portland chase,law,Salmon Portland Chase
+apt-1041,salva sevilla,sports,Salva Sevilla
+apt-1042,salvador dali,arts,Salvador Dalí
+apt-1043,sam byrd,sports,Sam Byrd
+apt-1044,sam hunt,sports,Sam Hunt
+apt-1045,samantha power,politics,Samantha Power
+apt-1046,samuel augustus foot,politics,Samuel Augustus Foot
+apt-1047,samuel champion,weather,Samuel Champion
+apt-1048,samuel chase,law,Samuel Chase
+apt-1049,samuel collier major,politics,Samuel Collier Major
+apt-1050,samuel foote,arts,Samuel Foote
+apt-1051,sandy archer,sports,Sandy Archer
+apt-1052,sara blizzard,weather,Sara Blizzard
+apt-1053,sarah al mazrouei,transport,Sarah Al Mazrouei
+apt-1054,sarah counsell,law,Sarah Counsell
+apt-1055,sarah frampton,business,Sarah Frampton
+apt-1056,sarah hall,science,Sarah Hall
+apt-1057,sarah payne,medicine,Sarah Payne
+apt-1058,sarah slater,crime,Sarah Slater
+apt-1059,sarah vowell,arts,Sarah Vowell
+apt-1060,satchel paige,sports,Satchel Paige
+apt-1061,saul perlmutter,science,Saul Perlmutter
+apt-1062,scott diamond,sports,Scott Diamond
+apt-1063,scott goodyear,sports,Scott Goodyear
+apt-1064,scott h stoleson,trades,Scott H. Stoleson
+apt-1065,scott hatch,science,Scott Hatch
+apt-1066,scott mcclellan,politics,Scott McClellan
+apt-1067,scott perry,politics,Scott Perry
+apt-1068,scott speed,sports,Scott Speed
+apt-1069,sean baker,food,Sean Baker
+apt-1070,sean cash,science,Sean Cash
+apt-1071,sebastian wolf,sports,Sebastian Wolf
+apt-1072,selwyn image,arts,Selwyn Image
+apt-1073,seulgi moon,science,Seulgi Moon
+apt-1074,seuss,arts,Dr. Seuss
+apt-1075,sextus aelius paetus catus,politics,Sextus Aelius Paetus Catus
+apt-1076,seymour nurse,sports,Seymour Nurse
+apt-1077,shabbatai hakohen,religion,Shabbatai HaKohen
+apt-1078,shane lechler,sports,Shane Lechler
+apt-1079,shannon walker,transport,Shannon Walker
+apt-1080,shari skinner,medicine,Shari Skinner
+apt-1081,she ar yashuv cohen,religion,She'ar Yashuv Cohen
+apt-1082,sheila boyle,medicine,Sheila Boyle
+apt-1083,shelby goldgrab,business,Shelby Goldgrab
+apt-1084,shepard smith,media,Shepard Smith
+apt-1085,sherman glenn finesilver,law,Sherman Glenn Finesilver
+apt-1086,sidney ray,science,Sidney Ray
+apt-1087,sigmund freud,medicine,Sigmund Freud
+apt-1088,silas masih,food,Silas Masih
+apt-1089,simon archer,sports,Simon Archer
+apt-1090,simon grove,science,Simon Grove
+apt-1091,simon head,education,Simon Head
+apt-1092,sina movahed,sports,Sina Movahed
+apt-1093,skip waters,weather,Skip Waters
+apt-1094,snowden d flora,weather,Snowden D. Flora
+apt-1095,sonia seneviratne,science,Sonia Seneviratne
+apt-1096,sonya lucatero,trades,Sonya Lucatero
+apt-1097,sparky lyle,sports,Sparky Lyle
+apt-1098,spottswood poles,sports,Spottswood Poles
+apt-1099,st john fisher,religion,St. John Fisher
+apt-1100,stacy l clark,trades,Stacy L. Clark
+apt-1101,stan lee,arts,Stan Lee
+apt-1102,stella law,science,Stella Law
+apt-1103,stephanie nicola barwise,law,Stephanie Nicola Barwise
+apt-1104,stephen buyer,politics,Stephen Buyer
+apt-1105,stephen j pope,religion,Stephen J. Pope
+apt-1106,stephen king,arts,Stephen King
+apt-1107,stephen knight,politics,Stephen Knight
+apt-1108,stephen sparks,science,Stephen Sparks
+apt-1109,steve king,politics,Steve King
+apt-1110,steve pool,weather,Steve Pool
+apt-1111,steve slater,sports,Steve Slater
+apt-1112,steve wohlenhaus,weather,Steve Wohlenhaus
+apt-1113,steven bookman,science,Steven Bookman
+apt-1114,stevie wonder,arts,Stevie Wonder
+apt-1115,sting,arts,Sting
+apt-1116,sting ray robb,transport,Sting Ray Robb
+apt-1117,stone phillips,media,Stone Phillips
+apt-1118,storm dunlop,weather,Storm Dunlop
+apt-1119,storm field,weather,Storm Field
+apt-1120,storm huntley,weather,Storm Huntley
+apt-1121,stromile swift,sports,Stromile Swift
+apt-1122,suani save,sports,Suani Save
+apt-1123,subrahmanyan chandrasekhar,science,Subrahmanyan Chandrasekhar
+apt-1124,sue yoo,law,Sue Yoo
+apt-1125,summer trolli,weather,Summer Trolli
+apt-1126,sumner starrfield,science,Sumner Starrfield
+apt-1127,sunny hostin,media,Sunny Hostin
+apt-1128,sunshine brosi,science,Sunshine Brosi
+apt-1129,surekha yadav,transport,Surekha Yadav
+apt-1130,susan l stout,trades,Susan L. Stout
+apt-1131,susan powell,weather,Susan Powell
+apt-1132,sven sundgaard,weather,Sven Sundgaard
+apt-1133,tasha snow,science,Tasha Snow
+apt-1134,taylor hunt,sports,Taylor Hunt
+apt-1135,taylor swift,arts,Taylor Swift
+apt-1136,ten million,sports,Ten Million
+apt-1137,terrell suggs,sports,Terrell Suggs
+apt-1138,terri gale,weather,Terri Gale
+apt-1139,terry godlove,education,Terry Godlove
+apt-1140,thelred the unready,politics,Æthelred the Unready
+apt-1141,thierry le luron,arts,Thierry Le Luron
+apt-1142,thomas banks,crime,Thomas Banks
+apt-1143,thomas bowler,sports,Thomas Bowler
+apt-1144,thomas crapper,trades,Thomas Crapper
+apt-1145,thomas edward kill,medicine,Thomas Edward Kill
+apt-1146,thomas grace,religion,Thomas Grace
+apt-1147,thomas graves,trades,Thomas Graves Jr.
+apt-1148,thomas hacker,science,Thomas Hacker
+apt-1149,thomas hodgkin,medicine,Thomas Hodgkin
+apt-1150,thomas hunt morgan,science,Thomas Hunt Morgan
+apt-1151,thomas huxley,science,Thomas Huxley
+apt-1152,thomas langdon grace,religion,Thomas Langdon Grace
+apt-1153,thomas love peacock,arts,Thomas Love Peacock
+apt-1154,thomas neill cream,medicine,Thomas Neill Cream
+apt-1155,thomas porter,religion,Thomas Porter
+apt-1156,thomas rush,sports,Thomas Rush
+apt-1157,thurgood marshall,law,Thurgood Marshall
+apt-1158,tiger jack payne,sports,Tiger Jack Payne
+apt-1159,tiger woods,sports,Tiger Woods
+apt-1160,tim cahill,sports,Tim Cahill
+apt-1161,tim field,science,Tim Field
+apt-1162,tim scott,politics,Tim Scott
+apt-1163,tim timmer,trades,Tim Timmer
+apt-1164,tobias jager,sports,Tobias Jäger
+apt-1165,toby savin,sports,Toby Savin
+apt-1166,todd apted,sports,Todd Apted
+apt-1167,todd hunter,politics,Todd Hunter
+apt-1168,todd sleeper,medicine,Todd Sleeper
+apt-1169,tom cook,food,Tom Cook
+apt-1170,tom finch,science,Tom Finch
+apt-1171,tom lehrer,education,Tom Lehrer
+apt-1172,tom loveless,education,Tom Loveless
+apt-1173,tom screech,science,Tom Screech
+apt-1174,tom terry,weather,Tom Terry
+apt-1175,tom youngs,sports,Tom Youngs
+apt-1176,tomasz schafernaker,weather,Tomasz Schafernaker
+apt-1177,tony snow,politics,Tony Snow
+apt-1178,topper shutt,weather,Topper Shutt
+apt-1179,tormod frostad,sports,Tormod Frostad
+apt-1180,toru takemitsu,arts,Tōru Takemitsu
+apt-1181,trent franks,politics,Trent Franks
+apt-1182,trina brake,trades,Trina Brake
+apt-1183,troy puckett,sports,Troy Puckett
+apt-1184,twining lynes,arts,Twining Lynes
+apt-1185,ty long,sports,Ty Long
+apt-1186,ulysses s grant,military,Ulysses S. Grant
+apt-1187,unai aguirre,sports,Unai Aguirre
+apt-1188,urban shocker,sports,Urban Shocker
+apt-1189,usain bolt,sports,Usain Bolt
+apt-1190,val castor,weather,Val Castor
+apt-1191,valerio bacigalupo,sports,Valerio Bacigalupo
+apt-1192,vernon byrd,science,Vernon Byrd
+apt-1193,victor martinez,trades,Victor Martinez
+apt-1194,victoria fairweather,science,Victoria Fairweather
+apt-1195,vijay merchant,sports,Vijay Merchant
+apt-1196,virginia woolf,arts,Virginia Woolf
+apt-1197,vitus bering,science,Vitus Bering
+apt-1198,vivien goldman,media,Vivien Goldman
+apt-1199,waha thuweeka,science,Waha Thuweeka
+apt-1200,walker snowden,weather,Walker Snowden
+apt-1201,waller thomas burns,law,Waller Thomas Burns
+apt-1202,wally funk,transport,Wally Funk
+apt-1203,walter bathe,sports,Walter Bathe
+apt-1204,warren breeding,science,Warren Breeding
+apt-1205,warren burns,trades,Warren Burns
+apt-1206,warren davidson,politics,Warren Davidson
+apt-1207,warren magnuson,politics,Warren Magnuson
+apt-1208,warren rudman,politics,Warren Rudman
+apt-1209,washington irving,arts,Washington Irving
+apt-1210,wayne gall,science,Wayne Gall
+apt-1211,wayne schmuck,business,Wayne Schmuck
+apt-1212,werner herzog,arts,Werner Herzog
+apt-1213,werner richter,law,Werner Richter
+apt-1214,wes souster,trades,Wes Souster
+apt-1215,wesley rush,sports,Wesley Rush
+apt-1216,will power,transport,Will Power
+apt-1217,will spear,sports,Will Spear
+apt-1218,william baker,crime,William Baker
+apt-1219,william beaumont,medicine,William Beaumont
+apt-1220,william blackstone,law,William Blackstone
+apt-1221,william blake,arts,William Blake
+apt-1222,william cash,politics,William Cash
+apt-1223,william clark,science,William Clark
+apt-1224,william cowper,medicine,William Cowper
+apt-1225,william dean,crime,William Dean
+apt-1226,william dement,medicine,William Dement
+apt-1227,william flood,weather,William Flood
+apt-1228,william frost,science,William Frost
+apt-1229,william gilbert,science,William Gilbert
+apt-1230,william h steele,law,William H. Steele
+apt-1231,william harvey,medicine,William Harvey
+apt-1232,william headline,media,William Headline
+apt-1233,william hogarth,arts,William Hogarth
+apt-1234,william hunter,medicine,William Hunter
+apt-1235,william lawson,law,William Lawson
+apt-1236,william lockhart garwood,law,William Lockhart Garwood
+apt-1237,william lovell finley,science,William Lovell Finley
+apt-1238,william makepeace thackeray,arts,William Makepeace Thackeray
+apt-1239,william moody,trades,William Moody
+apt-1240,william painter,science,William Painter
+apt-1241,william s strong,law,William S. Strong
+apt-1242,william schwind,weather,William Schwind
+apt-1243,william shakespeare,arts,William Shakespeare
+apt-1244,william strong,law,William Strong
+apt-1245,william thomson,science,William Thomson
+apt-1246,william wayne justice,law,William Wayne Justice
+apt-1247,william wilkinson,crime,William Wilkinson
+apt-1248,william wordsworth,arts,William Wordsworth
+apt-1249,willie steele,sports,Willie Steele
+apt-1250,willie thrower,sports,Willie Thrower
+apt-1251,willy bach,law,Willy Bach
+apt-1252,witmer stone,science,Witmer Stone
+apt-1253,wolf blitzer,media,Wolf Blitzer
+apt-1254,wolfgang amadeus mozart,arts,Wolfgang Amadeus Mozart
+apt-1255,wolfgang wolf,sports,Wolfgang Wolf
+apt-1256,woody allen,arts,Woody Allen
+apt-1257,world b free,sports,World B. Free
+apt-1258,yisrael meir kagan,religion,Yisrael Meir Kagan
+apt-1259,yolande laloi,law,Yolande Laloi
+apt-1260,yong jae moon,science,Yong-Jae Moon
+apt-1261,yvonne katherine koch,medicine,Yvonne Katherine Koch
+apt-1262,zebulon pike,military,Zebulon Pike
+apt-1263,zhu ting,sports,Zhu Ting
+apt-1264,zita galvin,medicine,Zita Galvin
+apt-1265,zoltan ovary,medicine,Zoltan Ovary
+apt-1266,alf hitchcock,law,Alf Hitchcock
+apt-1267,andrew pothecary,medicine,Andrew Pothecary
+apt-1268,barbara trimmer,trades,Barbara Trimmer
+apt-1269,brian runge,sports,Brian Runge
+apt-1270,bruno bozzetto,arts,Bruno Bozzetto
+apt-1271,carlo buontempo,weather,Carlo Buontempo
+apt-1272,carlos pace,sports,Carlos Pace
+apt-1273,chris roach,trades,Chris Roach
+apt-1274,chuck long,sports,Chuck Long
+apt-1275,constantinos daskalakis,education,Constantinos Daskalakis
+apt-1276,cramer j stiff,trades,Cramer J. Stiff
+apt-1277,daniel harp,education,Daniel Harp
+apt-1278,dickie bird,sports,Dickie Bird
+apt-1279,eric gagne,sports,Éric Gagné
+apt-1280,fikri sonmez,politics,Fikri Sönmez
+apt-1281,george block,sports,George Block
+apt-1282,goro ishiyama,sports,Gorō Ishiyama
+apt-1283,haji shaukat ali lohar,politics,Haji Shaukat Ali Lohar
+apt-1284,hank soar,sports,Hank Soar
+apt-1285,henry levy,politics,Henry Levy
+apt-1286,jad oestrike,sports,Jad Oestrike
+apt-1287,james lawless,law,James Lawless
+apt-1288,james smith,trades,James Smith
+apt-1289,joel parrott,other,Joel Parrott
+apt-1290,john carpenter,religion,John Carpenter
+apt-1291,john owen jones,media,John Owen Jones
+apt-1292,john strike,sports,John Strike
+apt-1293,josey baker,food,Josey Baker
+apt-1294,ken rush,sports,Ken Rush
+apt-1295,lazarus zographos,religion,Lazarus Zographos
+apt-1296,lee ballanfant,sports,Lee Ballanfant
+apt-1297,marco velo,sports,Marco Velo
+apt-1298,margaret chance,business,Margaret Chance
+apt-1299,mark gunzinger,military,Mark Gunzinger
+apt-1300,mauro del giudice,law,Mauro Del Giudice
+apt-1301,meghan rae stork,medicine,Meghan Rae Stork
+apt-1302,melodie reader,education,Melodie Reader
+apt-1303,micheal o cleirigh,education,Mícheál Ó Cléirigh
+apt-1304,mike callahan,sports,Mike Callahan
+apt-1305,mollee swift,sports,Mollee Swift
+apt-1306,panagiotis zographos,arts,Panagiotis Zographos
+apt-1307,paul fair,sports,Paul Fair
+apt-1308,paulinho boca de cantor,arts,Paulinho Boca de Cantor
+apt-1309,peter short,sports,Peter Short
+apt-1310,plate,sports,Plate
+apt-1311,ren newcomer,trades,Ren Newcomer
+apt-1312,rosalind canter,sports,Rosalind Canter
+apt-1313,shane hurley,sports,Shane Hurley
+apt-1314,simon gagne,sports,Simon Gagné
+apt-1315,stefano disegni,arts,Stefano Disegni
+apt-1316,steve slowly,sports,Steve Slowly
+apt-1317,susan spicer,food,Susan Spicer
+apt-1318,tennys sandgren,sports,Tennys Sandgren
+apt-1319,tom spicer,food,Tom Spicer
+apt-1320,tuomari nurmio,arts,Tuomari Nurmio
+apt-1321,wallace morrison graves,crime,Wallace Morrison Graves Jr.
+apt-1322,wolfgang stark,sports,Wolfgang Stark
+apt-1323,yamamotoyama ryuta,sports,Yamamotoyama Ryūta
+apt-1324,ze cantor,arts,Zé Cantor
+apt-1325,zydrunas ilgauskas,sports,Žydrūnas Ilgauskas
+apt-1326,grant balfour,sports,Grant Balfour
+apt-1327,james outman,sports,James Outman
+apt-1328,josh outman,sports,Josh Outman
+apt-1329,tarik skubal,sports,Tarik Skubal

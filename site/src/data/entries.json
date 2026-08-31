@@ -654,7 +654,7 @@
   "field": "sports",
   "country": "India",
   "organization": "India",
-  "life": "1914–1998",
+  "life": "1938–2023",
   "connection": "His surname is Reporter and he stood as a Test match umpire.",
   "origin": "",
   "context": "Umpired 14 Tests and 10 ODIs.",
@@ -1771,7 +1771,7 @@
   "related": [
    "cramer-j-stiff",
    "mildred-graves",
-   "julio-barber"
+   "geoff-souster"
   ],
   "no": 74
  },
@@ -1842,8 +1842,8 @@
   "translation": false,
   "related": [
    "mildred-graves",
-   "julio-barber",
-   "geoff-souster"
+   "geoff-souster",
+   "paul-schwinghammer"
   ],
   "no": 77
  },
@@ -1889,9 +1889,9 @@
   "ironic": false,
   "translation": false,
   "related": [
-   "julio-barber",
    "geoff-souster",
-   "paul-schwinghammer"
+   "paul-schwinghammer",
+   "forest-townsley"
   ],
   "no": 79
  },
@@ -1974,7 +1974,7 @@
   "field": "weather",
   "country": "Germany",
   "organization": "ZDF Germany",
-  "life": "",
+  "life": "1961–2015",
   "connection": "His surname compounds Wetter (weather) and Vogel (bird), literally weather bird.",
   "origin": "German",
   "context": "",
@@ -2064,30 +2064,6 @@
   "no": 86
  },
  {
-  "slug": "julio-barber",
-  "name": "Julio Barber",
-  "occupation": "barber",
-  "field": "trades",
-  "country": "United States",
-  "organization": "House Barbershop",
-  "life": "",
-  "connection": "His surname is the trade he practises at House Barbershop in Rockaway New Jersey.",
-  "origin": "",
-  "context": "Owner of House Barbershop.",
-  "source": "https://juliobarber.com/",
-  "sourceLabel": "juliobarber.com",
-  "nameSource": "",
-  "tags": "",
-  "ironic": false,
-  "translation": false,
-  "related": [
-   "geoff-souster",
-   "paul-schwinghammer",
-   "forest-townsley"
-  ],
-  "no": 87
- },
- {
   "slug": "simon-head",
   "name": "Simon Head",
   "occupation": "headmaster",
@@ -2109,7 +2085,7 @@
    "daniel-harp",
    "klaske-meester"
   ],
-  "no": 88
+  "no": 87
  },
  {
   "slug": "geoff-souster",
@@ -2133,7 +2109,7 @@
    "forest-townsley",
    "kevin-farmer"
   ],
-  "no": 89
+  "no": 88
  },
  {
   "slug": "malcolm-champion",
@@ -2157,7 +2133,7 @@
    "chris-moneymaker",
    "olympia-aldersey"
   ],
-  "no": 90
+  "no": 89
  },
  {
   "slug": "mickey-bass",
@@ -2181,7 +2157,7 @@
    "panagiotis-zographos",
    "colin-bass"
   ],
-  "no": 91
+  "no": 90
  },
  {
   "slug": "walter-bathe",
@@ -2205,7 +2181,7 @@
    "olympia-aldersey",
    "rosalind-canter"
   ],
-  "no": 92
+  "no": 91
  },
  {
   "slug": "george-cecil-mort",
@@ -2229,7 +2205,7 @@
    "charles-ewan-law",
    "les-mcburney"
   ],
-  "no": 93
+  "no": 92
  },
  {
   "slug": "josey-baker",
@@ -2253,7 +2229,7 @@
    "greg-brewer",
    "luke-butcher"
   ],
-  "no": 94
+  "no": 93
  },
  {
   "slug": "josh-major",
@@ -2277,7 +2253,7 @@
    "nicolae-militaru",
    "albert-sidney-major-jr"
   ],
-  "no": 95
+  "no": 94
  },
  {
   "slug": "larry-sprinkle",
@@ -2301,7 +2277,7 @@
    "casey-cloud",
    "william-flood"
   ],
-  "no": 96
+  "no": 95
  },
  {
   "slug": "mike-stone",
@@ -2325,7 +2301,7 @@
    "george-bird-grinnell",
    "carolyn-screech"
   ],
-  "no": 97
+  "no": 96
  },
  {
   "slug": "paul-schwinghammer",
@@ -2349,7 +2325,7 @@
    "kevin-farmer",
    "wes-souster"
   ],
-  "no": 98
+  "no": 97
  },
  {
   "slug": "stephen-sparks",
@@ -2373,7 +2349,7 @@
    "carolyn-screech",
    "tom-finch"
   ],
-  "no": 99
+  "no": 98
  },
  {
   "slug": "werner-richter",
@@ -2397,7 +2373,7 @@
    "les-mcburney",
    "eleanor-laws-kc"
   ],
-  "no": 100
+  "no": 99
  },
  {
   "slug": "charles-ewan-law",
@@ -2421,7 +2397,7 @@
    "eleanor-laws-kc",
    "hazel-counsell"
   ],
-  "no": 101
+  "no": 100
  },
  {
   "slug": "chris-moneymaker",
@@ -2445,7 +2421,7 @@
    "rosalind-canter",
    "mike-callahan"
   ],
-  "no": 102
+  "no": 101
  },
  {
   "slug": "george-bird-grinnell",
@@ -2469,7 +2445,7 @@
    "tom-finch",
    "william-painter"
   ],
-  "no": 103
+  "no": 102
  },
  {
   "slug": "henry-levy",
@@ -2493,7 +2469,7 @@
    "eugene-terre-blanche",
    "mark-reckless"
   ],
-  "no": 104
+  "no": 103
  },
  {
   "slug": "olympia-aldersey",
@@ -2517,7 +2493,7 @@
    "mike-callahan",
    "paul-fair"
   ],
-  "no": 105
+  "no": 104
  },
  {
   "slug": "sean-baker",
@@ -2541,7 +2517,7 @@
    "luke-butcher",
    "susan-spicer"
   ],
-  "no": 106
+  "no": 105
  },
  {
   "slug": "carolyn-screech",
@@ -2565,7 +2541,7 @@
    "william-painter",
    "byron-stone"
   ],
-  "no": 107
+  "no": 106
  },
  {
   "slug": "forest-townsley",
@@ -2589,7 +2565,7 @@
    "wes-souster",
    "william-moody"
   ],
-  "no": 108
+  "no": 107
  },
  {
   "slug": "james-parkinson",
@@ -2613,7 +2589,7 @@
    "leopold-arzt",
    "florence-nightingale"
   ],
-  "no": 109
+  "no": 108
  },
  {
   "slug": "kevin-farmer",
@@ -2637,7 +2613,7 @@
    "william-moody",
    "gordon-ramsay"
   ],
-  "no": 110
+  "no": 109
  },
  {
   "slug": "lazarus-zographos",
@@ -2661,7 +2637,7 @@
    "mark-l-prophet",
    "creflo-dollar"
   ],
-  "no": 111
+  "no": 110
  },
  {
   "slug": "les-mcburney",
@@ -2685,7 +2661,7 @@
    "hazel-counsell",
    "john-law"
   ],
-  "no": 112
+  "no": 111
  },
  {
   "slug": "dallas-raines",
@@ -2709,7 +2685,7 @@
    "william-flood",
    "pekka-pouta"
   ],
-  "no": 113
+  "no": 112
  },
  {
   "slug": "lake-speed",
@@ -2733,7 +2709,7 @@
    "leonard-waterworth",
    "sting-ray-robb"
   ],
-  "no": 114
+  "no": 113
  },
  {
   "slug": "meghan-rae-stork",
@@ -2757,7 +2733,7 @@
    "florence-nightingale",
    "alexander-burns-wallace"
   ],
-  "no": 115
+  "no": 114
  },
  {
   "slug": "eleanor-laws-kc",
@@ -2781,7 +2757,7 @@
    "john-law",
    "richard-law"
   ],
-  "no": 116
+  "no": 115
  },
  {
   "slug": "hazel-counsell",
@@ -2805,7 +2781,7 @@
    "richard-law",
    "robert-alexander-courts"
   ],
-  "no": 117
+  "no": 116
  },
  {
   "slug": "melodie-reader",
@@ -2829,7 +2805,7 @@
    "klaske-meester",
    "charol-shakeshaft"
   ],
-  "no": 118
+  "no": 117
  },
  {
   "slug": "peter-taal",
@@ -2853,7 +2829,7 @@
    "sunny-hostin",
    "wolf-blitzer"
   ],
-  "no": 119
+  "no": 118
  },
  {
   "slug": "rosalind-canter",
@@ -2877,7 +2853,7 @@
    "paul-fair",
    "john-strike"
   ],
-  "no": 120
+  "no": 119
  },
  {
   "slug": "tom-finch",
@@ -2901,7 +2877,7 @@
    "byron-stone",
    "claire-loiseau"
   ],
-  "no": 121
+  "no": 120
  },
  {
   "slug": "william-painter",
@@ -2925,7 +2901,7 @@
    "claire-loiseau",
    "gordon-cheeseman"
   ],
-  "no": 122
+  "no": 121
  },
  {
   "slug": "byron-stone",
@@ -2949,7 +2925,7 @@
    "gordon-cheeseman",
    "ion-ion"
   ],
-  "no": 123
+  "no": 122
  },
  {
   "slug": "casey-cloud",
@@ -2973,7 +2949,7 @@
    "pekka-pouta",
    "summer-trolli"
   ],
-  "no": 124
+  "no": 123
  },
  {
   "slug": "john-constable",
@@ -2997,7 +2973,7 @@
    "colin-bass",
    "frank-beard"
   ],
-  "no": 125
+  "no": 124
  },
  {
   "slug": "claire-loiseau",
@@ -3021,7 +2997,7 @@
    "ion-ion",
    "raymond-measures"
   ],
-  "no": 126
+  "no": 125
  },
  {
   "slug": "gordon-cheeseman",
@@ -3045,7 +3021,7 @@
    "raymond-measures",
    "witmer-stone"
   ],
-  "no": 127
+  "no": 126
  },
  {
   "slug": "greg-brewer",
@@ -3069,7 +3045,7 @@
    "susan-spicer",
    "tom-spicer"
   ],
-  "no": 128
+  "no": 127
  },
  {
   "slug": "leopold-arzt",
@@ -3093,7 +3069,7 @@
    "alexander-burns-wallace",
    "andrew-pothecary"
   ],
-  "no": 129
+  "no": 128
  },
  {
   "slug": "ion-ion",
@@ -3117,7 +3093,7 @@
    "witmer-stone",
    "jerry-forest-franklin"
   ],
-  "no": 130
+  "no": 129
  },
  {
   "slug": "mike-callahan",
@@ -3141,7 +3117,7 @@
    "john-strike",
    "fielder-jones"
   ],
-  "no": 131
+  "no": 130
  },
  {
   "slug": "florence-nightingale",
@@ -3165,7 +3141,7 @@
    "andrew-pothecary",
    "donald-r-wesson"
   ],
-  "no": 132
+  "no": 131
  },
  {
   "slug": "paul-fair",
@@ -3189,7 +3165,7 @@
    "fielder-jones",
    "noboru-yamada"
   ],
-  "no": 133
+  "no": 132
  },
  {
   "slug": "raymond-measures",
@@ -3213,7 +3189,7 @@
    "jerry-forest-franklin",
    "john-fish"
   ],
-  "no": 134
+  "no": 133
  },
  {
   "slug": "wes-souster",
@@ -3237,7 +3213,7 @@
    "gordon-ramsay",
    "ravi-tailor"
   ],
-  "no": 135
+  "no": 134
  },
  {
   "slug": "william-flood",
@@ -3261,7 +3237,7 @@
    "summer-trolli",
    "jacqueline-waters"
   ],
-  "no": 136
+  "no": 135
  },
  {
   "slug": "william-moody",
@@ -3285,7 +3261,7 @@
    "ravi-tailor",
    "barbara-trimmer"
   ],
-  "no": 137
+  "no": 136
  },
  {
   "slug": "witmer-stone",
@@ -3309,7 +3285,7 @@
    "john-fish",
    "ken-drinkwater"
   ],
-  "no": 138
+  "no": 137
  },
  {
   "slug": "alexander-burns-wallace",
@@ -3333,7 +3309,7 @@
    "donald-r-wesson",
    "john-hunter"
   ],
-  "no": 139
+  "no": 138
  },
  {
   "slug": "jerry-forest-franklin",
@@ -3357,7 +3333,7 @@
    "ken-drinkwater",
    "simon-grove"
   ],
-  "no": 140
+  "no": 139
  },
  {
   "slug": "john-fish",
@@ -3381,7 +3357,7 @@
    "simon-grove",
    "brian-atwater"
   ],
-  "no": 141
+  "no": 140
  },
  {
   "slug": "ken-drinkwater",
@@ -3405,7 +3381,7 @@
    "brian-atwater",
    "john-stone"
   ],
-  "no": 142
+  "no": 141
  },
  {
   "slug": "andrew-pothecary",
@@ -3429,7 +3405,7 @@
    "john-hunter",
    "philip-syng-physick"
   ],
-  "no": 143
+  "no": 142
  },
  {
   "slug": "john-hardon",
@@ -3453,7 +3429,7 @@
    "creflo-dollar",
    "she-ar-yashuv-cohen"
   ],
-  "no": 144
+  "no": 143
  },
  {
   "slug": "john-law",
@@ -3477,7 +3453,7 @@
    "robert-alexander-courts",
    "hubert-legal"
   ],
-  "no": 145
+  "no": 144
  },
  {
   "slug": "john-strike",
@@ -3501,7 +3477,7 @@
    "noboru-yamada",
    "tiger-woods"
   ],
-  "no": 146
+  "no": 145
  },
  {
   "slug": "richard-law",
@@ -3525,7 +3501,7 @@
    "hubert-legal",
    "sarah-counsell"
   ],
-  "no": 147
+  "no": 146
  },
  {
   "slug": "simon-grove",
@@ -3549,7 +3525,7 @@
    "john-stone",
    "eddy-carmack"
   ],
-  "no": 148
+  "no": 147
  },
  {
   "slug": "brian-atwater",
@@ -3573,7 +3549,7 @@
    "eddy-carmack",
    "vernon-byrd"
   ],
-  "no": 149
+  "no": 148
  },
  {
   "slug": "donald-r-wesson",
@@ -3597,7 +3573,7 @@
    "philip-syng-physick",
    "david-leslie-limb"
   ],
-  "no": 150
+  "no": 149
  },
  {
   "slug": "gordon-ramsay",
@@ -3621,7 +3597,7 @@
    "barbara-trimmer",
    "tim-timmer"
   ],
-  "no": 151
+  "no": 150
  },
  {
   "slug": "fielder-jones",
@@ -3645,7 +3621,7 @@
    "tiger-woods",
    "jeff-float"
   ],
-  "no": 152
+  "no": 151
  },
  {
   "slug": "john-sergeant",
@@ -3669,7 +3645,7 @@
    "mark-reckless",
    "larry-speakes"
   ],
-  "no": 153
+  "no": 152
  },
  {
   "slug": "john-stone",
@@ -3693,7 +3669,7 @@
    "vernon-byrd",
    "john-wingfield"
   ],
-  "no": 154
+  "no": 153
  },
  {
   "slug": "luke-butcher",
@@ -3717,7 +3693,7 @@
    "tom-spicer",
    "cathy-brewer"
   ],
-  "no": 155
+  "no": 154
  },
  {
   "slug": "eddy-carmack",
@@ -3741,7 +3717,7 @@
    "john-wingfield",
    "sumner-starrfield"
   ],
-  "no": 156
+  "no": 155
  },
  {
   "slug": "robert-alexander-courts",
@@ -3765,7 +3741,7 @@
    "sarah-counsell",
    "mauro-del-giudice"
   ],
-  "no": 157
+  "no": 156
  },
  {
   "slug": "charles-coward",
@@ -3789,7 +3765,7 @@
    "albert-sidney-major-jr",
    "gnaeus-julius-agricola"
   ],
-  "no": 158
+  "no": 157
  },
  {
   "slug": "hubert-legal",
@@ -3813,7 +3789,7 @@
    "mauro-del-giudice",
    "michelle-williams-court"
   ],
-  "no": 159
+  "no": 158
  },
  {
   "slug": "panagiotis-zographos",
@@ -3837,7 +3813,7 @@
    "frank-beard",
    "karin-slaughter"
   ],
-  "no": 160
+  "no": 159
  },
  {
   "slug": "john-hunter",
@@ -3861,7 +3837,7 @@
    "david-leslie-limb",
    "david-e-smith"
   ],
-  "no": 161
+  "no": 160
  },
  {
   "slug": "philip-syng-physick",
@@ -3885,7 +3861,7 @@
    "david-e-smith",
    "randall-toothaker"
   ],
-  "no": 162
+  "no": 161
  },
  {
   "slug": "robert-cashdollar",
@@ -3909,7 +3885,7 @@
    "christopher-coke",
    "rich-ricci"
   ],
-  "no": 163
+  "no": 162
  },
  {
   "slug": "david-leslie-limb",
@@ -3933,7 +3909,7 @@
    "randall-toothaker",
    "lindsay-sleeper"
   ],
-  "no": 164
+  "no": 163
  },
  {
   "slug": "sarah-counsell",
@@ -3957,7 +3933,7 @@
    "michelle-williams-court",
    "william-wayne-justice"
   ],
-  "no": 165
+  "no": 164
  },
  {
   "slug": "noboru-yamada",
@@ -3981,7 +3957,7 @@
    "jeff-float",
    "willie-thrower"
   ],
-  "no": 166
+  "no": 165
  },
  {
   "slug": "vernon-byrd",
@@ -4005,7 +3981,7 @@
    "sumner-starrfield",
    "forrest-hall"
   ],
-  "no": 167
+  "no": 166
  },
  {
   "slug": "john-wingfield",
@@ -4029,7 +4005,7 @@
    "forrest-hall",
    "kathleen-flood"
   ],
-  "no": 168
+  "no": 167
  },
  {
   "slug": "sumner-starrfield",
@@ -4053,7 +4029,7 @@
    "kathleen-flood",
    "lloyd-mints"
   ],
-  "no": 169
+  "no": 168
  },
  {
   "slug": "david-e-smith",
@@ -4077,7 +4053,7 @@
    "lindsay-sleeper",
    "angel-colon"
   ],
-  "no": 170
+  "no": 169
  },
  {
   "slug": "mauro-del-giudice",
@@ -4101,7 +4077,7 @@
    "william-wayne-justice",
    "jeffrey-m-advokat"
   ],
-  "no": 171
+  "no": 170
  },
  {
   "slug": "michelle-williams-court",
@@ -4125,7 +4101,7 @@
    "jeffrey-m-advokat",
    "james-counsell"
   ],
-  "no": 172
+  "no": 171
  },
  {
   "slug": "william-wayne-justice",
@@ -4149,7 +4125,7 @@
    "james-counsell",
    "rob-banks"
   ],
-  "no": 173
+  "no": 172
  },
  {
   "slug": "randall-toothaker",
@@ -4173,7 +4149,7 @@
    "angel-colon",
    "c-michael-knee"
   ],
-  "no": 174
+  "no": 173
  },
  {
   "slug": "lindsay-sleeper",
@@ -4185,8 +4161,8 @@
   "life": "",
   "connection": "Sleeper denotes sleep, the goal of anaesthesia.",
   "origin": "",
-  "context": "",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1821667346, licensed in MI as Anesthesiology, Pediatric Anesthesiology.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1821667346",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "",
@@ -4197,7 +4173,7 @@
    "c-michael-knee",
    "craig-m-bone"
   ],
-  "no": 175
+  "no": 174
  },
  {
   "slug": "angel-colon",
@@ -4221,7 +4197,7 @@
    "craig-m-bone",
    "aaron-doctor"
   ],
-  "no": 176
+  "no": 175
  },
  {
   "slug": "c-michael-knee",
@@ -4245,7 +4221,7 @@
    "aaron-doctor",
    "james-p-rash"
   ],
-  "no": 177
+  "no": 176
  },
  {
   "slug": "craig-m-bone",
@@ -4269,7 +4245,7 @@
    "james-p-rash",
    "anderson-nurse"
   ],
-  "no": 178
+  "no": 177
  },
  {
   "slug": "jeffrey-m-advokat",
@@ -4293,7 +4269,7 @@
    "rob-banks",
    "officer-officer"
   ],
-  "no": 179
+  "no": 178
  },
  {
   "slug": "ravi-tailor",
@@ -4315,9 +4291,9 @@
   "related": [
    "barbara-trimmer",
    "tim-timmer",
-   "carrie-wolf-ritchie"
+   "julio-barber"
   ],
-  "no": 180
+  "no": 179
  },
  {
   "slug": "susan-spicer",
@@ -4341,7 +4317,7 @@
    "cathy-brewer",
    "jamie-maw"
   ],
-  "no": 181
+  "no": 180
  },
  {
   "slug": "aaron-doctor",
@@ -4353,8 +4329,8 @@
   "life": "",
   "connection": "His surname is Doctor and he practises as a physician.",
   "origin": "",
-  "context": "Abel 2010 found disproportionate Doctor surnames among physicians.",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1982163754, licensed in GA as Obstetrics & Gynecology.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1982163754",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "",
@@ -4365,7 +4341,7 @@
    "anderson-nurse",
    "todd-sleeper"
   ],
-  "no": 182
+  "no": 181
  },
  {
   "slug": "daniel-harp",
@@ -4389,7 +4365,7 @@
    "charol-shakeshaft",
    "tom-lehrer"
   ],
-  "no": 183
+  "no": 182
  },
  {
   "slug": "james-p-rash",
@@ -4413,7 +4389,7 @@
    "todd-sleeper",
    "lawrence-bone"
   ],
-  "no": 184
+  "no": 183
  },
  {
   "slug": "barbara-trimmer",
@@ -4434,10 +4410,10 @@
   "translation": false,
   "related": [
    "tim-timmer",
-   "carrie-wolf-ritchie",
-   "kelly-woods"
+   "julio-barber",
+   "carrie-wolf-ritchie"
   ],
-  "no": 185
+  "no": 184
  },
  {
   "slug": "anderson-nurse",
@@ -4449,8 +4425,8 @@
   "life": "",
   "connection": "His surname is Nurse and he works as a registered nurse.",
   "origin": "",
-  "context": "",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1891657409, licensed in GA as Registered Nurse.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1891657409",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "",
@@ -4461,7 +4437,7 @@
    "lawrence-bone",
    "abby-stork"
   ],
-  "no": 186
+  "no": 185
  },
  {
   "slug": "bruno-fromage",
@@ -4485,7 +4461,7 @@
    "rich-ricci",
    "margaret-chance"
   ],
-  "no": 187
+  "no": 186
  },
  {
   "slug": "tim-timmer",
@@ -4505,11 +4481,11 @@
   "ironic": false,
   "translation": true,
   "related": [
+   "julio-barber",
    "carrie-wolf-ritchie",
-   "kelly-woods",
-   "thomas-crapper"
+   "kelly-woods"
   ],
-  "no": 188
+  "no": 187
  },
  {
   "slug": "klaske-meester",
@@ -4533,7 +4509,7 @@
    "tom-lehrer",
    "fred-karr"
   ],
-  "no": 189
+  "no": 188
  },
  {
   "slug": "todd-sleeper",
@@ -4545,8 +4521,8 @@
   "life": "",
   "connection": "Sleeper names the unconscious state anaesthesiologists induce.",
   "origin": "",
-  "context": "",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1174779698, licensed in OH as Anesthesiology.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1174779698",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "",
@@ -4557,7 +4533,7 @@
    "abby-stork",
    "henry-head"
   ],
-  "no": 190
+  "no": 189
  },
  {
   "slug": "lawrence-bone",
@@ -4581,7 +4557,7 @@
    "henry-head",
    "hugh-seymour"
   ],
-  "no": 191
+  "no": 190
  },
  {
   "slug": "tom-spicer",
@@ -4605,7 +4581,7 @@
    "jamie-maw",
    "silas-masih"
   ],
-  "no": 192
+  "no": 191
  },
  {
   "slug": "abby-stork",
@@ -4617,8 +4593,8 @@
   "life": "",
   "connection": "The stork is folklore’s bird that delivers babies, matching obstetrics.",
   "origin": "",
-  "context": "",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1114459260, licensed in KS as Obstetrics & Gynecology, Urogynecology and Reconstructive Pelvic Surgery.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1114459260",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "birds",
@@ -4629,7 +4605,7 @@
    "hugh-seymour",
    "adam-weiner"
   ],
-  "no": 193
+  "no": 192
  },
  {
   "slug": "james-counsell",
@@ -4653,7 +4629,7 @@
    "officer-officer",
    "danielle-outlaw"
   ],
-  "no": 194
+  "no": 193
  },
  {
   "slug": "rob-banks",
@@ -4677,7 +4653,7 @@
    "danielle-outlaw",
    "learned-hand"
   ],
-  "no": 195
+  "no": 194
  },
  {
   "slug": "officer-officer",
@@ -4700,6 +4676,30 @@
    "danielle-outlaw",
    "learned-hand",
    "adam-speker"
+  ],
+  "no": 195
+ },
+ {
+  "slug": "julio-barber",
+  "name": "Julio Barber",
+  "occupation": "barber",
+  "field": "trades",
+  "country": "United States",
+  "organization": "House Barbershop",
+  "life": "",
+  "connection": "His surname is the trade he practises at House Barbershop in Rockaway New Jersey.",
+  "origin": "",
+  "context": "Owner of House Barbershop. Person source is a site homepage, self-published.",
+  "source": "https://juliobarber.com/",
+  "sourceLabel": "juliobarber.com",
+  "nameSource": "",
+  "tags": "",
+  "ironic": false,
+  "translation": false,
+  "related": [
+   "carrie-wolf-ritchie",
+   "kelly-woods",
+   "thomas-crapper"
   ],
   "no": 196
  },
@@ -4878,7 +4878,7 @@
   "field": "sports",
   "country": "United States",
   "organization": "",
-  "life": "1963–1988",
+  "life": "",
   "connection": "A fielder is a defensive baseball player.",
   "origin": "",
   "context": "",
@@ -5118,7 +5118,7 @@
   "field": "science",
   "country": "United States",
   "organization": "",
-  "life": "1888–1979",
+  "life": "1888–1989",
   "connection": "He wrote on money supply; mints produce coinage.",
   "origin": "",
   "context": "",
@@ -5478,11 +5478,11 @@
   "field": "sports",
   "country": "Australia",
   "organization": "Western Australia",
-  "life": "1968–2020",
+  "life": "",
   "connection": "His surname is Bowler but he was primarily a batsman.",
   "origin": "",
   "context": "Played 141 first-class matches mainly as a batter.",
-  "source": "https://en.wikipedia.org/wiki/Peter_Bowler",
+  "source": "https://en.wikipedia.org/wiki/Peter_Bowler_(cricketer)",
   "sourceLabel": "Wikipedia",
   "nameSource": "",
   "tags": "birds",
@@ -5755,7 +5755,7 @@
   "related": [
    "louis-lumiere",
    "javier-camara",
-   "alison-light"
+   "marc-webb"
   ],
   "no": 240
  },
@@ -5826,8 +5826,8 @@
   "translation": true,
   "related": [
    "javier-camara",
-   "alison-light",
-   "marc-webb"
+   "marc-webb",
+   "benjamin-millepied"
   ],
   "no": 243
  },
@@ -5873,9 +5873,9 @@
   "ironic": false,
   "translation": true,
   "related": [
-   "alison-light",
    "marc-webb",
-   "benjamin-millepied"
+   "benjamin-millepied",
+   "robert-frost"
   ],
   "no": 245
  },
@@ -5952,30 +5952,6 @@
   "no": 248
  },
  {
-  "slug": "alison-light",
-  "name": "Alison Light",
-  "occupation": "painter",
-  "field": "arts",
-  "country": "United States",
-  "organization": "",
-  "life": "",
-  "connection": "Light names illumination, apt for a Sarasota abstract painter.",
-  "origin": "",
-  "context": "",
-  "source": "https://lightartwork.com/",
-  "sourceLabel": "lightartwork.com",
-  "nameSource": "",
-  "tags": "",
-  "ironic": false,
-  "translation": false,
-  "related": [
-   "marc-webb",
-   "benjamin-millepied",
-   "robert-frost"
-  ],
-  "no": 249
- },
- {
   "slug": "christopher-coke",
   "name": "Christopher Coke",
   "occupation": "drug lord",
@@ -5997,7 +5973,7 @@
    "margaret-chance",
    "john-bond"
   ],
-  "no": 250
+  "no": 249
  },
  {
   "slug": "jonathan-jager",
@@ -6021,7 +5997,7 @@
    "keith-foulke",
    "prince-fielder"
   ],
-  "no": 251
+  "no": 250
  },
  {
   "slug": "marc-webb",
@@ -6045,7 +6021,7 @@
    "robert-frost",
    "william-wordsworth"
   ],
-  "no": 252
+  "no": 251
  },
  {
   "slug": "adam-speker",
@@ -6069,7 +6045,7 @@
    "james-alger-fee",
    "lee-speakman"
   ],
-  "no": 253
+  "no": 252
  },
  {
   "slug": "albert-sidney-major-jr",
@@ -6093,7 +6069,7 @@
    "karl-b-major",
    "mark-gunzinger"
   ],
-  "no": 254
+  "no": 253
  },
  {
   "slug": "heinrich-amadeus-wolff",
@@ -6117,7 +6093,7 @@
    "lee-speakman",
    "john-laws"
   ],
-  "no": 255
+  "no": 254
  },
  {
   "slug": "jan-igor-rybak",
@@ -6141,7 +6117,7 @@
    "johann-gustav-fischer",
    "jocelyn-bell-burnell"
   ],
-  "no": 256
+  "no": 255
  },
  {
   "slug": "jeff-spear",
@@ -6165,7 +6141,7 @@
    "prince-fielder",
    "alan-ball"
   ],
-  "no": 257
+  "no": 256
  },
  {
   "slug": "keith-foulke",
@@ -6189,7 +6165,7 @@
    "alan-ball",
    "rookie-davis"
   ],
-  "no": 258
+  "no": 257
  },
  {
   "slug": "prince-fielder",
@@ -6213,7 +6189,7 @@
    "rookie-davis",
    "thomas-rush"
   ],
-  "no": 259
+  "no": 258
  },
  {
   "slug": "sally-ride",
@@ -6237,7 +6213,7 @@
    "sting-ray-robb",
    "eugenius-outerbridge"
   ],
-  "no": 260
+  "no": 259
  },
  {
   "slug": "alan-ball",
@@ -6261,7 +6237,7 @@
    "thomas-rush",
    "tormod-frostad"
   ],
-  "no": 261
+  "no": 260
  },
  {
   "slug": "sunny-hostin",
@@ -6285,7 +6261,7 @@
    "john-owen-jones",
    "marilyn-vos-savant"
   ],
-  "no": 262
+  "no": 261
  },
  {
   "slug": "benjamin-millepied",
@@ -6307,9 +6283,9 @@
   "related": [
    "robert-frost",
    "william-wordsworth",
-   "roger-light"
+   "gerhard-weber"
   ],
-  "no": 263
+  "no": 262
  },
  {
   "slug": "carrie-wolf-ritchie",
@@ -6333,7 +6309,7 @@
    "thomas-crapper",
    "alec-steele"
   ],
-  "no": 264
+  "no": 263
  },
  {
   "slug": "rich-ricci",
@@ -6357,7 +6333,7 @@
    "john-bond",
    "rosalind-brewer"
   ],
-  "no": 265
+  "no": 264
  },
  {
   "slug": "robert-frost",
@@ -6378,10 +6354,10 @@
   "translation": false,
   "related": [
    "william-wordsworth",
-   "roger-light",
-   "gerhard-weber"
+   "gerhard-weber",
+   "markus-zimmermann"
   ],
-  "no": 266
+  "no": 265
  },
  {
   "slug": "rookie-davis",
@@ -6405,7 +6381,7 @@
    "tormod-frostad",
    "clyde-kluttz"
   ],
-  "no": 267
+  "no": 266
  },
  {
   "slug": "thomas-rush",
@@ -6429,7 +6405,7 @@
    "clyde-kluttz",
    "henry-hook"
   ],
-  "no": 268
+  "no": 267
  },
  {
   "slug": "tormod-frostad",
@@ -6453,7 +6429,7 @@
    "henry-hook",
    "pinch-thomas"
   ],
-  "no": 269
+  "no": 268
  },
  {
   "slug": "william-wordsworth",
@@ -6473,11 +6449,11 @@
   "ironic": false,
   "translation": false,
   "related": [
-   "roger-light",
    "gerhard-weber",
-   "markus-zimmermann"
+   "markus-zimmermann",
+   "thierry-le-luron"
   ],
-  "no": 270
+  "no": 269
  },
  {
   "slug": "clyde-kluttz",
@@ -6501,7 +6477,7 @@
    "pinch-thomas",
    "mike-england"
   ],
-  "no": 271
+  "no": 270
  },
  {
   "slug": "henry-hook",
@@ -6525,7 +6501,7 @@
    "mike-england",
    "rex-hunt"
   ],
-  "no": 272
+  "no": 271
  },
  {
   "slug": "james-alger-fee",
@@ -6549,7 +6525,7 @@
    "john-laws",
    "rudolf-von-richter"
   ],
-  "no": 273
+  "no": 272
  },
  {
   "slug": "lee-speakman",
@@ -6573,7 +6549,7 @@
    "rudolf-von-richter",
    "sherman-glenn-finesilver"
   ],
-  "no": 274
+  "no": 273
  },
  {
   "slug": "pinch-thomas",
@@ -6597,7 +6573,7 @@
    "rex-hunt",
    "erik-fish"
   ],
-  "no": 275
+  "no": 274
  },
  {
   "slug": "joanna-story",
@@ -6621,7 +6597,7 @@
    "jocelyn-bell-burnell",
    "stella-law"
   ],
-  "no": 276
+  "no": 275
  },
  {
   "slug": "mike-england",
@@ -6645,7 +6621,7 @@
    "erik-fish",
    "david-goodfield"
   ],
-  "no": 277
+  "no": 276
  },
  {
   "slug": "rex-hunt",
@@ -6669,31 +6645,7 @@
    "david-goodfield",
    "garth-snow"
   ],
-  "no": 278
- },
- {
-  "slug": "roger-light",
-  "name": "Roger Light",
-  "occupation": "painter",
-  "field": "arts",
-  "country": "United States",
-  "organization": "",
-  "life": "",
-  "connection": "Light names illumination, central to an oil painter of still lifes.",
-  "origin": "",
-  "context": "Dallas-based fine artist.",
-  "source": "https://rogerlight.com/",
-  "sourceLabel": "rogerlight.com",
-  "nameSource": "",
-  "tags": "",
-  "ironic": false,
-  "translation": false,
-  "related": [
-   "gerhard-weber",
-   "markus-zimmermann",
-   "thierry-le-luron"
-  ],
-  "no": 279
+  "no": 277
  },
  {
   "slug": "adam-weiner",
@@ -6717,7 +6669,7 @@
    "jules-angst",
    "william-dement"
   ],
-  "no": 280
+  "no": 278
  },
  {
   "slug": "erik-fish",
@@ -6741,7 +6693,7 @@
    "garth-snow",
    "josh-outman"
   ],
-  "no": 281
+  "no": 279
  },
  {
   "slug": "david-goodfield",
@@ -6765,7 +6717,7 @@
    "josh-outman",
    "farokh-engineer"
   ],
-  "no": 282
+  "no": 280
  },
  {
   "slug": "garth-snow",
@@ -6789,7 +6741,7 @@
    "farokh-engineer",
    "ty-long"
   ],
-  "no": 283
+  "no": 281
  },
  {
   "slug": "gerhard-weber",
@@ -6813,7 +6765,7 @@
    "thierry-le-luron",
    "matthew-alan-beat"
   ],
-  "no": 284
+  "no": 282
  },
  {
   "slug": "jacqueline-waters",
@@ -6837,7 +6789,7 @@
    "joe-winters",
    "nathan-cool"
   ],
-  "no": 285
+  "no": 283
  },
  {
   "slug": "josh-outman",
@@ -6861,7 +6813,7 @@
    "ty-long",
    "will-spear"
   ],
-  "no": 286
+  "no": 284
  },
  {
   "slug": "larry-speakes",
@@ -6885,7 +6837,7 @@
    "tony-snow",
    "anthony-weiner"
   ],
-  "no": 287
+  "no": 285
  },
  {
   "slug": "marie-t-harte",
@@ -6909,7 +6861,7 @@
    "william-dement",
    "christopher-k-payne"
   ],
-  "no": 288
+  "no": 286
  },
  {
   "slug": "markus-zimmermann",
@@ -6933,7 +6885,7 @@
    "matthew-alan-beat",
    "henry-wadsworth-longfellow"
   ],
-  "no": 289
+  "no": 287
  },
  {
   "slug": "thierry-le-luron",
@@ -6957,7 +6909,7 @@
    "henry-wadsworth-longfellow",
    "christian-weber"
   ],
-  "no": 290
+  "no": 288
  },
  {
   "slug": "farokh-engineer",
@@ -6981,7 +6933,7 @@
    "will-spear",
    "adolf-jager"
   ],
-  "no": 291
+  "no": 289
  },
  {
   "slug": "matthew-alan-beat",
@@ -7005,7 +6957,7 @@
    "christian-weber",
    "mary-brush"
   ],
-  "no": 292
+  "no": 290
  },
  {
   "slug": "ty-long",
@@ -7029,7 +6981,7 @@
    "adolf-jager",
    "chip-reese"
   ],
-  "no": 293
+  "no": 291
  },
  {
   "slug": "will-spear",
@@ -7053,7 +7005,7 @@
    "chip-reese",
    "gerard-pique"
   ],
-  "no": 294
+  "no": 292
  },
  {
   "slug": "adolf-jager",
@@ -7077,7 +7029,7 @@
    "gerard-pique",
    "klaus-bischoff"
   ],
-  "no": 295
+  "no": 293
  },
  {
   "slug": "chip-reese",
@@ -7101,7 +7053,7 @@
    "klaus-bischoff",
    "lis-frost"
   ],
-  "no": 296
+  "no": 294
  },
  {
   "slug": "gerard-pique",
@@ -7125,7 +7077,7 @@
    "lis-frost",
    "russell-mark"
   ],
-  "no": 297
+  "no": 295
  },
  {
   "slug": "henry-wadsworth-longfellow",
@@ -7149,7 +7101,7 @@
    "mary-brush",
    "paulinho-boca-de-cantor"
   ],
-  "no": 298
+  "no": 296
  },
  {
   "slug": "creflo-dollar",
@@ -7173,7 +7125,7 @@
    "david-cohen",
    "raphael-cohen"
   ],
-  "no": 299
+  "no": 297
  },
  {
   "slug": "gale-hoffnagle",
@@ -7197,7 +7149,7 @@
    "nathan-cool",
    "steve-wohlenhaus"
   ],
-  "no": 300
+  "no": 298
  },
  {
   "slug": "ivo-krieg",
@@ -7221,7 +7173,7 @@
    "anthony-weiner",
    "peter-magyar"
   ],
-  "no": 301
+  "no": 299
  },
  {
   "slug": "johann-gustav-fischer",
@@ -7245,7 +7197,7 @@
    "stella-law",
    "patrick-burkhart"
   ],
-  "no": 302
+  "no": 300
  },
  {
   "slug": "jules-angst",
@@ -7269,7 +7221,7 @@
    "christopher-k-payne",
    "catherine-ann-limb"
   ],
-  "no": 303
+  "no": 301
  },
  {
   "slug": "klaus-bischoff",
@@ -7293,7 +7245,7 @@
    "russell-mark",
    "jad-oestrike"
   ],
-  "no": 304
+  "no": 302
  },
  {
   "slug": "lis-frost",
@@ -7317,7 +7269,7 @@
    "jad-oestrike",
    "peter-short"
   ],
-  "no": 305
+  "no": 303
  },
  {
   "slug": "margaret-chance",
@@ -7341,7 +7293,7 @@
    "rosalind-brewer",
    "m-moran-weston"
   ],
-  "no": 306
+  "no": 304
  },
  {
   "slug": "russell-mark",
@@ -7365,7 +7317,7 @@
    "peter-short",
    "kyuji-fujikawa"
   ],
-  "no": 307
+  "no": 305
  },
  {
   "slug": "she-ar-yashuv-cohen",
@@ -7389,7 +7341,7 @@
    "raphael-cohen",
    "thomas-langdon-grace"
   ],
-  "no": 308
+  "no": 306
  },
  {
   "slug": "tony-snow",
@@ -7413,7 +7365,7 @@
    "peter-magyar",
    "joseph-gurney-cannon"
   ],
-  "no": 309
+  "no": 307
  },
  {
   "slug": "john-laws",
@@ -7422,7 +7374,7 @@
   "field": "law",
   "country": "England",
   "organization": "",
-  "life": "1945–2025",
+  "life": "1935–2025",
   "connection": "His surname names the body of rules he interpreted as an appellate judge.",
   "origin": "",
   "context": "",
@@ -7437,7 +7389,7 @@
    "sherman-glenn-finesilver",
    "benjamin-hale-settle"
   ],
-  "no": 310
+  "no": 308
  },
  {
   "slug": "rudolf-von-richter",
@@ -7461,7 +7413,7 @@
    "benjamin-hale-settle",
    "willy-bach"
   ],
-  "no": 311
+  "no": 309
  },
  {
   "slug": "christian-weber",
@@ -7485,7 +7437,7 @@
    "paulinho-boca-de-cantor",
    "max-schreck"
   ],
-  "no": 312
+  "no": 310
  },
  {
   "slug": "jad-oestrike",
@@ -7509,7 +7461,7 @@
    "kyuji-fujikawa",
    "davis-love-iii"
   ],
-  "no": 313
+  "no": 311
  },
  {
   "slug": "jocelyn-bell-burnell",
@@ -7533,7 +7485,7 @@
    "patrick-burkhart",
    "akihiko-hoshide"
   ],
-  "no": 314
+  "no": 312
  },
  {
   "slug": "peter-short",
@@ -7557,7 +7509,7 @@
    "davis-love-iii",
    "hank-soar"
   ],
-  "no": 315
+  "no": 313
  },
  {
   "slug": "sherman-glenn-finesilver",
@@ -7581,7 +7533,7 @@
    "willy-bach",
    "james-lawless"
   ],
-  "no": 316
+  "no": 314
  },
  {
   "slug": "benjamin-hale-settle",
@@ -7605,7 +7557,7 @@
    "james-lawless",
    "stephanie-nicola-barwise"
   ],
-  "no": 317
+  "no": 315
  },
  {
   "slug": "joe-winters",
@@ -7629,7 +7581,7 @@
    "steve-wohlenhaus",
    "heather-reid"
   ],
-  "no": 318
+  "no": 316
  },
  {
   "slug": "kyuji-fujikawa",
@@ -7653,7 +7605,7 @@
    "hank-soar",
    "george-ball-greene"
   ],
-  "no": 319
+  "no": 317
  },
  {
   "slug": "leonard-waterworth",
@@ -7677,7 +7629,7 @@
    "eugenius-outerbridge",
    "robert-l-gibson"
   ],
-  "no": 320
+  "no": 318
  },
  {
   "slug": "anthony-weiner",
@@ -7701,7 +7653,7 @@
    "joseph-gurney-cannon",
    "samuel-collier-major"
   ],
-  "no": 321
+  "no": 319
  },
  {
   "slug": "davis-love-iii",
@@ -7725,7 +7677,7 @@
    "george-ball-greene",
    "george-best"
   ],
-  "no": 322
+  "no": 320
  },
  {
   "slug": "hank-soar",
@@ -7749,7 +7701,7 @@
    "george-best",
    "salva-sevilla"
   ],
-  "no": 323
+  "no": 321
  },
  {
   "slug": "stella-law",
@@ -7773,7 +7725,7 @@
    "akihiko-hoshide",
    "benjamin-winger"
   ],
-  "no": 324
+  "no": 322
  },
  {
   "slug": "george-ball-greene",
@@ -7797,7 +7749,7 @@
    "salva-sevilla",
    "zhu-ting"
   ],
-  "no": 325
+  "no": 323
  },
  {
   "slug": "george-best",
@@ -7821,7 +7773,7 @@
    "zhu-ting",
    "bert-ironmonger"
   ],
-  "no": 326
+  "no": 324
  },
  {
   "slug": "gnaeus-julius-agricola",
@@ -7845,7 +7797,7 @@
    "mark-gunzinger",
    "philander-rodman-jr"
   ],
-  "no": 327
+  "no": 325
  },
  {
   "slug": "john-bond",
@@ -7869,7 +7821,7 @@
    "m-moran-weston",
    "ann-greathouse"
   ],
-  "no": 328
+  "no": 326
  },
  {
   "slug": "karl-b-major",
@@ -7893,7 +7845,7 @@
    "philander-rodman-jr",
    "george-c-marshall"
   ],
-  "no": 329
+  "no": 327
  },
  {
   "slug": "patrick-burkhart",
@@ -7917,7 +7869,7 @@
    "benjamin-winger",
    "carl-linnaeus"
   ],
-  "no": 330
+  "no": 328
  },
  {
   "slug": "peter-magyar",
@@ -7941,7 +7893,7 @@
    "samuel-collier-major",
    "major-owens"
   ],
-  "no": 331
+  "no": 329
  },
  {
   "slug": "salva-sevilla",
@@ -7965,7 +7917,7 @@
    "bert-ironmonger",
    "axel-frost"
   ],
-  "no": 332
+  "no": 330
  },
  {
   "slug": "zhu-ting",
@@ -7989,7 +7941,7 @@
    "axel-frost",
    "ethan-hooker"
   ],
-  "no": 333
+  "no": 331
  },
  {
   "slug": "david-cohen",
@@ -8013,7 +7965,7 @@
    "thomas-langdon-grace",
    "des-britten"
   ],
-  "no": 334
+  "no": 332
  },
  {
   "slug": "mary-brush",
@@ -8037,7 +7989,7 @@
    "max-schreck",
    "robert-burns"
   ],
-  "no": 335
+  "no": 333
  },
  {
   "slug": "paulinho-boca-de-cantor",
@@ -8061,7 +8013,7 @@
    "robert-burns",
    "blas-canto"
   ],
-  "no": 336
+  "no": 334
  },
  {
   "slug": "rosalind-brewer",
@@ -8085,7 +8037,7 @@
    "ann-greathouse",
    "joseph-bond"
   ],
-  "no": 337
+  "no": 335
  },
  {
   "slug": "akihiko-hoshide",
@@ -8109,7 +8061,7 @@
    "carl-linnaeus",
    "dani-byrd"
   ],
-  "no": 338
+  "no": 336
  },
  {
   "slug": "benjamin-winger",
@@ -8133,7 +8085,7 @@
    "dani-byrd",
    "martin-schneebeli"
   ],
-  "no": 339
+  "no": 337
  },
  {
   "slug": "bert-ironmonger",
@@ -8157,7 +8109,7 @@
    "ethan-hooker",
    "george-block"
   ],
-  "no": 340
+  "no": 338
  },
  {
   "slug": "carl-linnaeus",
@@ -8181,7 +8133,7 @@
    "martin-schneebeli",
    "carl-jung"
   ],
-  "no": 341
+  "no": 339
  },
  {
   "slug": "cathy-brewer",
@@ -8205,7 +8157,7 @@
    "silas-masih",
    "josephine-bacon"
   ],
-  "no": 342
+  "no": 340
  },
  {
   "slug": "dani-byrd",
@@ -8229,7 +8181,7 @@
    "carl-jung",
    "thomas-hacker"
   ],
-  "no": 343
+  "no": 341
  },
  {
   "slug": "joseph-gurney-cannon",
@@ -8253,7 +8205,7 @@
    "major-owens",
    "matt-gobush"
   ],
-  "no": 344
+  "no": 342
  },
  {
   "slug": "kelly-woods",
@@ -8277,7 +8229,7 @@
    "alec-steele",
    "jason-wright"
   ],
-  "no": 345
+  "no": 343
  },
  {
   "slug": "max-schreck",
@@ -8301,7 +8253,7 @@
    "blas-canto",
    "mark-twain"
   ],
-  "no": 346
+  "no": 344
  },
  {
   "slug": "nathan-cool",
@@ -8325,7 +8277,7 @@
    "heather-reid",
    "mackenzie-lake"
   ],
-  "no": 347
+  "no": 345
  },
  {
   "slug": "raphael-cohen",
@@ -8349,7 +8301,7 @@
    "des-britten",
    "thomas-grace"
   ],
-  "no": 348
+  "no": 346
  },
  {
   "slug": "robert-burns",
@@ -8373,7 +8325,7 @@
    "mark-twain",
    "michael-bang"
   ],
-  "no": 349
+  "no": 347
  },
  {
   "slug": "steve-wohlenhaus",
@@ -8397,7 +8349,7 @@
    "mackenzie-lake",
    "billy-schwind"
   ],
-  "no": 350
+  "no": 348
  },
  {
   "slug": "william-dement",
@@ -8421,7 +8373,7 @@
    "catherine-ann-limb",
    "louis-anatole-la-garde"
   ],
-  "no": 351
+  "no": 349
  },
  {
   "slug": "axel-frost",
@@ -8445,7 +8397,7 @@
    "george-block",
    "eric-gagne"
   ],
-  "no": 352
+  "no": 350
  },
  {
   "slug": "ethan-hooker",
@@ -8469,7 +8421,7 @@
    "eric-gagne",
    "tennys-sandgren"
   ],
-  "no": 353
+  "no": 351
  },
  {
   "slug": "george-block",
@@ -8493,7 +8445,7 @@
    "tennys-sandgren",
    "ken-rush"
   ],
-  "no": 354
+  "no": 352
  },
  {
   "slug": "heather-reid",
@@ -8517,7 +8469,7 @@
    "billy-schwind",
    "heather-lake"
   ],
-  "no": 355
+  "no": 353
  },
  {
   "slug": "mackenzie-lake",
@@ -8541,7 +8493,7 @@
    "heather-lake",
    "skip-waters"
   ],
-  "no": 356
+  "no": 354
  },
  {
   "slug": "thomas-crapper",
@@ -8565,7 +8517,7 @@
    "jason-wright",
    "ren-newcomer"
   ],
-  "no": 357
+  "no": 355
  },
  {
   "slug": "alec-steele",
@@ -8589,7 +8541,7 @@
    "ren-newcomer",
    "james-smith"
   ],
-  "no": 358
+  "no": 356
  },
  {
   "slug": "billy-schwind",
@@ -8613,7 +8565,7 @@
    "skip-waters",
    "amy-freeze"
   ],
-  "no": 359
+  "no": 357
  },
  {
   "slug": "heather-lake",
@@ -8637,7 +8589,7 @@
    "amy-freeze",
    "steve-pool"
   ],
-  "no": 360
+  "no": 358
  },
  {
   "slug": "jamie-maw",
@@ -8661,7 +8613,7 @@
    "josephine-bacon",
    "brad-slaughter"
   ],
-  "no": 361
+  "no": 359
  },
  {
   "slug": "martin-schneebeli",
@@ -8685,7 +8637,7 @@
    "thomas-hacker",
    "annkatrin-rose"
   ],
-  "no": 362
+  "no": 360
  },
  {
   "slug": "samuel-collier-major",
@@ -8709,7 +8661,7 @@
    "matt-gobush",
    "jim-mcgovern"
   ],
-  "no": 363
+  "no": 361
  },
  {
   "slug": "skip-waters",
@@ -8733,7 +8685,7 @@
    "steve-pool",
    "george-winterling"
   ],
-  "no": 364
+  "no": 362
  },
  {
   "slug": "thomas-langdon-grace",
@@ -8757,7 +8709,7 @@
    "thomas-grace",
    "stephen-j-pope"
   ],
-  "no": 365
+  "no": 363
  },
  {
   "slug": "blas-canto",
@@ -8781,7 +8733,7 @@
    "michael-bang",
    "margit-kovacs"
   ],
-  "no": 366
+  "no": 364
  },
  {
   "slug": "christopher-k-payne",
@@ -8805,7 +8757,7 @@
    "louis-anatole-la-garde",
    "richard-bright"
   ],
-  "no": 367
+  "no": 365
  },
  {
   "slug": "des-britten",
@@ -8829,7 +8781,7 @@
    "stephen-j-pope",
    "shabbatai-hakohen"
   ],
-  "no": 368
+  "no": 366
  },
  {
   "slug": "m-moran-weston",
@@ -8853,7 +8805,7 @@
    "joseph-bond",
    "wayne-schmuck"
   ],
-  "no": 369
+  "no": 367
  },
  {
   "slug": "major-owens",
@@ -8862,7 +8814,7 @@
   "field": "politics",
   "country": "United States",
   "organization": "United States House of Representatives",
-  "life": "1936–2007",
+  "life": "1936–2013",
   "connection": "His given name is Major, the army rank, during twelve terms representing Brooklyn.",
   "origin": "",
   "context": "",
@@ -8877,7 +8829,7 @@
    "jim-mcgovern",
    "crispin-blunt"
   ],
-  "no": 370
+  "no": 368
  },
  {
   "slug": "matt-gobush",
@@ -8901,7 +8853,7 @@
    "crispin-blunt",
    "jose-bove"
   ],
-  "no": 371
+  "no": 369
  },
  {
   "slug": "thomas-grace",
@@ -8925,7 +8877,7 @@
    "shabbatai-hakohen",
    "innocent-of-alaska"
   ],
-  "no": 372
+  "no": 370
  },
  {
   "slug": "eric-gagne",
@@ -8934,7 +8886,7 @@
   "field": "sports",
   "country": "Canada",
   "organization": "Los Angeles Dodgers",
-  "life": "1976–2004",
+  "life": "",
   "connection": "Gagné is French for won, apt for a Cy Young-winning closer who recorded 187 saves.",
   "origin": "French: won",
   "context": "2003 NL Cy Young Award; 84 consecutive saves converted.",
@@ -8949,7 +8901,7 @@
    "ken-rush",
    "chuck-long"
   ],
-  "no": 373
+  "no": 371
  },
  {
   "slug": "jim-mcgovern",
@@ -8958,11 +8910,11 @@
   "field": "politics",
   "country": "United States",
   "organization": "United States House of Representatives",
-  "life": "1959–1976",
+  "life": "",
   "connection": "His surname contains govern during decades representing Massachusetts in the House.",
   "origin": "",
   "context": "",
-  "source": "https://en.wikipedia.org/wiki/Jim_McGovern",
+  "source": "https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician)",
   "sourceLabel": "Wikipedia",
   "nameSource": "",
   "tags": "",
@@ -8973,7 +8925,7 @@
    "jose-bove",
    "stephen-buyer"
   ],
-  "no": 374
+  "no": 372
  },
  {
   "slug": "mark-twain",
@@ -8997,7 +8949,7 @@
    "margit-kovacs",
    "markus-wolf"
   ],
-  "no": 375
+  "no": 373
  },
  {
   "slug": "michael-bang",
@@ -9021,7 +8973,7 @@
    "markus-wolf",
    "noah-webster"
   ],
-  "no": 376
+  "no": 374
  },
  {
   "slug": "tennys-sandgren",
@@ -9045,7 +8997,7 @@
    "chuck-long",
    "goro-ishiyama"
   ],
-  "no": 377
+  "no": 375
  },
  {
   "slug": "amy-freeze",
@@ -9069,7 +9021,7 @@
    "george-winterling",
    "snowden-d-flora"
   ],
-  "no": 378
+  "no": 376
  },
  {
   "slug": "carl-jung",
@@ -9093,7 +9045,7 @@
    "annkatrin-rose",
    "tim-field"
   ],
-  "no": 379
+  "no": 377
  },
  {
   "slug": "ken-rush",
@@ -9117,7 +9069,7 @@
    "goro-ishiyama",
    "mollee-swift"
   ],
-  "no": 380
+  "no": 378
  },
  {
   "slug": "margit-kovacs",
@@ -9141,7 +9093,7 @@
    "noah-webster",
    "samuel-foote"
   ],
-  "no": 381
+  "no": 379
  },
  {
   "slug": "chuck-long",
@@ -9165,7 +9117,7 @@
    "mollee-swift",
    "valerio-bacigalupo"
   ],
-  "no": 382
+  "no": 380
  },
  {
   "slug": "steve-pool",
@@ -9189,7 +9141,7 @@
    "snowden-d-flora",
    "carlo-buontempo"
   ],
-  "no": 383
+  "no": 381
  },
  {
   "slug": "thomas-hacker",
@@ -9213,7 +9165,7 @@
    "tim-field",
    "wayne-gall"
   ],
-  "no": 384
+  "no": 382
  },
  {
   "slug": "annkatrin-rose",
@@ -9237,7 +9189,7 @@
    "wayne-gall",
    "gene-shearer"
   ],
-  "no": 385
+  "no": 383
  },
  {
   "slug": "crispin-blunt",
@@ -9261,7 +9213,7 @@
    "stephen-buyer",
    "luc-frieden"
   ],
-  "no": 386
+  "no": 384
  },
  {
   "slug": "willy-bach",
@@ -9285,7 +9237,7 @@
    "stephanie-nicola-barwise",
    "john-peter-daniels"
   ],
-  "no": 387
+  "no": 385
  },
  {
   "slug": "markus-wolf",
@@ -9309,7 +9261,7 @@
    "samuel-foote",
    "art-spiegelman"
   ],
-  "no": 388
+  "no": 386
  },
  {
   "slug": "noah-webster",
@@ -9333,7 +9285,7 @@
    "art-spiegelman",
    "bruno-bozzetto"
   ],
-  "no": 389
+  "no": 387
  },
  {
   "slug": "samuel-foote",
@@ -9357,7 +9309,7 @@
    "bruno-bozzetto",
    "william-makepeace-thackeray"
   ],
-  "no": 390
+  "no": 388
  },
  {
   "slug": "art-spiegelman",
@@ -9381,7 +9333,7 @@
    "william-makepeace-thackeray",
    "john-leech"
   ],
-  "no": 391
+  "no": 389
  },
  {
   "slug": "goro-ishiyama",
@@ -9405,7 +9357,7 @@
    "valerio-bacigalupo",
    "yamamotoyama-ryuta"
   ],
-  "no": 392
+  "no": 390
  },
  {
   "slug": "james-lawless",
@@ -9429,7 +9381,7 @@
    "john-peter-daniels",
    "john-lawless"
   ],
-  "no": 393
+  "no": 391
  },
  {
   "slug": "jose-bove",
@@ -9453,7 +9405,7 @@
    "luc-frieden",
    "moses-blah"
   ],
-  "no": 394
+  "no": 392
  },
  {
   "slug": "mollee-swift",
@@ -9477,7 +9429,7 @@
    "yamamotoyama-ryuta",
    "dickie-bird"
   ],
-  "no": 395
+  "no": 393
  },
  {
   "slug": "tim-field",
@@ -9501,7 +9453,7 @@
    "gene-shearer",
    "andrew-waterhouse"
   ],
-  "no": 396
+  "no": 394
  },
  {
   "slug": "valerio-bacigalupo",
@@ -9514,7 +9466,7 @@
   "connection": "Bacigalupo means wolf-wounder in Ligurian, ironic for a goalkeeper rather than a hunter.",
   "origin": "Ligurian: wolf-wounder",
   "context": "Grande Torino goalkeeper; died in Superga air disaster.",
-  "source": "https://en.wikipedia.org/wiki/Bacigalupo",
+  "source": "https://en.wikipedia.org/wiki/Valerio_Bacigalupo",
   "sourceLabel": "Wikipedia",
   "nameSource": "https://en.wikipedia.org/wiki/Bacigalupo",
   "tags": "",
@@ -9525,7 +9477,7 @@
    "dickie-bird",
    "steve-slowly"
   ],
-  "no": 397
+  "no": 395
  },
  {
   "slug": "wayne-gall",
@@ -9549,7 +9501,7 @@
    "andrew-waterhouse",
    "jocelyn-rose"
   ],
-  "no": 398
+  "no": 396
  },
  {
   "slug": "yamamotoyama-ryuta",
@@ -9573,7 +9525,7 @@
    "steve-slowly",
    "carlos-pace"
   ],
-  "no": 399
+  "no": 397
  },
  {
   "slug": "catherine-ann-limb",
@@ -9597,7 +9549,7 @@
    "richard-bright",
    "percival-pott"
   ],
-  "no": 400
+  "no": 398
  },
  {
   "slug": "dickie-bird",
@@ -9621,7 +9573,7 @@
    "carlos-pace",
    "zydrunas-ilgauskas"
   ],
-  "no": 401
+  "no": 399
  },
  {
   "slug": "stephen-j-pope",
@@ -9645,7 +9597,7 @@
    "innocent-of-alaska",
    "herbert-s-goldstein"
   ],
-  "no": 402
+  "no": 400
  },
  {
   "slug": "steve-slowly",
@@ -9669,7 +9621,7 @@
    "zydrunas-ilgauskas",
    "gout-gout"
   ],
-  "no": 403
+  "no": 401
  },
  {
   "slug": "carlos-pace",
@@ -9693,7 +9645,7 @@
    "gout-gout",
    "simon-gagne"
   ],
-  "no": 404
+  "no": 402
  },
  {
   "slug": "george-winterling",
@@ -9717,7 +9669,7 @@
    "carlo-buontempo",
    "storm-field"
   ],
-  "no": 405
+  "no": 403
  },
  {
   "slug": "stephanie-nicola-barwise",
@@ -9741,7 +9693,7 @@
    "john-lawless",
    "officer-pistohl"
   ],
-  "no": 406
+  "no": 404
  },
  {
   "slug": "stephen-buyer",
@@ -9765,7 +9717,7 @@
    "moses-blah",
    "james-earl-major"
   ],
-  "no": 407
+  "no": 405
  },
  {
   "slug": "zydrunas-ilgauskas",
@@ -9789,7 +9741,7 @@
    "simon-gagne",
    "james-outman"
   ],
-  "no": 408
+  "no": 406
  },
  {
   "slug": "gout-gout",
@@ -9813,7 +9765,7 @@
    "james-outman",
    "peter-crouch"
   ],
-  "no": 409
+  "no": 407
  },
  {
   "slug": "jason-wright",
@@ -9837,7 +9789,7 @@
    "james-smith",
    "mario-lek"
   ],
-  "no": 410
+  "no": 408
  },
  {
   "slug": "john-peter-daniels",
@@ -9861,7 +9813,7 @@
    "officer-pistohl",
    "john-preston-bailey"
   ],
-  "no": 411
+  "no": 409
  },
  {
   "slug": "luc-frieden",
@@ -9885,7 +9837,7 @@
    "james-earl-major",
    "george-mcgovern"
   ],
-  "no": 412
+  "no": 410
  },
  {
   "slug": "silas-masih",
@@ -9909,7 +9861,7 @@
    "brad-slaughter",
    "joshua-butt"
   ],
-  "no": 413
+  "no": 411
  },
  {
   "slug": "snowden-d-flora",
@@ -9918,7 +9870,7 @@
   "field": "weather",
   "country": "United States",
   "organization": "Weather Bureau / NOAA",
-  "life": "1906–1957",
+  "life": "1879–1957",
   "connection": "His given name Snowden embeds snow, the frozen precipitation he studied as a climatologist.",
   "origin": "",
   "context": "Middle name D.; Flora surname also evokes plant life and nature.",
@@ -9933,7 +9885,7 @@
    "storm-field",
    "elizabeth-weatherhead"
   ],
-  "no": 414
+  "no": 412
  },
  {
   "slug": "wolf-blitzer",
@@ -9957,7 +9909,7 @@
    "marilyn-vos-savant",
    "gabe-pressman"
   ],
-  "no": 415
+  "no": 413
  },
  {
   "slug": "gene-shearer",
@@ -9981,7 +9933,7 @@
    "jocelyn-rose",
    "malcolm-bolton"
   ],
-  "no": 416
+  "no": 414
  },
  {
   "slug": "louis-anatole-la-garde",
@@ -10005,7 +9957,7 @@
    "percival-pott",
    "andre-fang"
   ],
-  "no": 417
+  "no": 415
  },
  {
   "slug": "moses-blah",
@@ -10029,7 +9981,7 @@
    "george-mcgovern",
    "howard-cannon"
   ],
-  "no": 418
+  "no": 416
  },
  {
   "slug": "shabbatai-hakohen",
@@ -10053,7 +10005,7 @@
    "herbert-s-goldstein",
    "yisrael-meir-kagan"
   ],
-  "no": 419
+  "no": 417
  },
  {
   "slug": "simon-gagne",
@@ -10062,7 +10014,7 @@
   "field": "sports",
   "country": "Canada",
   "organization": "Philadelphia Flyers",
-  "life": "1980–2010",
+  "life": "",
   "connection": "Gagné is French for won, apt for an NHL winger who scored 291 goals and won the Stanley Cup.",
   "origin": "French: won",
   "context": "2012 Stanley Cup with Los Angeles Kings.",
@@ -10077,7 +10029,7 @@
    "peter-crouch",
    "ray-guy"
   ],
-  "no": 420
+  "no": 418
  },
  {
   "slug": "tom-lehrer",
@@ -10101,7 +10053,7 @@
    "terry-godlove",
    "laura-knott-twine"
   ],
-  "no": 421
+  "no": 419
  },
  {
   "slug": "bruno-bozzetto",
@@ -10123,9 +10075,9 @@
   "related": [
    "william-makepeace-thackeray",
    "john-leech",
-   "gary-oldman"
+   "alison-light"
   ],
-  "no": 422
+  "no": 420
  },
  {
   "slug": "sting-ray-robb",
@@ -10149,7 +10101,7 @@
    "robert-l-gibson",
    "alper-gezeravci"
   ],
-  "no": 423
+  "no": 421
  },
  {
   "slug": "andrew-waterhouse",
@@ -10173,7 +10125,7 @@
    "malcolm-bolton",
    "ebenezer-emmons"
   ],
-  "no": 424
+  "no": 422
  },
  {
   "slug": "eugenius-outerbridge",
@@ -10182,7 +10134,7 @@
   "field": "transport",
   "country": "United States",
   "organization": "Port Authority of New York and New Jersey",
-  "life": "1867–1932",
+  "life": "1860–1932",
   "connection": "He namesake of the Outerbridge Crossing, the outermost bridge between New York and New Jersey.",
   "origin": "",
   "context": "",
@@ -10197,7 +10149,7 @@
    "alper-gezeravci",
    "george-francis-train"
   ],
-  "no": 425
+  "no": 423
  },
  {
   "slug": "innocent-of-alaska",
@@ -10221,7 +10173,7 @@
    "yisrael-meir-kagan",
    "mikulas-jozef-lexmann"
   ],
-  "no": 426
+  "no": 424
  },
  {
   "slug": "james-earl-major",
@@ -10245,7 +10197,7 @@
    "howard-cannon",
    "james-justice"
   ],
-  "no": 427
+  "no": 425
  },
  {
   "slug": "jocelyn-rose",
@@ -10269,7 +10221,7 @@
    "ebenezer-emmons",
    "victoria-fairweather"
   ],
-  "no": 428
+  "no": 426
  },
  {
   "slug": "malcolm-bolton",
@@ -10293,7 +10245,7 @@
    "victoria-fairweather",
    "aral-okay"
   ],
-  "no": 429
+  "no": 427
  },
  {
   "slug": "ebenezer-emmons",
@@ -10317,7 +10269,7 @@
    "aral-okay",
    "martha-hatch"
   ],
-  "no": 430
+  "no": 428
  },
  {
   "slug": "victoria-fairweather",
@@ -10341,7 +10293,7 @@
    "martha-hatch",
    "forrest-b-lee"
   ],
-  "no": 431
+  "no": 429
  },
  {
   "slug": "george-mcgovern",
@@ -10365,7 +10317,7 @@
    "james-justice",
    "mercy-otis-warren"
   ],
-  "no": 432
+  "no": 430
  },
  {
   "slug": "herbert-s-goldstein",
@@ -10389,7 +10341,7 @@
    "mikulas-jozef-lexmann",
    "naomi-goldstein-cohen"
   ],
-  "no": 433
+  "no": 431
  },
  {
   "slug": "richard-bright",
@@ -10413,7 +10365,7 @@
    "andre-fang",
    "brian-dick"
   ],
-  "no": 434
+  "no": 432
  },
  {
   "slug": "yisrael-meir-kagan",
@@ -10437,7 +10389,7 @@
    "naomi-goldstein-cohen",
    "cotton-mather"
   ],
-  "no": 435
+  "no": 433
  },
  {
   "slug": "aral-okay",
@@ -10461,7 +10413,7 @@
    "forrest-b-lee",
    "andrew-fisher"
   ],
-  "no": 436
+  "no": 434
  },
  {
   "slug": "james-outman",
@@ -10485,7 +10437,7 @@
    "ray-guy",
    "hank-blade"
   ],
-  "no": 437
+  "no": 435
  },
  {
   "slug": "martha-hatch",
@@ -10509,7 +10461,7 @@
    "andrew-fisher",
    "camilla-snowman-andresen"
   ],
-  "no": 438
+  "no": 436
  },
  {
   "slug": "william-baker",
@@ -10533,7 +10485,7 @@
    "usain-bolt",
    "david-bird"
   ],
-  "no": 439
+  "no": 437
  },
  {
   "slug": "forrest-b-lee",
@@ -10557,7 +10509,7 @@
    "camilla-snowman-andresen",
    "price-fishback"
   ],
-  "no": 440
+  "no": 438
  },
  {
   "slug": "joel-parrott",
@@ -10581,7 +10533,7 @@
    "usain-bolt",
    "david-bird"
   ],
-  "no": 441
+  "no": 439
  },
  {
   "slug": "wallace-morrison-graves-jr",
@@ -10605,7 +10557,7 @@
    "usain-bolt",
    "david-bird"
   ],
-  "no": 442
+  "no": 440
  },
  {
   "slug": "william-makepeace-thackeray",
@@ -10626,10 +10578,10 @@
   "translation": false,
   "related": [
    "john-leech",
-   "gary-oldman",
-   "david-loud"
+   "alison-light",
+   "roger-light"
   ],
-  "no": 443
+  "no": 441
  },
  {
   "slug": "mark-gunzinger",
@@ -10653,7 +10605,7 @@
    "george-c-marshall",
    "decimus-junius-brutus-albinus"
   ],
-  "no": 444
+  "no": 442
  },
  {
   "slug": "peter-crouch",
@@ -10677,7 +10629,7 @@
    "hank-blade",
    "andrija-vukovic"
   ],
-  "no": 445
+  "no": 443
  },
  {
   "slug": "ren-newcomer",
@@ -10701,7 +10653,7 @@
    "mario-lek",
    "marco-spijkerman"
   ],
-  "no": 446
+  "no": 444
  },
  {
   "slug": "andrew-fisher",
@@ -10725,7 +10677,7 @@
    "price-fishback",
    "william-gilbert"
   ],
-  "no": 447
+  "no": 445
  },
  {
   "slug": "philander-rodman-jr",
@@ -10749,7 +10701,7 @@
    "decimus-junius-brutus-albinus",
    "zebulon-pike"
   ],
-  "no": 448
+  "no": 446
  },
  {
   "slug": "camilla-snowman-andresen",
@@ -10773,7 +10725,7 @@
    "william-gilbert",
    "scott-hatch"
   ],
-  "no": 449
+  "no": 447
  },
  {
   "slug": "howard-cannon",
@@ -10797,7 +10749,7 @@
    "mercy-otis-warren",
    "fikri-sonmez"
   ],
-  "no": 450
+  "no": 448
  },
  {
   "slug": "price-fishback",
@@ -10821,7 +10773,7 @@
    "scott-hatch",
    "celia-hunter"
   ],
-  "no": 451
+  "no": 449
  },
  {
   "slug": "william-gilbert",
@@ -10845,7 +10797,7 @@
    "celia-hunter",
    "eric-hacker"
   ],
-  "no": 452
+  "no": 450
  },
  {
   "slug": "george-c-marshall",
@@ -10869,7 +10821,7 @@
    "zebulon-pike",
    "andrew-hull-foote"
   ],
-  "no": 453
+  "no": 451
  },
  {
   "slug": "scott-hatch",
@@ -10893,7 +10845,7 @@
    "eric-hacker",
    "sidney-ray"
   ],
-  "no": 454
+  "no": 452
  },
  {
   "slug": "percival-pott",
@@ -10917,7 +10869,7 @@
    "brian-dick",
    "hugh-dick"
   ],
-  "no": 455
+  "no": 453
  },
  {
   "slug": "celia-hunter",
@@ -10941,7 +10893,7 @@
    "sidney-ray",
    "robert-forrest"
   ],
-  "no": 456
+  "no": 454
  },
  {
   "slug": "james-justice",
@@ -10965,7 +10917,7 @@
    "fikri-sonmez",
    "duncan-gay"
   ],
-  "no": 457
+  "no": 455
  },
  {
   "slug": "mercy-otis-warren",
@@ -10989,7 +10941,7 @@
    "duncan-gay",
    "garlich-von-essen"
   ],
-  "no": 458
+  "no": 456
  },
  {
   "slug": "carlo-buontempo",
@@ -11013,7 +10965,7 @@
    "elizabeth-weatherhead",
    "matthew-winter"
   ],
-  "no": 459
+  "no": 457
  },
  {
   "slug": "james-smith",
@@ -11037,7 +10989,7 @@
    "marco-spijkerman",
    "natalie-francesca-woods"
   ],
-  "no": 460
+  "no": 458
  },
  {
   "slug": "fikri-sonmez",
@@ -11061,7 +11013,7 @@
    "garlich-von-essen",
    "lieselot-marinus"
   ],
-  "no": 461
+  "no": 459
  },
  {
   "slug": "john-leech",
@@ -11081,11 +11033,11 @@
   "ironic": false,
   "translation": false,
   "related": [
-   "gary-oldman",
-   "david-loud",
-   "gary-numan"
+   "alison-light",
+   "roger-light",
+   "gary-oldman"
   ],
-  "no": 462
+  "no": 460
  },
  {
   "slug": "fred-karr",
@@ -11107,9 +11059,9 @@
   "related": [
    "terry-godlove",
    "laura-knott-twine",
-   "tom-loveless"
+   "constantinos-daskalakis"
   ],
-  "no": 463
+  "no": 461
  },
  {
   "slug": "andre-fang",
@@ -11121,8 +11073,8 @@
   "life": "",
   "connection": "Fangs are teeth, the focus of dentistry.",
   "origin": "",
-  "context": "",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1902419864, licensed in HI as Dentist.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1902419864",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "teeth",
@@ -11133,7 +11085,7 @@
    "hugh-dick",
    "angel-means"
   ],
-  "no": 464
+  "no": 462
  },
  {
   "slug": "brian-dick",
@@ -11145,8 +11097,8 @@
   "life": "",
   "connection": "Dick is slang for penis, fitting urology.",
   "origin": "",
-  "context": "",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1558936104, licensed in CA as Urology.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1558936104",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "",
@@ -11157,7 +11109,7 @@
    "angel-means",
    "anne-mary-fang"
   ],
-  "no": 465
+  "no": 463
  },
  {
   "slug": "hugh-dick",
@@ -11169,8 +11121,8 @@
   "life": "",
   "connection": "Dick is slang for penis, fitting urology.",
   "origin": "",
-  "context": "",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1457699282, licensed in IA as Urology.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1457699282",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "",
@@ -11181,7 +11133,7 @@
    "anne-mary-fang",
    "james-toothaker"
   ],
-  "no": 466
+  "no": 464
  },
  {
   "slug": "ann-greathouse",
@@ -11205,7 +11157,7 @@
    "wayne-schmuck",
    "dean-boring"
   ],
-  "no": 467
+  "no": 465
  },
  {
   "slug": "mario-lek",
@@ -11229,7 +11181,7 @@
    "natalie-francesca-woods",
    "megan-fox"
   ],
-  "no": 468
+  "no": 466
  },
  {
   "slug": "angel-means",
@@ -11253,7 +11205,7 @@
    "james-toothaker",
    "els-suiker"
   ],
-  "no": 469
+  "no": 467
  },
  {
   "slug": "storm-field",
@@ -11277,7 +11229,7 @@
    "matthew-winter",
    "john-winter"
   ],
-  "no": 470
+  "no": 468
  },
  {
   "slug": "josephine-bacon",
@@ -11301,7 +11253,7 @@
    "joshua-butt",
    "ed-currie"
   ],
-  "no": 471
+  "no": 469
  },
  {
   "slug": "elizabeth-weatherhead",
@@ -11325,7 +11277,7 @@
    "john-winter",
    "braeden-winters"
   ],
-  "no": 472
+  "no": 470
  },
  {
   "slug": "anne-mary-fang",
@@ -11337,8 +11289,8 @@
   "life": "",
   "connection": "Fangs are teeth, central to prosthodontic dentistry.",
   "origin": "",
-  "context": "",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1629176342, licensed in NJ as Dentist, Prosthodontics.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1629176342",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "teeth",
@@ -11349,7 +11301,7 @@
    "els-suiker",
    "bonnie-beaver"
   ],
-  "no": 473
+  "no": 471
  },
  {
   "slug": "john-lawless",
@@ -11373,7 +11325,7 @@
    "john-preston-bailey",
    "william-lawson"
   ],
-  "no": 474
+  "no": 472
  },
  {
   "slug": "terry-godlove",
@@ -11394,10 +11346,10 @@
   "translation": false,
   "related": [
    "laura-knott-twine",
-   "tom-loveless",
-   "constantinos-daskalakis"
+   "constantinos-daskalakis",
+   "micheal-o-cleirigh"
   ],
-  "no": 475
+  "no": 473
  },
  {
   "slug": "james-toothaker",
@@ -11409,8 +11361,8 @@
   "life": "",
   "connection": "Toothaker literally means one who takes or treats teeth.",
   "origin": "",
-  "context": "Verified dentist via NPI; supports Pelham et al. Dennis-dentist pattern.",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1386676377, licensed in OR as Dentist.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1386676377",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "teeth",
@@ -11421,7 +11373,7 @@
    "bonnie-beaver",
    "thomas-edward-kill"
   ],
-  "no": 476
+  "no": 474
  },
  {
   "slug": "els-suiker",
@@ -11445,7 +11397,7 @@
    "thomas-edward-kill",
    "arina-naaktgeboren"
   ],
-  "no": 477
+  "no": 475
  },
  {
   "slug": "marco-spijkerman",
@@ -11469,7 +11421,7 @@
    "megan-fox",
    "victor-martinez"
   ],
-  "no": 478
+  "no": 476
  },
  {
   "slug": "eric-hacker",
@@ -11493,7 +11445,31 @@
    "robert-forrest",
    "gert-oostindie"
   ],
-  "no": 479
+  "no": 477
+ },
+ {
+  "slug": "alison-light",
+  "name": "Alison Light",
+  "occupation": "painter",
+  "field": "arts",
+  "country": "United States",
+  "organization": "",
+  "life": "",
+  "connection": "Light names illumination, apt for a Sarasota abstract painter.",
+  "origin": "",
+  "context": "Person source is a site homepage, self-published.",
+  "source": "https://lightartwork.com/",
+  "sourceLabel": "lightartwork.com",
+  "nameSource": "",
+  "tags": "",
+  "ironic": false,
+  "translation": false,
+  "related": [
+   "roger-light",
+   "gary-oldman",
+   "david-loud"
+  ],
+  "no": 478
  },
  {
   "slug": "laura-knott-twine",
@@ -11513,11 +11489,11 @@
   "ironic": false,
   "translation": false,
   "related": [
-   "tom-loveless",
    "constantinos-daskalakis",
-   "micheal-o-cleirigh"
+   "micheal-o-cleirigh",
+   "roger-printup"
   ],
-  "no": 480
+  "no": 479
  },
  {
   "slug": "officer-pistohl",
@@ -11541,7 +11517,7 @@
    "william-lawson",
    "henry-seiler-wise"
   ],
-  "no": 481
+  "no": 480
  },
  {
   "slug": "bonnie-beaver",
@@ -11564,6 +11540,30 @@
    "thomas-edward-kill",
    "arina-naaktgeboren",
    "richard-limb"
+  ],
+  "no": 481
+ },
+ {
+  "slug": "roger-light",
+  "name": "Roger Light",
+  "occupation": "painter",
+  "field": "arts",
+  "country": "United States",
+  "organization": "",
+  "life": "",
+  "connection": "Light names illumination, central to an oil painter of still lifes.",
+  "origin": "",
+  "context": "Dallas-based fine artist. Person source is a site homepage, self-published.",
+  "source": "https://rogerlight.com/",
+  "sourceLabel": "rogerlight.com",
+  "nameSource": "",
+  "tags": "",
+  "ironic": false,
+  "translation": false,
+  "related": [
+   "gary-oldman",
+   "david-loud",
+   "gary-numan"
   ],
   "no": 482
  },
@@ -12150,7 +12150,7 @@
   "field": "sports",
   "country": "Serbia",
   "organization": "Red Star Belgrade",
-  "life": "1985–2020",
+  "life": "",
   "connection": "Vuković derives from vuk meaning wolf in Serbian.",
   "origin": "Serbian: wolf",
   "context": "Serbia international centre-back.",
@@ -12246,7 +12246,7 @@
   "field": "sports",
   "country": "United States",
   "organization": "",
-  "life": "1956–1983",
+  "life": "",
   "connection": "A walk is a base on balls, undesirable for a pitcher.",
   "origin": "",
   "context": "",
@@ -12318,7 +12318,7 @@
   "field": "science",
   "country": "",
   "organization": "",
-  "life": "1934–2024",
+  "life": "",
   "connection": "He co-authored The Imperial Animal about human nature.",
   "origin": "",
   "context": "",
@@ -12966,11 +12966,11 @@
   "field": "sports",
   "country": "England",
   "organization": "Derbyshire",
-  "life": "1877–1955",
+  "life": "1886–1946",
   "connection": "With Fred Root bowling, scorecards often showed c Beet b Root.",
   "origin": "",
   "context": "Derbyshire wicketkeeper; later Test umpire.",
-  "source": "https://en.wikipedia.org/wiki/George_Beet",
+  "source": "https://en.wikipedia.org/wiki/George_Beet_(cricketer,_born_1886)",
   "sourceLabel": "Wikipedia",
   "nameSource": "",
   "tags": "birds",
@@ -13354,7 +13354,7 @@
   "connection": "Bacigalupo means wolf-wounder in Ligurian, ironic for a goalkeeper.",
   "origin": "Ligurian: wolf-wounder",
   "context": "Brother of Valerio; Genoa and Italy goalkeeper.",
-  "source": "https://en.wikipedia.org/wiki/Bacigalupo",
+  "source": "https://en.wikipedia.org/wiki/Manlio_Bacigalupo",
   "sourceLabel": "Wikipedia",
   "nameSource": "https://en.wikipedia.org/wiki/Bacigalupo",
   "tags": "",
@@ -13819,7 +13819,7 @@
   "related": [
    "daniel-snowman",
    "carl-richard-cavonius",
-   "mark-avery"
+   "mark-price"
   ],
   "no": 576
  },
@@ -13854,7 +13854,7 @@
   "field": "sports",
   "country": "Guyana",
   "organization": "West Indies",
-  "life": "1933–2017",
+  "life": "1933–2019",
   "connection": "His surname is Butcher, fitting the ESPNcricinfo XI of profession surnames.",
   "origin": "",
   "context": "West Indies middle-order batsman of the 1960s.",
@@ -13938,8 +13938,8 @@
   "translation": false,
   "related": [
    "carl-richard-cavonius",
-   "mark-avery",
-   "mark-price"
+   "mark-price",
+   "yong-jae-moon"
   ],
   "no": 581
  },
@@ -14009,9 +14009,9 @@
   "ironic": false,
   "translation": false,
   "related": [
-   "mark-avery",
    "mark-price",
-   "yong-jae-moon"
+   "yong-jae-moon",
+   "hugh-fish"
   ],
   "no": 584
  },
@@ -14046,7 +14046,7 @@
   "field": "sports",
   "country": "England",
   "organization": "Derbyshire",
-  "life": "1886–1954",
+  "life": "1890–1954",
   "connection": "With wicketkeeper George Beet his dismissals read c Beet b Root on scorecards.",
   "origin": "",
   "context": "Three Tests in 1926 Ashes.",
@@ -14208,30 +14208,6 @@
   "no": 592
  },
  {
-  "slug": "mark-avery",
-  "name": "Mark Avery",
-  "occupation": "conservation director",
-  "field": "science",
-  "country": "England",
-  "organization": "RSPB",
-  "life": "",
-  "connection": "His surname relates to birds via aviary, fitting an ornithology conservationist.",
-  "origin": "",
-  "context": "",
-  "source": "https://markavery.info/",
-  "sourceLabel": "markavery.info",
-  "nameSource": "",
-  "tags": "birds",
-  "ironic": false,
-  "translation": false,
-  "related": [
-   "mark-price",
-   "yong-jae-moon",
-   "hugh-fish"
-  ],
-  "no": 593
- },
- {
   "slug": "mark-price",
   "name": "Mark Price",
   "occupation": "labor economist",
@@ -14253,7 +14229,7 @@
    "hugh-fish",
    "john-buschman"
   ],
-  "no": 594
+  "no": 593
  },
  {
   "slug": "michael-henry-lawson",
@@ -14277,7 +14253,7 @@
    "george-f-gunn-jr",
    "john-marshall"
   ],
-  "no": 595
+  "no": 594
  },
  {
   "slug": "ralf-richter",
@@ -14301,7 +14277,7 @@
    "john-marshall",
    "edwin-ford-hunter-jr"
   ],
-  "no": 596
+  "no": 595
  },
  {
   "slug": "brian-runge",
@@ -14325,7 +14301,7 @@
    "oceana-mackenzie",
    "alfred-diver"
   ],
-  "no": 597
+  "no": 596
  },
  {
   "slug": "thomas-hodgkin",
@@ -14349,7 +14325,7 @@
    "paracelsus",
    "chester-stone"
   ],
-  "no": 598
+  "no": 597
  },
  {
   "slug": "megan-fox",
@@ -14373,7 +14349,7 @@
    "matt-beekman",
    "keith-weed"
   ],
-  "no": 599
+  "no": 598
  },
  {
   "slug": "mikulas-jozef-lexmann",
@@ -14397,7 +14373,7 @@
    "cotton-mather",
    "increase-mather"
   ],
-  "no": 600
+  "no": 599
  },
  {
   "slug": "naomi-goldstein-cohen",
@@ -14421,7 +14397,7 @@
    "increase-mather",
    "ian-bishop"
   ],
-  "no": 601
+  "no": 600
  },
  {
   "slug": "yong-jae-moon",
@@ -14445,7 +14421,7 @@
    "john-buschman",
    "gregory-price"
   ],
-  "no": 602
+  "no": 601
  },
  {
   "slug": "armin-jager",
@@ -14469,7 +14445,7 @@
    "alfred-diver",
    "damien-fitzhenry"
   ],
-  "no": 603
+  "no": 602
  },
  {
   "slug": "george-f-gunn-jr",
@@ -14493,7 +14469,7 @@
    "edwin-ford-hunter-jr",
    "john-minor-wisdom"
   ],
-  "no": 604
+  "no": 603
  },
  {
   "slug": "modest-mussorgsky",
@@ -14517,7 +14493,7 @@
    "tuomari-nurmio",
    "quintus-horatius-flaccus"
   ],
-  "no": 605
+  "no": 604
  },
  {
   "slug": "oceana-mackenzie",
@@ -14541,7 +14517,7 @@
    "damien-fitzhenry",
    "derek-jeter"
   ],
-  "no": 606
+  "no": 605
  },
  {
   "slug": "victor-martinez",
@@ -14565,7 +14541,7 @@
    "keith-weed",
    "jason-graves"
   ],
-  "no": 607
+  "no": 606
  },
  {
   "slug": "alfred-diver",
@@ -14589,7 +14565,7 @@
    "derek-jeter",
    "emmanuel-king"
   ],
-  "no": 608
+  "no": 607
  },
  {
   "slug": "damien-fitzhenry",
@@ -14613,7 +14589,7 @@
    "emmanuel-king",
    "andre-wisdom"
   ],
-  "no": 609
+  "no": 608
  },
  {
   "slug": "hugh-fish",
@@ -14637,7 +14613,7 @@
    "gregory-price",
    "edward-tatum"
   ],
-  "no": 610
+  "no": 609
  },
  {
   "slug": "john-buschman",
@@ -14661,7 +14637,7 @@
    "edward-tatum",
    "francis-moon"
   ],
-  "no": 611
+  "no": 610
  },
  {
   "slug": "john-marshall",
@@ -14685,7 +14661,7 @@
    "john-minor-wisdom",
    "reverend-harry-drummond-potter"
   ],
-  "no": 612
+  "no": 611
  },
  {
   "slug": "todd-hunter",
@@ -14709,7 +14685,7 @@
    "william-cash",
    "david-levy"
   ],
-  "no": 613
+  "no": 612
  },
  {
   "slug": "derek-jeter",
@@ -14733,7 +14709,7 @@
    "andre-wisdom",
    "robert-rathbun"
   ],
-  "no": 614
+  "no": 613
  },
  {
   "slug": "duncan-d-hunter",
@@ -14757,7 +14733,7 @@
    "david-levy",
    "duncan-hunter"
   ],
-  "no": 615
+  "no": 614
  },
  {
   "slug": "edwin-ford-hunter-jr",
@@ -14781,7 +14757,7 @@
    "reverend-harry-drummond-potter",
    "sir-gerald-henry-gordon"
   ],
-  "no": 616
+  "no": 615
  },
  {
   "slug": "gregory-price",
@@ -14805,7 +14781,7 @@
    "francis-moon",
    "david-price"
   ],
-  "no": 617
+  "no": 616
  },
  {
   "slug": "edward-tatum",
@@ -14829,7 +14805,7 @@
    "david-price",
    "robert-l-swann"
   ],
-  "no": 618
+  "no": 617
  },
  {
   "slug": "emmanuel-king",
@@ -14853,7 +14829,7 @@
    "robert-rathbun",
    "kim-yu-seok"
   ],
-  "no": 619
+  "no": 618
  },
  {
   "slug": "francis-moon",
@@ -14877,7 +14853,7 @@
    "robert-l-swann",
    "thomas-hunt-morgan"
   ],
-  "no": 620
+  "no": 619
  },
  {
   "slug": "andre-wisdom",
@@ -14901,7 +14877,7 @@
    "kim-yu-seok",
    "grant-balfour"
   ],
-  "no": 621
+  "no": 620
  },
  {
   "slug": "david-price",
@@ -14925,7 +14901,7 @@
    "thomas-hunt-morgan",
    "john-henry-leech"
   ],
-  "no": 622
+  "no": 621
  },
  {
   "slug": "robert-l-swann",
@@ -14949,31 +14925,7 @@
    "john-henry-leech",
    "frances-fry"
   ],
-  "no": 623
- },
- {
-  "slug": "tom-loveless",
-  "name": "Tom Loveless",
-  "occupation": "education researcher",
-  "field": "education",
-  "country": "United States",
-  "organization": "",
-  "life": "",
-  "connection": "Loveless is contrary to the love of learning his Brookings education research explores.",
-  "origin": "",
-  "context": "Former Brookings senior fellow; author of Brown Center Report.",
-  "source": "https://tomloveless.com/",
-  "sourceLabel": "tomloveless.com",
-  "nameSource": "",
-  "tags": "",
-  "ironic": true,
-  "translation": false,
-  "related": [
-   "constantinos-daskalakis",
-   "micheal-o-cleirigh",
-   "roger-printup"
-  ],
-  "no": 624
+  "no": 622
  },
  {
   "slug": "william-cash",
@@ -14997,7 +14949,7 @@
    "duncan-hunter",
    "haji-shaukat-ali-lohar"
   ],
-  "no": 625
+  "no": 623
  },
  {
   "slug": "william-hunter",
@@ -15021,7 +14973,7 @@
    "chester-stone",
    "anthony-stone"
   ],
-  "no": 626
+  "no": 624
  },
  {
   "slug": "david-levy",
@@ -15045,7 +14997,7 @@
    "haji-shaukat-ali-lohar",
    "am-rong"
   ],
-  "no": 627
+  "no": 625
  },
  {
   "slug": "robert-rathbun",
@@ -15069,7 +15021,7 @@
    "grant-balfour",
    "wolfgang-stark"
   ],
-  "no": 628
+  "no": 626
  },
  {
   "slug": "john-minor-wisdom",
@@ -15093,7 +15045,7 @@
    "sir-gerald-henry-gordon",
    "cinderela-rice-guevara"
   ],
-  "no": 629
+  "no": 627
  },
  {
   "slug": "kim-yu-seok",
@@ -15117,7 +15069,7 @@
    "wolfgang-stark",
    "ten-million"
   ],
-  "no": 630
+  "no": 628
  },
  {
   "slug": "thomas-hunt-morgan",
@@ -15141,7 +15093,7 @@
    "frances-fry",
    "joshua-price"
   ],
-  "no": 631
+  "no": 629
  },
  {
   "slug": "duncan-hunter",
@@ -15150,11 +15102,11 @@
   "field": "politics",
   "country": "United States",
   "organization": "United States House of Representatives",
-  "life": "1948–2020",
+  "life": "",
   "connection": "His surname Hunter fits a Marine Corps veteran who served on the Armed Services Committee.",
   "origin": "",
   "context": "",
-  "source": "https://en.wikipedia.org/wiki/Duncan_Hunter",
+  "source": "https://en.wikipedia.org/wiki/Duncan_L._Hunter",
   "sourceLabel": "Wikipedia",
   "nameSource": "",
   "tags": "",
@@ -15165,7 +15117,7 @@
    "am-rong",
    "michael-lord"
   ],
-  "no": 632
+  "no": 630
  },
  {
   "slug": "john-henry-leech",
@@ -15189,7 +15141,7 @@
    "joshua-price",
    "andrew-fountain"
   ],
-  "no": 633
+  "no": 631
  },
  {
   "slug": "reverend-harry-drummond-potter",
@@ -15213,7 +15165,7 @@
    "cinderela-rice-guevara",
    "alf-hitchcock"
   ],
-  "no": 634
+  "no": 632
  },
  {
   "slug": "andre-brooks",
@@ -15237,7 +15189,7 @@
    "frank-field",
    "storm-dunlop"
   ],
-  "no": 635
+  "no": 633
  },
  {
   "slug": "constantinos-daskalakis",
@@ -15259,9 +15211,9 @@
   "related": [
    "micheal-o-cleirigh",
    "roger-printup",
-   "ayn-learn"
+   "tom-loveless"
   ],
-  "no": 636
+  "no": 634
  },
  {
   "slug": "stefano-disegni",
@@ -15285,7 +15237,7 @@
    "quintus-horatius-flaccus",
    "ze-cantor"
   ],
-  "no": 637
+  "no": 635
  },
  {
   "slug": "cotton-mather",
@@ -15309,7 +15261,7 @@
    "ian-bishop",
    "jaime-sin"
   ],
-  "no": 638
+  "no": 636
  },
  {
   "slug": "frances-fry",
@@ -15333,7 +15285,7 @@
    "andrew-fountain",
    "david-snow"
   ],
-  "no": 639
+  "no": 637
  },
  {
   "slug": "sir-gerald-henry-gordon",
@@ -15357,7 +15309,7 @@
    "alf-hitchcock",
    "charles-lawson"
   ],
-  "no": 640
+  "no": 638
  },
  {
   "slug": "increase-mather",
@@ -15381,7 +15333,7 @@
    "jaime-sin",
    "george-berkeley"
   ],
-  "no": 641
+  "no": 639
  },
  {
   "slug": "tuomari-nurmio",
@@ -15405,7 +15357,7 @@
    "ze-cantor",
    "patience-wright"
   ],
-  "no": 642
+  "no": 640
  },
  {
   "slug": "decimus-junius-brutus-albinus",
@@ -15429,7 +15381,7 @@
    "andrew-hull-foote",
    "josh-major"
   ],
-  "no": 643
+  "no": 641
  },
  {
   "slug": "joshua-price",
@@ -15453,7 +15405,7 @@
    "david-snow",
    "jodie-crane"
   ],
-  "no": 644
+  "no": 642
  },
  {
   "slug": "paracelsus",
@@ -15477,7 +15429,7 @@
    "anthony-stone",
    "bruce-stone"
   ],
-  "no": 645
+  "no": 643
  },
  {
   "slug": "quintus-horatius-flaccus",
@@ -15501,7 +15453,7 @@
    "patience-wright",
    "william-hogarth"
   ],
-  "no": 646
+  "no": 644
  },
  {
   "slug": "andrew-fountain",
@@ -15525,7 +15477,7 @@
    "jodie-crane",
    "barbara-snow"
   ],
-  "no": 647
+  "no": 645
  },
  {
   "slug": "grant-balfour",
@@ -15549,7 +15501,7 @@
    "ten-million",
    "paul-anderson"
   ],
-  "no": 648
+  "no": 646
  },
  {
   "slug": "wolfgang-stark",
@@ -15573,7 +15525,7 @@
    "paul-anderson",
    "usain-bolt"
   ],
-  "no": 649
+  "no": 647
  },
  {
   "slug": "david-snow",
@@ -15597,7 +15549,7 @@
    "barbara-snow",
    "john-c-chicken"
   ],
-  "no": 650
+  "no": 648
  },
  {
   "slug": "cinderela-rice-guevara",
@@ -15621,7 +15573,7 @@
    "charles-lawson",
    "igor-judge"
   ],
-  "no": 651
+  "no": 649
  },
  {
   "slug": "zebulon-pike",
@@ -15645,7 +15597,7 @@
    "josh-major",
    "charles-coward"
   ],
-  "no": 652
+  "no": 650
  },
  {
   "slug": "ze-cantor",
@@ -15669,7 +15621,7 @@
    "william-hogarth",
    "twining-lynes"
   ],
-  "no": 653
+  "no": 651
  },
  {
   "slug": "ten-million",
@@ -15693,7 +15645,7 @@
    "usain-bolt",
    "andrew-painter"
   ],
-  "no": 654
+  "no": 652
  },
  {
   "slug": "jodie-crane",
@@ -15717,7 +15669,7 @@
    "john-c-chicken",
    "richard-trench"
   ],
-  "no": 655
+  "no": 653
  },
  {
   "slug": "patience-wright",
@@ -15741,7 +15693,7 @@
    "twining-lynes",
    "francine-prose"
   ],
-  "no": 656
+  "no": 654
  },
  {
   "slug": "barbara-snow",
@@ -15765,7 +15717,7 @@
    "richard-trench",
    "lewis-lipsitt"
   ],
-  "no": 657
+  "no": 655
  },
  {
   "slug": "john-owen-jones",
@@ -15789,7 +15741,7 @@
    "gabe-pressman",
    "peter-taal"
   ],
-  "no": 658
+  "no": 656
  },
  {
   "slug": "alf-hitchcock",
@@ -15813,7 +15765,7 @@
    "igor-judge",
    "sue-yoo"
   ],
-  "no": 659
+  "no": 657
  },
  {
   "slug": "micheal-o-cleirigh",
@@ -15834,10 +15786,10 @@
   "translation": true,
   "related": [
    "roger-printup",
-   "ayn-learn",
-   "p-head"
+   "tom-loveless",
+   "ayn-learn"
   ],
-  "no": 660
+  "no": 658
  },
  {
   "slug": "matt-beekman",
@@ -15861,7 +15813,7 @@
    "jason-graves",
    "josiah-wedgwood"
   ],
-  "no": 661
+  "no": 659
  },
  {
   "slug": "dean-boring",
@@ -15885,7 +15837,7 @@
    "anthony-hazard",
    "pim-visser"
   ],
-  "no": 662
+  "no": 660
  },
  {
   "slug": "chester-stone",
@@ -15897,8 +15849,8 @@
   "life": "",
   "connection": "Stone names calculi treated by urologists.",
   "origin": "",
-  "context": "",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1992797369, licensed in NJ as Urology.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1992797369",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "",
@@ -15907,9 +15859,9 @@
   "related": [
    "anthony-stone",
    "bruce-stone",
-   "michael-koch"
+   "david-gore"
   ],
-  "no": 663
+  "no": 661
  },
  {
   "slug": "anthony-stone",
@@ -15930,10 +15882,10 @@
   "translation": false,
   "related": [
    "bruce-stone",
-   "michael-koch",
-   "benjamin-stone"
+   "david-gore",
+   "dennis-gore"
   ],
-  "no": 664
+  "no": 662
  },
  {
   "slug": "roger-printup",
@@ -15953,11 +15905,11 @@
   "ironic": false,
   "translation": false,
   "related": [
+   "tom-loveless",
    "ayn-learn",
-   "p-head",
-   "david-learn"
+   "p-head"
   ],
-  "no": 665
+  "no": 663
  },
  {
   "slug": "bruce-stone",
@@ -15969,8 +15921,56 @@
   "life": "",
   "connection": "Stone denotes kidney stones managed in urology.",
   "origin": "",
-  "context": "",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1104914050, licensed in CA as Urology.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1104914050",
+  "sourceLabel": "NPI Registry",
+  "nameSource": "",
+  "tags": "",
+  "ironic": false,
+  "translation": false,
+  "related": [
+   "david-gore",
+   "dennis-gore",
+   "michael-koch"
+  ],
+  "no": 664
+ },
+ {
+  "slug": "david-gore",
+  "name": "David Gore",
+  "occupation": "surgeon",
+  "field": "medicine",
+  "country": "United States",
+  "organization": "",
+  "life": "",
+  "connection": "Gore suggests bloodshed associated with surgery.",
+  "origin": "",
+  "context": "NPI 1215035365, licensed in VA as Surgery.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1215035365",
+  "sourceLabel": "NPI Registry",
+  "nameSource": "",
+  "tags": "",
+  "ironic": false,
+  "translation": false,
+  "related": [
+   "dennis-gore",
+   "michael-koch",
+   "benjamin-stone"
+  ],
+  "no": 665
+ },
+ {
+  "slug": "dennis-gore",
+  "name": "Dennis Gore",
+  "occupation": "surgeon",
+  "field": "medicine",
+  "country": "United States",
+  "organization": "",
+  "life": "",
+  "connection": "Gore suggests bloodshed associated with surgery.",
+  "origin": "",
+  "context": "NPI 1427157460, licensed in TX as Surgery.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1427157460",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "",
@@ -15993,8 +15993,8 @@
   "life": "",
   "connection": "Koch sounds like cock, slang for penis, in urology.",
   "origin": "",
-  "context": "",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1821084252, licensed in IN as Urology.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1821084252",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "",
@@ -16017,8 +16017,8 @@
   "life": "",
   "connection": "Stone denotes kidney stones, a core urology condition.",
   "origin": "",
-  "context": "",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1801328778, licensed in SC as Urology.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1801328778",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "",
@@ -16065,8 +16065,8 @@
   "life": "",
   "connection": "Gore denotes bloodshed inherent to critical care surgery.",
   "origin": "",
-  "context": "",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1033409347, licensed in NJ as Surgery, Surgical Critical Care.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1033409347",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "",
@@ -16099,7 +16099,7 @@
   "related": [
    "lewis-lipsitt",
    "graham-saxby",
-   "muriel-watt"
+   "mark-avery"
   ],
   "no": 671
  },
@@ -16113,8 +16113,8 @@
   "life": "",
   "connection": "Blood is a substance nurses routinely handle in clinical care.",
   "origin": "",
-  "context": "Blood surname among physicians listed in Evening Standard; verified RN via NPI.",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1952638967, licensed in WI as Registered Nurse.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1952638967",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "",
@@ -16123,7 +16123,7 @@
   "related": [
    "deborah-couch",
    "kristi-kinder",
-   "richard-carver"
+   "allan-dennis"
   ],
   "no": 672
  },
@@ -16170,8 +16170,8 @@
   "translation": false,
   "related": [
    "graham-saxby",
-   "muriel-watt",
-   "david-bird"
+   "mark-avery",
+   "muriel-watt"
   ],
   "no": 674
  },
@@ -16185,8 +16185,8 @@
   "life": "",
   "connection": "Couch is shorthand for the psychoanalytic couch used in psychiatry.",
   "origin": "",
-  "context": "Psychiatrist Couch cited in New Scientist nominative determinism coverage; verified via NPI registry.",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1639146368, licensed in IL as Psychiatry & Neurology, Psychiatry.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1639146368",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "",
@@ -16194,8 +16194,8 @@
   "translation": false,
   "related": [
    "kristi-kinder",
-   "richard-carver",
-   "d-weedon"
+   "allan-dennis",
+   "richard-carver"
   ],
   "no": 675
  },
@@ -16209,17 +16209,17 @@
   "life": "",
   "connection": "Kinder means children in German, matching her paediatric specialty.",
   "origin": "German kinder, children",
-  "context": "Kinder surname in Limb et al. 2015 paediatrics list.",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1821298357, licensed in MO as Pediatrics, Pediatric Emergency Medicine.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1821298357",
   "sourceLabel": "NPI Registry",
   "nameSource": "https://en.wiktionary.org/wiki/kinder",
   "tags": "",
   "ironic": false,
   "translation": false,
   "related": [
+   "allan-dennis",
    "richard-carver",
-   "d-weedon",
-   "a-j-splatt"
+   "d-weedon"
   ],
   "no": 676
  },
@@ -16272,6 +16272,30 @@
   "no": 678
  },
  {
+  "slug": "allan-dennis",
+  "name": "Allan Dennis",
+  "occupation": "dentist",
+  "field": "medicine",
+  "country": "United States",
+  "organization": "",
+  "life": "",
+  "connection": "Dennis resembles dentist, echoing Pelham et al. implicit egotism finding.",
+  "origin": "",
+  "context": "NPI 1881976181, licensed in LA as Dentist.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1881976181",
+  "sourceLabel": "NPI Registry",
+  "nameSource": "",
+  "tags": "teeth",
+  "ironic": false,
+  "translation": false,
+  "related": [
+   "richard-carver",
+   "d-weedon",
+   "katrina-butcher"
+  ],
+  "no": 679
+ },
+ {
   "slug": "richard-carver",
   "name": "Richard Carver",
   "occupation": "plastic surgeon",
@@ -16281,8 +16305,8 @@
   "life": "",
   "connection": "A carver shapes and cuts material, like a plastic surgeon sculpting tissue.",
   "origin": "",
-  "context": "Carver listed in Limb et al. 2015 plastic surgery examples; verified via NPI.",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1659441491, licensed in SD as Plastic Surgery.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1659441491",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "",
@@ -16290,10 +16314,10 @@
   "translation": false,
   "related": [
    "d-weedon",
-   "a-j-splatt",
-   "alfred-dennis"
+   "katrina-butcher",
+   "a-j-splatt"
   ],
-  "no": 679
+  "no": 680
  },
  {
   "slug": "graham-saxby",
@@ -16313,11 +16337,35 @@
   "ironic": false,
   "translation": false,
   "related": [
+   "mark-avery",
+   "muriel-watt",
+   "david-bird"
+  ],
+  "no": 681
+ },
+ {
+  "slug": "mark-avery",
+  "name": "Mark Avery",
+  "occupation": "conservation director",
+  "field": "science",
+  "country": "England",
+  "organization": "RSPB",
+  "life": "",
+  "connection": "His surname relates to birds via aviary, fitting an ornithology conservationist.",
+  "origin": "",
+  "context": "",
+  "source": "https://markavery.info/",
+  "sourceLabel": "markavery.info",
+  "nameSource": "",
+  "tags": "birds",
+  "ironic": false,
+  "translation": false,
+  "related": [
    "muriel-watt",
    "david-bird",
    "dustin-partridge"
   ],
-  "no": 680
+  "no": 682
  },
  {
   "slug": "d-weedon",
@@ -16337,11 +16385,11 @@
   "ironic": false,
   "translation": false,
   "related": [
+   "katrina-butcher",
    "a-j-splatt",
-   "alfred-dennis",
-   "roger-kneebone"
+   "alfred-dennis"
   ],
-  "no": 681
+  "no": 683
  },
  {
   "slug": "muriel-watt",
@@ -16365,7 +16413,55 @@
    "dustin-partridge",
    "alexander-graham-bell"
   ],
-  "no": 682
+  "no": 684
+ },
+ {
+  "slug": "katrina-butcher",
+  "name": "Katrina Butcher",
+  "occupation": "consultant upper gastrointestinal surgeon",
+  "field": "medicine",
+  "country": "United Kingdom",
+  "organization": "University Hospitals Bristol and Weston NHS Foundation Trust",
+  "life": "",
+  "connection": "Butcher ironically suggests crude cutting though she performs precise upper GI surgery.",
+  "origin": "",
+  "context": "Butcher surname in Limb et al. 2015 general surgery list.",
+  "source": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9387-25-0853",
+  "sourceLabel": "beta.jobs.nhs.uk",
+  "nameSource": "",
+  "tags": "",
+  "ironic": true,
+  "translation": false,
+  "related": [
+   "a-j-splatt",
+   "alfred-dennis",
+   "roger-kneebone"
+  ],
+  "no": 685
+ },
+ {
+  "slug": "tom-loveless",
+  "name": "Tom Loveless",
+  "occupation": "education researcher",
+  "field": "education",
+  "country": "United States",
+  "organization": "",
+  "life": "",
+  "connection": "Loveless is contrary to the love of learning his Brookings education research explores.",
+  "origin": "",
+  "context": "Former Brookings senior fellow; author of Brown Center Report. Person source is a site homepage, self-published.",
+  "source": "https://tomloveless.com/",
+  "sourceLabel": "tomloveless.com",
+  "nameSource": "",
+  "tags": "",
+  "ironic": true,
+  "translation": false,
+  "related": [
+   "ayn-learn",
+   "p-head",
+   "david-learn"
+  ],
+  "no": 686
  },
  {
   "slug": "a-j-splatt",
@@ -16389,7 +16485,7 @@
    "roger-kneebone",
    "russell-brain"
   ],
-  "no": 683
+  "no": 687
  },
  {
   "slug": "twining-lynes",
@@ -16413,7 +16509,7 @@
    "david-w-music",
    "selwyn-image"
   ],
-  "no": 684
+  "no": 688
  },
  {
   "slug": "alfred-dennis",
@@ -16425,8 +16521,8 @@
   "life": "",
   "connection": "Dennis sounds like dentist, matching Pelham et al. finding that Dennises gravitate to dentistry.",
   "origin": "",
-  "context": "Name-first NPI verification of Dennis dentist pattern.",
-  "source": "https://npiregistry.cms.hhs.gov/",
+  "context": "NPI 1821118217, licensed in NJ as Dentist.",
+  "source": "https://npiregistry.cms.hhs.gov/provider-view/1821118217",
   "sourceLabel": "NPI Registry",
   "nameSource": "",
   "tags": "teeth",
@@ -16437,7 +16533,7 @@
    "russell-brain",
    "richard-thomas-chopp"
   ],
-  "no": 685
+  "no": 689
  },
  {
   "slug": "sven-sundgaard",
@@ -16461,7 +16557,7 @@
    "storm-dunlop",
    "sara-blizzard"
   ],
-  "no": 686
+  "no": 690
  },
  {
   "slug": "andrew-hull-foote",
@@ -16485,7 +16581,7 @@
    "charles-coward",
    "nicolae-militaru"
   ],
-  "no": 687
+  "no": 691
  },
  {
   "slug": "paul-anderson",
@@ -16509,7 +16605,7 @@
    "andrew-painter",
    "lance-painter"
   ],
-  "no": 688
+  "no": 692
  },
  {
   "slug": "haji-shaukat-ali-lohar",
@@ -16533,7 +16629,7 @@
    "michael-lord",
    "hennie-de-haan"
   ],
-  "no": 689
+  "no": 693
  },
  {
   "slug": "am-rong",
@@ -16542,7 +16638,7 @@
   "field": "politics",
   "country": "United States",
   "organization": "",
-  "life": "1929–1975",
+  "life": "",
   "connection": "Western journalists noted the irony of a spokesman named Am Rong giving overly optimistic war briefings.",
   "origin": "",
   "context": "Country should be Cambodia not United States. person_source_url was Slate listicle.",
@@ -16557,7 +16653,7 @@
    "hennie-de-haan",
    "herman-dijk"
   ],
-  "no": 690
+  "no": 694
  },
  {
   "slug": "frank-field",
@@ -16566,7 +16662,7 @@
   "field": "weather",
   "country": "United States",
   "organization": "WABC/WCBS New York",
-  "life": "1923–1995",
+  "life": "1923–2023",
   "connection": "His surname is the anglicised form of Feld, German for field, and he became one of American television’s first weather presenters.",
   "origin": "Feld is German for field.",
   "context": "Birth name Franklyn Feld; semantic reading uses professional surname Field.",
@@ -16581,6 +16677,6 @@
    "sara-blizzard",
    "terri-gale"
   ],
-  "no": 691
+  "no": 695
  }
 ]

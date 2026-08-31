@@ -1,0 +1,10 @@
+id,full_name,verdict,new_aptronym_score,new_review_status,new_aptronym_type,new_connection,new_name_origin,new_name_status,new_person_source_url,new_birth_year,new_death_year,new_notes,reason
+apt-0327,Duncan Hunter,fix,,,,,,,https://en.wikipedia.org/wiki/Duncan_L._Hunter,,,,"Pointed the citation at Duncan L. Hunter, born 1948. The bare Duncan Hunter page is a disambiguation."
+apt-0418,George Beet,fix,,,,,,,"https://en.wikipedia.org/wiki/George_Beet_(cricketer,_born_1886)",1886,1946,Derbyshire wicketkeeper; later Test umpire.,"The 1886 Derbyshire wicket-keeper who later umpired, not the 1904 son. Dates were 1877-1955 against nobody on the index."
+apt-0600,Jim McGovern,fix,,,,,,,https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician),1959,NULL,,"The Massachusetts representative in office since 1997, still living. The bare Jim McGovern page is a disambiguation."
+apt-0735,"Leon ""Stormy"" Rottman",reject,,rejected,,,,,,,,Birth name Leon Rottman; Stormy was a station nickname.,Stormy was a station nickname awarded for the weather work. Exclude.
+apt-0779,Manlio Bacigalupo,fix,,,,,,,https://en.wikipedia.org/wiki/Manlio_Bacigalupo,,,Brother of Valerio; Genoa and Italy goalkeeper.,"The surname page is a list of people named Bacigalupo, not a biography."
+apt-0916,Peter Bowler,fix,,,,,,,https://en.wikipedia.org/wiki/Peter_Bowler_(cricketer),1963,NULL,Played 141 first-class matches mainly as a batter.,"The Australian batsman born 1963, not the lexicographer or the historian. Birth year was 1968."
+apt-1009,Robert Odell Owens,fix,,,,,,,,,2013,Same person as Major Owens; listed under birth name.,"Same person as apt-0775 Major Owens. Death is 2013, not the year he left office."
+apt-1191,Valerio Bacigalupo,fix,,,,,,,https://en.wikipedia.org/wiki/Valerio_Bacigalupo,,,Grande Torino goalkeeper; died in Superga air disaster.,"The surname page is a list of people named Bacigalupo, not a biography."
+apt-1282,Gorō Ishiyama,fix,,,,,,,,1948,NULL,Fought as yokozuna Mienoumi Tsuyoshi; 57th yokozuna.,"Same man as Mienoumi Tsuyoshi. Birth is 1948, the year the lead gives for Gorō Ishiyama."

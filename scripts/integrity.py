@@ -10,8 +10,8 @@ handled here in one reproducible pass rather than row by row:
 2. Hedging language in `connection` ("evokes", "faintly", "loosely") marks a link that was
    rationalised rather than observed. Those rows are capped at `borderline`.
 3. Some rows verify a person against a source that cannot establish who they are: a
-   licence-registry lookup, a surname-meaning site, a listicle, a social profile, or a
-   search-results page. Those rows are capped at `probable` and annotated.
+   licence-registry lookup, a surname-meaning site, a listicle, a social profile, a
+   search-results page, or a bare homepage. Those rows are capped and annotated.
 
 Run with --apply to write. Without it, prints the diff it would make.
 """
@@ -26,6 +26,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 MASTER = ROOT / "data" / "aptronyms.csv"
 CORRECTIONS = ROOT / "data" / "audit" / "corrections"
+ENRICHMENT = ROOT / "data" / "wikipedia_enrichment.csv"
 
 RANK = {"rejected": 0, "borderline": 1, "probable": 2, "verified": 3}
 
@@ -77,6 +78,32 @@ SEARCH_PATTERNS = [
     re.compile(r"[?&](q|query|search|s)=", re.IGNORECASE),
     re.compile(r"/search/?$", re.IGNORECASE),
 ]
+
+# Hosts whose individual records sit behind a search form. A citation to the front door of
+# one of these names nobody, and unlike a dead link it will return 200 forever, so the URL
+# check can never surface it.
+DATABASE_HOSTS = {
+    "npiregistry.cms.hhs.gov",
+    "npidb.org",
+    "npino.com",
+    "npiprofile.com",
+    "healthgrades.com",
+    "vitals.com",
+    "doximity.com",
+    "forebears.io",
+    "ancestry.com",
+    "geni.com",
+    "findagrave.com",
+    "boxrec.com",
+    "olympedia.org",
+    "baseball-reference.com",
+    "pro-football-reference.com",
+    "basketball-reference.com",
+    "hockey-reference.com",
+}
+
+# A URL with nothing after the host is a homepage, not a record.
+ROOTLESS = re.compile(r"^https?://[^/?#]+/?$", re.IGNORECASE)
 
 # Wiktionary establishes a word's meaning, never a person's identity.
 WIKTIONARY = re.compile(r"wiktionary\.org", re.IGNORECASE)
@@ -153,6 +180,8 @@ def main() -> None:
         "name_status downgraded": 0,
         "hedged connection capped": 0,
         "weak person source capped": 0,
+        "database homepage as person source capped": 0,
+        "site homepage as person source capped": 0,
         "search-url person source capped": 0,
         "wiktionary as person source capped": 0,
         "country normalised": 0,
@@ -192,6 +221,17 @@ def main() -> None:
         url = row.get("person_source_url", "")
         host = host_of(url)
         if row["review_status"] != "rejected":
+            if ROOTLESS.match(url):
+                # Somebody's own site is self-published but it is at least about them. A
+                # database front door is not: the record it should point at was never cited.
+                if host in DATABASE_HOSTS:
+                    if cap(row, "borderline"):
+                        note(row, "Person source is a database homepage, not an individual record.")
+                        record("database homepage as person source capped", row, f" ({host})")
+                elif cap(row, "probable"):
+                    note(row, "Person source is a site homepage, self-published.")
+                    record("site homepage as person source capped", row, f" ({host})")
+
             if host in WEAK_HOSTS:
                 if cap(row, "probable"):
                     note(row, f"Person source is a {WEAK_HOSTS[host]}.")
@@ -209,6 +249,21 @@ def main() -> None:
         print(f"{count:5}  {key}")
         for ex in examples[key]:
             print(f"         {ex}")
+
+    # In `make rebuild` this sweep runs before the Wikipedia pass, so rule 1 only ever discards
+    # the researchers' unchecked default. Run standalone afterwards, it discards the pass as
+    # well, and the only way back is the network.
+    if counts["name_status downgraded"] and ENRICHMENT.exists():
+        established = sum(
+            1 for r in csv.DictReader(ENRICHMENT.open(encoding="utf-8"))
+            if "name_status=" in r.get("actions", "")
+        )
+        if established:
+            print(
+                f"\nNOTE: {established} name_status values came from the Wikipedia pass and are "
+                "not protected here.\n      Re-run `make enrich` after applying, or run the whole "
+                "pipeline with `make all`."
+            )
 
     if not args.apply:
         print("\ndry run; pass --apply to write")

@@ -1,0 +1,53 @@
+id,full_name,verdict,new_birth_year,new_death_year,reason
+apt-0058,Andrija Vuković,fix,1983,NULL,birth 1986 should be 1983 per the cited article.
+apt-0100,Barny Boatman,fix,1956,NULL,birth 1967 should be 1956 per the cited article.
+apt-0102,Basil Butcher,fix,1933,2019,death 2017 should be 2019 per the cited article.
+apt-0104,Bekim Kastrati,fix,1979,NULL,"birth 1974 should be 1979; death 2009 recorded, lead gives birth only per the cited article."
+apt-0105,Ben Wettervogel,fix,1961,2015,birth 1964 should be 1961 per the cited article.
+apt-0109,Benjamin Rush,fix,1746,1745,birth 1745 should be 1746; death 1813 should be 1745 per the cited article.
+apt-0127,Bob Walk,fix,1956,NULL,"death 1983 recorded, lead gives birth only per the cited article."
+apt-0177,Cecil Fielder,fix,1963,NULL,"death 1988 recorded, lead gives birth only per the cited article."
+apt-0270,David Goodfield,fix,1993,NULL,birth 1995 should be 1993 per the cited article.
+apt-0272,David Hookes,fix,1955,2004,birth 1953 should be 1955 per the cited article.
+apt-0278,David Møller Wolfe,fix,2002,NULL,birth 2005 should be 2002 per the cited article.
+apt-0281,David Rodigan,fix,1951,NULL,birth 1957 should be 1951 per the cited article.
+apt-0287,David W. Music,fix,1949,NULL,birth 1957 should be 1949 per the cited article.
+apt-0299,Derek Kickett,fix,1962,NULL,birth 1969 should be 1962 per the cited article.
+apt-0315,Don Black,fix,1953,NULL,birth 1933 should be 1953 per the cited article.
+apt-0325,Duncan D. Hunter,fix,1976,NULL,birth 1977 should be 1976 per the cited article.
+apt-0369,Eugenius Outerbridge,fix,1860,1932,birth 1867 should be 1860 per the cited article.
+apt-0389,Frank Field,fix,1923,2023,death 1995 should be 2023 per the cited article.
+apt-0395,Fred Root,fix,1890,1954,birth 1886 should be 1890 per the cited article.
+apt-0430,George Pope,fix,1911,1993,birth 1915 should be 1911; death 1968 should be 1993 per the cited article.
+apt-0477,Harold Wordsworth Barber,fix,1887,1955,birth 1886 should be 1887 per the cited article.
+apt-0487,Heather Reid,fix,1969,NULL,birth 1967 should be 1969 per the cited article.
+apt-0547,Jagoš Vuković,fix,1988,NULL,"birth 1985 should be 1988; death 2020 recorded, lead gives birth only per the cited article."
+apt-0624,John Carpenter,fix,1948,NULL,"death 1476 recorded, lead gives birth only per the cited article."
+apt-0627,John de Wolf,fix,1962,NULL,birth 1968 should be 1962 per the cited article.
+apt-0637,John Laws,fix,1935,2025,birth 1945 should be 1935 per the cited article.
+apt-0722,Larry Playfair,fix,1958,NULL,birth 1960 should be 1958 per the cited article.
+apt-0751,Lionel Baker,fix,1984,NULL,birth 1987 should be 1984 per the cited article.
+apt-0756,Lloyd Mints,fix,1888,1989,death 1979 should be 1989 per the cited article.
+apt-0775,Major Owens,fix,1936,2013,death 2007 should be 2013 per the cited article.
+apt-0780,Marc Webb,fix,1974,NULL,birth 1970 should be 1974 per the cited article.
+apt-0795,Mark Butcher,fix,1972,NULL,birth 1973 should be 1972 per the cited article.
+apt-0817,Mat Sadler,fix,1985,NULL,birth 1984 should be 1985 per the cited article.
+apt-0821,Matt Groening,fix,1954,NULL,"death 2023 recorded, lead gives birth only per the cited article."
+apt-0837,Michael Fish,fix,1944,NULL,"death 2023 recorded, lead gives birth only per the cited article."
+apt-0855,Mike Hookem,fix,1953,NULL,birth 1952 should be 1953 per the cited article.
+apt-0870,Nari Contractor,fix,1934,NULL,"birth 1932 should be 1934; death 2022 recorded, lead gives birth only per the cited article."
+apt-0878,Neil Gaiman,fix,1960,NULL,"death 1996 recorded, lead gives birth only per the cited article."
+apt-0887,Norman Conquest,fix,1916,1968,birth 1924 should be 1916 per the cited article.
+apt-0902,Pardeep Narwal,fix,1997,NULL,birth 1993 should be 1997 per the cited article.
+apt-0936,Piloo Reporter,fix,1938,2023,birth 1914 should be 1938; death 1998 should be 2023 per the cited article.
+apt-1030,Roy Blunt,fix,1950,NULL,"death 1993 recorded, lead gives birth only per the cited article."
+apt-1043,Sam Byrd,fix,1906,1981,birth 1907 should be 1906 per the cited article.
+apt-1092,Sina Movahed,fix,2010,NULL,birth 2011 should be 2010 per the cited article.
+apt-1094,Snowden D. Flora,fix,1879,1957,birth 1906 should be 1879 per the cited article.
+apt-1115,Sting,fix,1951,NULL,"death 1984 recorded, lead gives birth only per the cited article."
+apt-1116,Sting Ray Robb,fix,2001,NULL,birth 2002 should be 2001 per the cited article.
+apt-1140,Æthelred the Unready,fix,968,1016,birth 966 should be 968 per the cited article.
+apt-1165,Toby Savin,fix,2001,NULL,birth 2000 should be 2001 per the cited article.
+apt-1279,Éric Gagné,fix,1976,NULL,"death 2004 recorded, lead gives birth only per the cited article."
+apt-1314,Simon Gagné,fix,1980,NULL,"death 2010 recorded, lead gives birth only per the cited article."
+apt-1328,Josh Outman,fix,1984,NULL,"death 2013 recorded, lead gives birth only per the cited article."
